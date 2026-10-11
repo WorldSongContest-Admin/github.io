@@ -1,5 +1,268 @@
 {
   "edition": 48,
-  "automatic_finalist": {"country": "Canada", "final_position": 19, "youtube_id": "C1PAAz4x9vc"},
-  "semifinal_entries": []
+  "automatic_finalist": {
+    "country": "Canada",
+    "final_position": 19,
+    "youtube_id": "C1PAAz4x9vc"
+  },
+  "semifinal_entries": [
+    {
+      "country": "Argentina",
+      "semifinal": 1,
+      "youtube_id": "U1XZmNELweY",
+      "qualified": null
+    },
+    {
+      "country": "Egypt",
+      "semifinal": 1,
+      "youtube_id": "P8Tathr1m5I",
+      "qualified": null
+    },
+    {
+      "country": "United States",
+      "semifinal": 1,
+      "youtube_id": "DLV8FpyxZPQ",
+      "qualified": null
+    },
+    {
+      "country": "Portugal",
+      "semifinal": 1,
+      "youtube_id": "VmfbS4vGBpc",
+      "qualified": null
+    },
+    {
+      "country": "France",
+      "semifinal": 1,
+      "youtube_id": "PYRdJo3cG2Q",
+      "qualified": null
+    },
+    {
+      "country": "Sweden",
+      "semifinal": 1,
+      "youtube_id": "Pb6dsswSTc0",
+      "qualified": null
+    },
+    {
+      "country": "Taiwan",
+      "semifinal": 1,
+      "youtube_id": "yfGbH2glfqI",
+      "qualified": null
+    },
+    {
+      "country": "North Macedonia",
+      "semifinal": 1,
+      "youtube_id": "TtgXlCdu3u0",
+      "qualified": null
+    },
+    {
+      "country": "Japan",
+      "semifinal": 1,
+      "youtube_id": "INv7ytYaM70",
+      "qualified": null
+    },
+    {
+      "country": "South Africa",
+      "semifinal": 1,
+      "youtube_id": "zCy4Iv_4SiY",
+      "qualified": null
+    },
+    {
+      "country": "Netherlands",
+      "semifinal": 1,
+      "youtube_id": "YWKS9MoKb6I",
+      "qualified": null
+    },
+    {
+      "country": "Israel",
+      "semifinal": 1,
+      "youtube_id": "DvfWWvpiSJA",
+      "qualified": null
+    },
+    {
+      "country": "Romania",
+      "semifinal": 1,
+      "youtube_id": "C0Bc0nwSerM",
+      "qualified": null
+    },
+    {
+      "country": "Lithuania",
+      "semifinal": 1,
+      "youtube_id": "TJ2XG1faemc",
+      "qualified": null
+    },
+    {
+      "country": "Belgium",
+      "semifinal": 1,
+      "youtube_id": "SBvw4x80NO0",
+      "qualified": null
+    },
+    {
+      "country": "Estonia",
+      "semifinal": 1,
+      "youtube_id": "cMYceQA_29g",
+      "qualified": null
+    },
+    {
+      "country": "Tanzania",
+      "semifinal": 1,
+      "youtube_id": "Ch4S_pRnMJo",
+      "qualified": null
+    },
+    {
+      "country": "Ethiopia",
+      "semifinal": 1,
+      "youtube_id": "S_We41zmfK0",
+      "qualified": null
+    },
+    {
+      "country": "Spain",
+      "semifinal": 1,
+      "youtube_id": "GY2PEQfHkXw",
+      "qualified": null
+    },
+    {
+      "country": "Italy",
+      "semifinal": 1,
+      "youtube_id": "w-Vow3UcMmg",
+      "qualified": null
+    },
+    {
+      "country": "Bulgaria",
+      "semifinal": 1,
+      "youtube_id": "3Ub1lDFAfwM",
+      "qualified": null
+    },
+    {
+      "country": "Türkiye",
+      "semifinal": 2,
+      "youtube_id": "C38O-4XOykg",
+      "qualified": false
+    },
+    {
+      "country": "Kenya",
+      "semifinal": 2,
+      "youtube_id": "svo7hJ5VNL0",
+      "qualified": false
+    },
+    {
+      "country": "Luxembourg",
+      "semifinal": 2,
+      "youtube_id": "wpDu8WIiJVQ",
+      "qualified": false
+    },
+    {
+      "country": "United Kingdom",
+      "semifinal": 2,
+      "youtube_id": "d5G48OMFUh0",
+      "qualified": true
+    },
+    {
+      "country": "Monaco",
+      "semifinal": 2,
+      "youtube_id": "yq1jChbh6HY",
+      "qualified": true
+    },
+    {
+      "country": "New Zealand",
+      "semifinal": 2,
+      "youtube_id": "hAQlsFPvhSY",
+      "qualified": true
+    },
+    {
+      "country": "Serbia",
+      "semifinal": 2,
+      "youtube_id": "8W55UYTyJg0",
+      "qualified": false
+    },
+    {
+      "country": "Australia",
+      "semifinal": 2,
+      "youtube_id": "3CGMf4QCu1M",
+      "qualified": false
+    },
+    {
+      "country": "Cape Verde",
+      "semifinal": 2,
+      "youtube_id": "XFn7UDCU1zA",
+      "qualified": true
+    },
+    {
+      "country": "Poland",
+      "semifinal": 2,
+      "youtube_id": "97VW70k9mjg",
+      "qualified": true
+    },
+    {
+      "country": "Mozambique",
+      "semifinal": 2,
+      "youtube_id": "HT72AnV7ECU",
+      "qualified": true
+    },
+    {
+      "country": "Cyprus",
+      "semifinal": 2,
+      "youtube_id": "6t2rprjYqAI",
+      "qualified": true
+    },
+    {
+      "country": "Russia",
+      "semifinal": 2,
+      "youtube_id": "OKzav3aWi4I",
+      "qualified": false
+    },
+    {
+      "country": "Greece",
+      "semifinal": 2,
+      "youtube_id": "mWRw2m0477Q",
+      "qualified": false
+    },
+    {
+      "country": "Venezuela",
+      "semifinal": 2,
+      "youtube_id": "07K8MPkdYys",
+      "qualified": true
+    },
+    {
+      "country": "Hungary",
+      "semifinal": 2,
+      "youtube_id": "5TZc4gz4JE4",
+      "qualified": true
+    },
+    {
+      "country": "Iceland",
+      "semifinal": 2,
+      "youtube_id": "rOxZ1_iHTYU",
+      "qualified": false
+    },
+    {
+      "country": "Albania",
+      "semifinal": 2,
+      "youtube_id": "KLskQEQGgyA",
+      "qualified": true
+    },
+    {
+      "country": "Mexico",
+      "semifinal": 2,
+      "youtube_id": "jJnkbGNzbL4",
+      "qualified": false
+    },
+    {
+      "country": "Norway",
+      "semifinal": 2,
+      "youtube_id": "0eTN4n5AKwI",
+      "qualified": false
+    },
+    {
+      "country": "Ukraine",
+      "semifinal": 2,
+      "youtube_id": "tCu__YV550Q",
+      "qualified": true
+    },
+    {
+      "country": "Germany",
+      "semifinal": 2,
+      "youtube_id": "-P_WBT1Uioc",
+      "qualified": true
+    }
+  ]
 }
