@@ -96,7 +96,30 @@ def main():
         print('Test delivered')
         return
     data = json.loads(DATA.read_text())
-    messages = build(data)
+    if args.mode == 'preview':
+    entries = data.get('semifinal_entries', [])
+    for semi, expected in [(1, 21), (2, 22)]:
+        group = [e for e in entries if e.get('semifinal') == semi]
+        if len(group) != expected:
+            raise ValueError(f'Semifinal {semi}: expected {expected} entries')
+
+    print('WSC GenZ 48 | PREVIEW CHECK')
+    print('Canada: automatic finalist, Grand Final position 19')
+
+    for semi in (1, 2):
+        group = [e for e in entries if e['semifinal'] == semi]
+        confirmed = [e for e in group if e.get('qualified') is True]
+        pending = [e for e in group if e.get('qualified') is None]
+        print(f'Semifinal {semi}: {len(group)} entries, '
+              f'{len(confirmed)} confirmed qualifiers, '
+              f'{len(pending)} pending results')
+
+    if any(e.get('qualified') is None for e in entries):
+        print('Full reveal preview unavailable until all votes are confirmed.')
+        print('PREVIEW ONLY: no Discord messages sent')
+        return
+
+messages = build(data)
     if args.mode == 'preview':
         for i, message in enumerate(messages, 1):
             print(f'--- Message {i} ---\n{message}\n')
