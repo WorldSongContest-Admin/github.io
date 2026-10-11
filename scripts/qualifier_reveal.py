@@ -4,6 +4,7 @@ Live mode is deliberately disabled until results are confirmed and a
 persistent, single-use execution guard has been implemented.
 """
 import argparse
+import hashlib
 import json
 import os
 import random
@@ -14,6 +15,8 @@ from pathlib import Path
 
 BASE = Path(__file__).resolve().parents[1]
 DATA = BASE / 'reveal_entries.json'
+# Fixed draw seed: same confirmed results always produce the same reveal order.
+REVEAL_SEED = 'WSC-GENZ-48-QUALIFIER-DRAW-V1'
 
 
 def send(content):
@@ -78,7 +81,14 @@ def validate_entries(data, require_final=False):
 def build(data):
     entries = validate_entries(data, require_final=True)
     qualifiers = [e for e in entries if e['qualified'] is True]
-    rng = random.SystemRandom()
+    # The order is reproducible, rather than changing on every preview.
+    # A change to confirmed results deliberately changes the draw.
+    canonical = json.dumps(
+        sorted([(e['country'], e['semifinal'], e['youtube_id'], e['qualified'])
+                for e in entries]), separators=(',', ':'), ensure_ascii=False
+    )
+    digest = hashlib.sha256((REVEAL_SEED + canonical).encode('utf-8')).hexdigest()
+    rng = random.Random(int(digest, 16))
     finale = {semi: rng.choice([e for e in qualifiers if e['semifinal'] == semi])
               for semi in (1, 2)}
     ordinary = [e for e in qualifiers if e not in finale.values()]
@@ -138,7 +148,8 @@ def main():
     else:
         for index, message in enumerate(build(data), 1):
             print(f'--- Message {index} ---\n{message}\n')
-        print('NOTE: Reveal order is not locked yet; this is a draft sequence.')
+        print('DRAW IS REPRODUCIBLE: unchanged results produce the same announcement sequence.')
+        print('For live use, we will approve and pin the final results and commit before enabling Live.')
     print('PREVIEW ONLY: no Discord messages sent')
 
 
