@@ -1,0 +1,44 @@
+
+name: WSC GenZ Qualifier Reveal
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-discord:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test Discord webhook
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_QUALIFIER_WEBHOOK }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import urllib.request
+
+          webhook = os.environ["DISCORD_WEBHOOK"]
+
+          payload = {
+              "username": "Qualifier Reveal",
+              "content": (
+                  "🧪 **WSC GenZ 48 | Connection Test**\n\n"
+                  "GitHub Actions is connected to Discord!\n\n"
+                  "*This is only a test. No qualifiers have been revealed.*"
+              )
+          }
+
+          request = urllib.request.Request(
+              webhook,
+              data=json.dumps(payload).encode("utf-8"),
+              headers={
+                  "Content-Type": "application/json",
+                  "User-Agent": "WSCGenZ-QualifierReveal/1.0"
+              },
+              method="POST"
+          )
+
+          with urllib.request.urlopen(request, timeout=20) as response:
+              print("Discord response:", response.status)
+          PY
