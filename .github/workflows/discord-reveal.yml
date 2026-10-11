@@ -1,4 +1,3 @@
-
 name: WSC GenZ Qualifier Reveal
 
 on:
@@ -16,9 +15,14 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: wsc-genz-48-qualifier-reveal
+  cancel-in-progress: false
+
 jobs:
   reveal:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
