@@ -1,8 +1,4 @@
-"""WSC GenZ 48 reveal: safe preview and Discord connection test.
-
-Live mode is deliberately disabled until results are confirmed and a
-persistent, single-use execution guard has been implemented.
-"""
+"""WSC GenZ 48 reveal with preview, test and guarded one-time live mode."""
 import argparse
 import hashlib
 import json
@@ -11,12 +7,14 @@ import random
 import time
 import urllib.error
 import urllib.request
+import datetime
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parents[1]
 DATA = BASE / 'reveal_entries.json'
 # Fixed draw seed: same confirmed results always produce the same reveal order.
 REVEAL_SEED = 'WSC-GENZ-48-QUALIFIER-DRAW-V1'
+LOCK_TITLE = 'WSC48-QUALIFIER-REVEAL-LIVE-STARTED-DO-NOT-RESTART'
 
 
 def send(content):
@@ -120,14 +118,55 @@ def build(data):
     return messages
 
 
+def claim_live_once():
+    """Create a durable public GitHub issue BEFORE the first Discord message.
+
+    GitHub Actions concurrency serializes live invocations. The issue survives
+    runner termination, cancellation, and subsequent workflow invocations.
+    If any GitHub API request fails, the reveal fails closed.
+    """
+    token = os.environ.get('GITHUB_TOKEN') or os.environ.get('GH_TOKEN')
+    repo = os.environ.get('GITHUB_REPOSITORY')
+    if not token or not repo or '/' not in repo:
+        raise RuntimeError('Missing GITHUB_TOKEN or GITHUB_REPOSITORY; live blocked')
+    url = f'https://api.github.com/repos/{repo}/issues'
+    headers = {
+        'Authorization': f'Bearer {token}',
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+        'User-Agent': 'WSCGenZ-Reveal/1.0',
+    }
+    # Include closed issues so closing the marker cannot accidentally unlock a rerun.
+    for page in range(1, 11):
+        req = urllib.request.Request(f'{url}?state=all&per_page=100&page={page}', headers=headers)
+        with urllib.request.urlopen(req, timeout=30) as response:
+            issues = json.load(response)
+        if any(issue.get('title') == LOCK_TITLE for issue in issues):
+            raise RuntimeError('Live reveal was already started. Refusing to post again.')
+        if len(issues) < 100:
+            break
+    else:
+        raise RuntimeError('Too many issues to check safely; live blocked')
+    payload = json.dumps({
+        'title': LOCK_TITLE,
+        'body': 'Single-use safety lock for Edition 48. Created BEFORE the first Discord message. '
+                'Do not delete this issue or restart the live workflow. '
+                f'Run: {os.environ.get("GITHUB_RUN_ID", "unknown")}.',
+    }).encode('utf-8')
+    req = urllib.request.Request(url, data=payload, headers={**headers, 'Content-Type': 'application/json'}, method='POST')
+    with urllib.request.urlopen(req, timeout=30) as response:
+        created = json.load(response)
+    if created.get('title') != LOCK_TITLE:
+        raise RuntimeError('Live lock creation could not be confirmed; live blocked')
+    print(f'Persistent one-time lock created: {created.get("html_url")}', flush=True)
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--mode', choices=['preview', 'test', 'live'], required=True)
     parser.add_argument('--confirm', default='')
     args = parser.parse_args()
 
-    if args.mode == 'live':
-        raise RuntimeError('Live reveal is disabled until final results and persistent duplicate protection are ready')
     if args.mode == 'test':
         send('🧪 **WSC GenZ 48 | Test**\nThe reveal connection is working. No qualifiers have been revealed.')
         print('Test delivered')
@@ -135,6 +174,19 @@ def main():
 
     data = json.loads(DATA.read_text(encoding='utf-8'))
     entries = validate_entries(data)
+    if args.mode == 'live':
+        if args.confirm != 'REVEAL48':
+            raise RuntimeError('Live requires exact confirmation REVEAL48')
+        messages = build(data)  # Reject pending or invalid results before creating lock.
+        print(f'Validated {len(messages)} reveal messages for live delivery', flush=True)
+        claim_live_once()  # Durable safety lock; no Discord messages before this succeeds.
+        for i, message in enumerate(messages):
+            send(message)
+            print(f'Sent message {i+1}/{len(messages)}', flush=True)
+            if i < len(messages) - 1:
+                time.sleep(60 if message.startswith('⏳') else 30)
+        print('Live reveal complete', flush=True)
+        return
     print('WSC GenZ 48 | PREVIEW CHECK')
     print('Canada: automatic finalist, Grand Final position 19')
     for semi in (1, 2):
