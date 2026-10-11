@@ -1,3 +1,4 @@
+
 name: WSC GenZ Qualifier Reveal
 
 on:
@@ -34,6 +35,16 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Check GitHub reveal lock
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          echo "Checking GitHub Issues API..."
+          gh api "repos/$GH_REPO/issues?state=all&per_page=100" \
+            --jq '[.[] | select(.title == "WSC48-QUALIFIER-REVEAL-LIVE-STARTED-DO-NOT-RESTART")] | length'
+          echo "GitHub Issues API connection successful."
 
       - name: Run qualifier reveal
         env:
