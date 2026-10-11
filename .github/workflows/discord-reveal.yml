@@ -9,6 +9,7 @@ on:
         options:
           - preview
           - test
+          - live
         default: preview
         required: true
 
