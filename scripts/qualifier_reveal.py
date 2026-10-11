@@ -96,8 +96,8 @@ def main():
         print('Test delivered')
         return
     data = json.loads(DATA.read_text())
-    if args.mode == 'preview':
-    entries = data.get('semifinal_entries', [])
+       if args.mode == 'preview':
+        entries = data.get('semifinal_entries', [])
     for semi, expected in [(1, 21), (2, 22)]:
         group = [e for e in entries if e.get('semifinal') == semi]
         if len(group) != expected:
