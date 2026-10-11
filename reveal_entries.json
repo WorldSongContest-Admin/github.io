@@ -1,3 +1,4 @@
+
 {
   "edition": 48,
   "automatic_finalist": {
@@ -10,127 +11,127 @@
       "country": "Argentina",
       "semifinal": 1,
       "youtube_id": "U1XZmNELweY",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Egypt",
       "semifinal": 1,
       "youtube_id": "P8Tathr1m5I",
-      "qualified": null
+      "qualified": false
     },
     {
       "country": "United States",
       "semifinal": 1,
       "youtube_id": "DLV8FpyxZPQ",
-      "qualified": null
+      "qualified": false
     },
     {
       "country": "Portugal",
       "semifinal": 1,
       "youtube_id": "VmfbS4vGBpc",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "France",
       "semifinal": 1,
       "youtube_id": "PYRdJo3cG2Q",
-      "qualified": null
+      "qualified": false
     },
     {
       "country": "Sweden",
       "semifinal": 1,
       "youtube_id": "Pb6dsswSTc0",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Taiwan",
       "semifinal": 1,
       "youtube_id": "yfGbH2glfqI",
-      "qualified": null
+      "qualified": false
     },
     {
       "country": "North Macedonia",
       "semifinal": 1,
       "youtube_id": "TtgXlCdu3u0",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Japan",
       "semifinal": 1,
       "youtube_id": "INv7ytYaM70",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "South Africa",
       "semifinal": 1,
       "youtube_id": "zCy4Iv_4SiY",
-      "qualified": null
+      "qualified": false
     },
     {
       "country": "Netherlands",
       "semifinal": 1,
       "youtube_id": "YWKS9MoKb6I",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Israel",
       "semifinal": 1,
       "youtube_id": "DvfWWvpiSJA",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Romania",
       "semifinal": 1,
       "youtube_id": "C0Bc0nwSerM",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Lithuania",
       "semifinal": 1,
       "youtube_id": "TJ2XG1faemc",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Belgium",
       "semifinal": 1,
       "youtube_id": "SBvw4x80NO0",
-      "qualified": null
+      "qualified": false
     },
     {
       "country": "Estonia",
       "semifinal": 1,
       "youtube_id": "cMYceQA_29g",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Tanzania",
       "semifinal": 1,
       "youtube_id": "Ch4S_pRnMJo",
-      "qualified": null
+      "qualified": false
     },
     {
       "country": "Ethiopia",
       "semifinal": 1,
       "youtube_id": "S_We41zmfK0",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Spain",
       "semifinal": 1,
       "youtube_id": "GY2PEQfHkXw",
-      "qualified": null
+      "qualified": true
     },
     {
       "country": "Italy",
       "semifinal": 1,
       "youtube_id": "w-Vow3UcMmg",
-      "qualified": null
+      "qualified": false
     },
     {
       "country": "Bulgaria",
       "semifinal": 1,
       "youtube_id": "3Ub1lDFAfwM",
-      "qualified": null
+      "qualified": false
     },
     {
       "country": "Türkiye",
