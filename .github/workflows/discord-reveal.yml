@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "Choose Preview or Test"
+        description: "Preview, Test, or Live (only after results are final)"
         type: choice
         options:
           - preview
@@ -12,6 +12,11 @@ on:
           - live
         default: preview
         required: true
+      confirmation:
+        description: "For Live only, enter REVEAL48 (otherwise leave blank)"
+        type: string
+        default: ""
+        required: false
 
 permissions:
   contents: read
@@ -24,7 +29,7 @@ concurrency:
 jobs:
   reveal:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 35
 
     steps:
       - name: Checkout repository
@@ -36,5 +41,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           MODE: ${{ inputs.mode }}
+          CONFIRM: ${{ inputs.confirmation }}
         run: |
-          python3 scripts/qualifier_reveal.py --mode "$MODE"
+          python3 scripts/qualifier_reveal.py --mode "$MODE" --confirm "$CONFIRM"
