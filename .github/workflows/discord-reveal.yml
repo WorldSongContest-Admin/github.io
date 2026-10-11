@@ -46,6 +46,36 @@ jobs:
             --jq '[.[] | select(.title == "WSC48-QUALIFIER-REVEAL-LIVE-STARTED-DO-NOT-RESTART")] | length'
           echo "GitHub Issues API connection successful."
 
+      - name: Test GitHub Issues write access
+        if: ${{ inputs.mode == 'preview' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+
+          echo "Creating temporary test issue..."
+          ISSUE_NUMBER=$(gh api \
+            --method POST \
+            "repos/$GH_REPO/issues" \
+            -f title="WSC48-SAFETY-TEST-TEMPORARY" \
+            -f body="Temporary permission test. Not the live reveal lock." \
+            --jq '.number')
+
+          echo "Created test issue #$ISSUE_NUMBER"
+
+          echo "Verifying issue exists..."
+          gh api "repos/$GH_REPO/issues/$ISSUE_NUMBER" \
+            --jq '.title'
+
+          echo "Closing test issue..."
+          gh api --method PATCH \
+            "repos/$GH_REPO/issues/$ISSUE_NUMBER" \
+            -f state=closed \
+            --silent
+
+          echo "GitHub Issues write test successful."
+
       - name: Run qualifier reveal
         env:
           DISCORD_QUALIFIER_WEBHOOK: ${{ secrets.DISCORD_QUALIFIER_WEBHOOK }}
