@@ -1,0 +1,12 @@
+name: Discover Earliest WSC Edition Links
+on:
+  push:
+    branches: [research/modern-earliest-links]
+  workflow_dispatch:
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/discover_modern_early_links.py
