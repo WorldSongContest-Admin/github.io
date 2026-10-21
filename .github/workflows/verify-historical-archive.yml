@@ -1,0 +1,28 @@
+name: Verify WSC Historical Archive
+on:
+  pull_request:
+    paths:
+      - 'archive/data/**'
+      - 'scripts/install_historical_archive.py'
+      - '.github/workflows/verify-historical-archive.yml'
+  workflow_dispatch:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check historical JSON files
+        run: |
+          python - <<'PY'
+          import importlib.util
+          from pathlib import Path
+          script = Path('scripts/install_historical_archive.py')
+          spec = importlib.util.spec_from_file_location('wsc_archive_validator', script)
+          mod = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(mod)
+          path = Path('archive/data')
+          if not (path / 'manifest.json').exists():
+              print('Dataset is not yet committed: validation skipped in planning stage')
+          else:
+              mod.validate(path)
+          PY
