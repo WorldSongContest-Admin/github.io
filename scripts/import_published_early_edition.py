@@ -33,10 +33,10 @@ ALIASES={"uk":"unitedkingdom","usa":"unitedstates","czechrep":"czechia",
 def norm(s):return re.sub(r"[^a-z0-9]","",html.unescape(s).casefold())
 def key(s):return ALIASES.get(norm(s),norm(s))
 def ranked(s):
- m=re.fullmatch(r"\\s*(\\d+)(?:st|nd|rd|th)?\\.?\\s*",s,re.I)
+ m=re.fullmatch(r"\s*(\d+)(?:st|nd|rd|th)?\.?\s*",s,re.I)
  return int(m.group(1)) if m else None
 def points(s):
- m=re.fullmatch(r"\\s*(\\d+)\\s*pts?\\s*\\*?\\s*",s,re.I)
+ m=re.fullmatch(r"\s*(\d+)\s*pts?\s*\\*?\s*",s,re.I)
  return int(m.group(1)) if m else None
 def catalogue(n):
  text=Path("index.html").read_text(encoding="utf-8")
@@ -103,7 +103,7 @@ def run(n,url,write=False):
  if write:
   path=Path(f"archive/data/modern/editions/{n:03}.json")
   path.parent.mkdir(parents=True,exist_ok=True)
-  path.write_text(json.dumps({"schema_version":1,"era":"modern","edition_key":f"modern:{n}","edition_number":n,"entries":out},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+  path.write_text(json.dumps({"schema_version":1,"era":"modern","edition_key":f"modern:{n}","edition_number":n,"entries":out},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
   print("EDITION_JSON",json.dumps({"schema_version":1,"era":"modern","edition_key":f"modern:{n}","edition_number":n,"entries":out},ensure_ascii=False,separators=(",",":")))
 
 if __name__=="__main__":
