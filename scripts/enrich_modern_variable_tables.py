@@ -25,7 +25,7 @@ ALIASES={
  "bosniaandherzegovina":"bosniaherzegovina",
 }
 def points(text):
- m=re.fullmatch(r"\\s*(\\d+)\\s*(?:pts?)?\\s*\\*?\\s*",str(text),re.I)
+ m=re.fullmatch(r"\s*(\d+)\s*(?:pts?)?\s*\*?\s*",str(text),re.I)
  return int(m.group(1)) if m else None
 
 def key(name):
