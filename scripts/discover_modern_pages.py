@@ -63,6 +63,12 @@ def main():
             with urlopen(Request(url,headers={"User-Agent":"Mozilla/5.0 (WSC public archive preservation)"}),timeout=12) as r:page=r.read().decode("utf-8","replace")
             p=TableShape();p.feed(page)
             print("EDITION_SHAPE",n,"tables",len(p.counts),"rows",p.counts[:6])
+            if n in (5,11,20,31,40,47):
+                from scripts.import_published_edition6 import Tables
+                q=Tables();q.feed(page)
+                for k,t in enumerate(q.tables[:5]):
+                    print("SAMPLE",n,k,"FIRST",repr(t[:3]),"LAST",repr(t[-1:] ))
+
         except Exception as ex:print("EDITION_SHAPE_ERROR",n,type(ex).__name__)
 
 
