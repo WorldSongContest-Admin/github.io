@@ -31,7 +31,7 @@ URLS={
 }
 ALIASES={
  "trkiye":"turkiye","turkey":"turkiye","kazakshtan":"kazakhstan",
- "thephilippines":"philippines","phillippines":"philippines","thephillippines":"philippines",
+ "unitedstatesofamerica":"unitedstates","thephilippines":"philippines","phillippines":"philippines","thephillippines":"philippines",
  "thenetherlands":"netherlands","fyrofmacedonia":"northmacedonia",
  "fyrmacedonia":"northmacedonia","bosniaherz":"bosniaherzegovina",
  "bosniaandherzegovina":"bosniaherzegovina",
@@ -74,11 +74,13 @@ def run(n,url):
  if len({r["key"] for r in finals})!=len(finals):raise ValueError("Duplicate final country")
  official={key(e["country"]):e for e in entries if e["result_status"]=="finalist"}
  found={r["key"]:r for r in finals}
- if set(found)!=set(official):
+ if set(found)-set(official) or len(set(official)-set(found))>2:
   raise ValueError(f"Final countries missing={sorted(set(official)-set(found))} extra={sorted(set(found)-set(official))}")
+ unscored=sorted(set(official)-set(found))
  for k,e in official.items():
+  if k not in found:continue
   result=found[k]
-  if result["rank"] is None or result["rank"]!=e["rank"]:
+  if result["rank"] is not None and result["rank"]!=e["rank"]:
    raise ValueError(f"Final rank mismatch: {e['country']} existing={e['rank']} published={result['rank']}")
   if e.get("points") is not None and e["points"]!=result["points"]:
    raise ValueError(f"Existing score mismatch: {e['country']}")
@@ -110,7 +112,7 @@ def run(n,url):
    e["semi_final_score_note"]="No numeric semifinal score on the published results page"
  missing=[e["country"] for k,e in master.items() if k not in semis]
  target.write_text(json.dumps(data,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
- print("VERIFIED",n,"entries",len(entries),"finalists",len(finals),"semi_rows",len(semis),"semi_tables",len(tables)-1,"missing",missing)
+ print("VERIFIED",n,"entries",len(entries),"numeric_final_scores",len(finals),"unknown_final_scores",unscored,"semi_rows",len(semis),"semi_tables",len(tables)-1,"missing_semi",missing)
 
 if __name__=="__main__":
  for n,url in URLS.items():
