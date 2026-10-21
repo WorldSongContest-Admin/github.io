@@ -434,7 +434,7 @@
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 29,
       "country": "Armenia",
       "artist_credit": "Iveta Mukuchyan",
       "song_title": "Es Patrast em",
@@ -447,14 +447,15 @@
       "published_result_order": 29,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 42,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:canada",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 33,
       "country": "Canada",
       "artist_credit": "Josiane",
       "song_title": "Last in Line",
@@ -467,14 +468,15 @@
       "published_result_order": 33,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 31,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:china",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 27,
       "country": "China",
       "artist_credit": "Guo Ding",
       "song_title": "_5:15",
@@ -484,17 +486,18 @@
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
       "verification_status": "catalogue_verified_scores_pending",
       "non_qualifier_points": 50,
-      "published_result_order": 25,
+      "published_result_order": 27,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 50,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:estonia",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 35,
       "country": "Estonia",
       "artist_credit": "Holy Motors",
       "song_title": "Sleeprydr",
@@ -507,14 +510,15 @@
       "published_result_order": 35,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 27,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:india",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 28,
       "country": "India",
       "artist_credit": "Anirudh",
       "song_title": "Vikram",
@@ -527,14 +531,15 @@
       "published_result_order": 28,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 43,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:indonesia",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 37,
       "country": "Indonesia",
       "artist_credit": "Fletch",
       "song_title": "Tiga Pagi",
@@ -547,14 +552,15 @@
       "published_result_order": 37,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 24,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:japan",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 26,
       "country": "Japan",
       "artist_credit": "YUKIKA",
       "song_title": "Soul Lady",
@@ -567,14 +573,15 @@
       "published_result_order": 26,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 50,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:mexico",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 34,
       "country": "Mexico",
       "artist_credit": "Thalía",
       "song_title": "Psycho B**ch",
@@ -587,14 +594,15 @@
       "published_result_order": 34,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 30,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:moldova",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 32,
       "country": "Moldova",
       "artist_credit": "Dan Balan",
       "song_title": "Printre Culori",
@@ -607,14 +615,15 @@
       "published_result_order": 32,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 32,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:russia",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 36,
       "country": "Russia",
       "artist_credit": "Klava Koka",
       "song_title": "La La La",
@@ -627,14 +636,15 @@
       "published_result_order": 36,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 27,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:taiwan",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 38,
       "country": "Taiwan",
       "artist_credit": "Matt Hsu’s Obscure Orchestra feat. Chunyan, ILL MO and Cait Lin",
       "song_title": "Welcome To The Neighbourhood: Taiwan",
@@ -647,14 +657,15 @@
       "published_result_order": 38,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 23,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:unitedstates",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 30,
       "country": "United States",
       "artist_credit": "Muni Long",
       "song_title": "Hours & Hours",
@@ -667,14 +678,15 @@
       "published_result_order": 30,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 36,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     },
     {
       "entry_id": "modern:19:venezuela",
       "edition_key": "modern:19",
       "era": "modern",
       "edition_number": 19,
-      "rank": null,
+      "rank": 31,
       "country": "Venezuela",
       "artist_credit": "ELENA ROSE feat Sebastián Yatra",
       "song_title": "Quererte Bonito",
@@ -687,7 +699,8 @@
       "published_result_order": 31,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/",
       "semi_final_points": 35,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; non-qualifier (not final placing)"
     }
   ]
 }
