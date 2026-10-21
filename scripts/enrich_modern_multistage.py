@@ -12,14 +12,10 @@ sys.path.insert(0,str(Path(__file__).resolve().parent))
 from import_published_early_edition import Parser, norm, ranked, points, key as old_key
 
 ROOT=Path(__file__).resolve().parents[1]
-URLS={}
-for n in range(32,47):
- if n==40:continue
- if n<=39:
-  slug="wsc-33" if n==33 else f"wsc-edition-{n}"
-  URLS[n]=f"https://wscgenz.wordpress.com/wsc-genz-31-40/{slug}/"
- else:
-  URLS[n]=f"https://wscgenz.wordpress.com/previous-contests/wsc-genz-41-50/wsc-edition-{n}/"
+URLS={
+28:"https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-28/",
+30:"https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-30/",
+}
 
 def key(s):
  k=old_key(s)
