@@ -801,9 +801,11 @@
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-41",
       "verification_status": "catalogue_verified_scores_pending",
-      "semi_final_points": null,
-      "semi_final_rank": null,
-      "semi_final_score_note": "No numeric semifinal score on the published results page"
+      "semi_final_points": 0,
+      "semi_final_rank": 21,
+      "semi_final_score_note": "No numeric semifinal score on the published results page",
+      "semi_final_held": true,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz-41-50/wsc-edition-41/"
     },
     {
       "entry_id": "modern:41:norway",
