@@ -29,7 +29,7 @@ class Parser(HTMLParser):
    self.depth-=1
 
 ALIASES={"uk":"unitedkingdom","usa":"unitedstates","czechrep":"czechia","czechrepublic":"czechia",
- "nmacedonia":"northmacedonia","bosniaherz":"bosniaherzegovina"}
+ "nmacedonia":"northmacedonia","bosniaherz":"bosniaherzegovina","trkiye":"turkiye","turkey":"turkiye","kazakshtan":"kazakhstan","unitedstatesofamerica":"unitedstates"}
 def norm(s):return re.sub(r"[^a-z0-9]","",html.unescape(s).casefold())
 def key(s):return ALIASES.get(norm(s),norm(s))
 def ranked(s):
@@ -59,7 +59,8 @@ def parse(url):
    for name in names:
     if name in h:return h[name]
    raise ValueError("Required header not found: "+str(names))
-  idx=(0,col("country"),col("artist"),col("song","title"),col("player"),col("points","voted","result"))
+  rank_col=0 if any(ranked(row[0]) is not None for row in table[1:4] if row) else 1
+  idx=(rank_col,col("country"),col("artist"),col("song","title","songtitle"),col("player"),col("points","voted","result","final"))
   rows=table[1:]
  else:
   idx=(0,1,2,3,5,4)
