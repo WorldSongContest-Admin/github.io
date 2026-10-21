@@ -1,0 +1,32 @@
+name: Import WSC Modern Catalogue
+on:
+  push:
+    branches: [feature/country-browse-players]
+    paths:
+      - 'scripts/populate_modern_catalogue.py'
+      - '.github/workflows/populate-modern-catalogue.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  populate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/country-browse-players
+          persist-credentials: true
+      - name: Populate all modern entries without overwriting known scores
+        run: python scripts/populate_modern_catalogue.py
+      - name: Validate all edition data and IDs
+        run: python scripts/validate_unified_results.py
+      - name: Commit only generated archive JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive/data/modern/editions/ archive/data/modern/manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Populate remaining Modern Era editions from existing WSC catalogue"
+            git push origin HEAD:feature/country-browse-players
+          fi
