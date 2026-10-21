@@ -1,0 +1,29 @@
+name: Repair Verified Modern Semifinals
+on:
+  push:
+    branches: [fix/modern-semifinal-completeness]
+    paths:
+      - 'scripts/repair_modern_semifinal_ranks.py'
+      - '.github/workflows/repair-modern-semis.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/modern-semifinal-completeness
+          persist-credentials: true
+      - run: python scripts/repair_modern_semifinal_ranks.py
+      - run: python scripts/validate_unified_results.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive/data/modern/editions/
+          if ! git diff --cached --quiet; then
+            git commit -m "Restore published modern semifinal rankings and points"
+            git push origin HEAD:fix/modern-semifinal-completeness
+          fi

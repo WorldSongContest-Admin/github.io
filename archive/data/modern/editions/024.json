@@ -22,7 +22,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 125,
-      "semi_final_rank": null,
+      "semi_final_rank": 1,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -43,7 +43,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 72,
-      "semi_final_rank": null,
+      "semi_final_rank": 6,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -168,7 +168,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 92,
-      "semi_final_rank": null,
+      "semi_final_rank": 3,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -210,7 +210,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 64,
-      "semi_final_rank": null,
+      "semi_final_rank": 8,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -231,7 +231,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 83,
-      "semi_final_rank": null,
+      "semi_final_rank": 4,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -294,7 +294,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 105,
-      "semi_final_rank": null,
+      "semi_final_rank": 2,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -336,7 +336,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 70,
-      "semi_final_rank": null,
+      "semi_final_rank": 7,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -357,7 +357,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 42,
-      "semi_final_rank": null,
+      "semi_final_rank": 13,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -378,7 +378,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 51,
-      "semi_final_rank": null,
+      "semi_final_rank": 10,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -399,7 +399,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 76,
-      "semi_final_rank": null,
+      "semi_final_rank": 5,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -420,7 +420,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 47,
-      "semi_final_rank": null,
+      "semi_final_rank": 11,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -481,7 +481,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 54,
-      "semi_final_rank": null,
+      "semi_final_rank": 9,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -543,7 +543,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 44,
-      "semi_final_rank": null,
+      "semi_final_rank": 12,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -583,7 +583,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 38,
-      "semi_final_rank": null,
+      "semi_final_rank": 14,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -600,9 +600,11 @@
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
       "verification_status": "catalogue_verified_scores_pending",
-      "semi_final_points": null,
-      "semi_final_rank": null,
-      "semi_final_score_note": "No numeric semifinal score on the published results page"
+      "semi_final_points": 26,
+      "semi_final_rank": 15,
+      "semi_final_score_note": "No numeric semifinal score on the published results page",
+      "semi_final_held": true,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:finland",
@@ -621,7 +623,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 5,
-      "semi_final_rank": null,
+      "semi_final_rank": 19,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -638,9 +640,11 @@
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
       "verification_status": "catalogue_verified_scores_pending",
-      "semi_final_points": null,
-      "semi_final_rank": null,
-      "semi_final_score_note": "No numeric semifinal score on the published results page"
+      "semi_final_points": 24,
+      "semi_final_rank": 16,
+      "semi_final_score_note": "No numeric semifinal score on the published results page",
+      "semi_final_held": true,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:indonesia",
@@ -659,7 +663,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 22,
-      "semi_final_rank": null,
+      "semi_final_rank": 18,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -679,7 +683,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 37,
-      "semi_final_rank": null,
+      "semi_final_rank": 17,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -736,9 +740,11 @@
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
       "verification_status": "catalogue_verified_scores_pending",
-      "semi_final_points": null,
-      "semi_final_rank": null,
-      "semi_final_score_note": "No numeric semifinal score on the published results page"
+      "semi_final_points": 14,
+      "semi_final_rank": 18,
+      "semi_final_score_note": "No numeric semifinal score on the published results page",
+      "semi_final_held": true,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:uruguay",
@@ -757,7 +763,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 38,
-      "semi_final_rank": null,
+      "semi_final_rank": 15,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
@@ -777,7 +783,7 @@
       "semi_final_held": true,
       "semi_final": 1,
       "semi_final_points": 37,
-      "semi_final_rank": null,
+      "semi_final_rank": 16,
       "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     }
   ]
