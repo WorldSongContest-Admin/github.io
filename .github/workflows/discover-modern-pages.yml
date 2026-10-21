@@ -11,6 +11,6 @@ jobs:
       - uses: actions/checkout@v4
       - name: Find public edition page URLs
         run: |
-          python scripts/import_published_early_edition.py 5 https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-5/
-          python scripts/import_published_early_edition.py 11 https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-11/
-          python scripts/discover_modern_pages.py
+          python scripts/import_published_early_edition.py 5 https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-5/ --write
+          python scripts/import_published_early_edition.py 11 https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-11/ --write
+          python -m py_compile scripts/import_published_early_edition.py
