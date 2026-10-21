@@ -58,7 +58,7 @@ def main():
         header=table[0] if table else []
         print('TABLE',i,'ROWS',len(table),'HEADER',repr(header[:12]))
         if table and len(table)>1:
-            print('FIRST_ROW',repr(table[1][:12]))
+            print('FIRST_ROW',repr(table[1][:12])); print('LAST_ROWS',repr(table[-6:]))
     print('TABLES_WITH_POINTS',sum(any(re.search(r'point|pts|score',str(h),re.I) for h in (t[0] if t else [])) for t in p.tables))
 
 if __name__ == '__main__':
