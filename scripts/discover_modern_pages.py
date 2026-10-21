@@ -11,7 +11,7 @@ def get(url):
  with urlopen(Request(url,headers={"User-Agent":"WSC-Public-Results-Indexer/1.0","Accept":"application/json"}),timeout=25) as r:return json.load(r)
 def edition_from_url(url):
  path=urlparse(url).path.lower()
- found=re.search(r"(?:gen-?z[-_ ]*)?edition[-_ ]*(\d+)(?:/|$)",path)
+ found=re.search(r"(?:wsc[-_]?(?:gen[-_]?z[-_]?)?)?(?:edition[-_]?)?(\d+)(?:[-_]?final)?(?:/|$)",path)
  return int(found.group(1)) if found else None
 
 
@@ -40,7 +40,7 @@ def main():
             print("SITE_ROOT",base,"BYTES",len(page),"LINKS",len(urls))
             for url in urls:
                 ed=edition_from_url(url)
-                if ed and ed<=47 and "previous-contests" in url:discovered[ed]=url
+                if ed and ed<=47 and "the-early-years" not in url and "the-rebirth" not in url and ("wsc-gen" in url or "wsc-edition" in url or re.search(r"/wsc-\\d+/",url)):\n                    if ed not in discovered or "final" in url and "final" not in discovered[ed]:discovered[ed]=url
                 elif "wsc-genz" in url or "previous-contests" in url:
                     print("POTENTIAL_CATEGORY_LINK",url[:150])
         except Exception as exc:
