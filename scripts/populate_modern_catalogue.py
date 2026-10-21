@@ -70,8 +70,10 @@ def main():
     "verification_status":"catalogue_verified_scores_pending"
    })
   rankset=sorted(x["rank"] for x in entries if x["rank"] is not None)
+  if len(rankset)!=len(set(rankset)) or any(r<1 for r in rankset):
+   raise ValueError(f"Edition {n} invalid or duplicate final ranks")
   if rankset!=list(range(1,len(rankset)+1)):
-   raise ValueError(f"Edition {n} final ranks not consecutive")
+   print("OFFICIAL_PLACEMENT_GAPS",n,rankset)
   path=ARCHIVE/f"editions/{n:03}.json"
   path.parent.mkdir(parents=True,exist_ok=True)
   path.write_text(json.dumps({"schema_version":1,"era":"modern","edition_key":f"modern:{n}",
