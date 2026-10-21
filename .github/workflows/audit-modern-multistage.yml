@@ -1,0 +1,13 @@
+name: Validate Modern Era Multi-stage Scores
+on:
+  push:
+    branches: [feature/modern-multistage-parser]
+  workflow_dispatch:
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compare published final and semi scores with GitHub catalogue
+        run: python scripts/audit_multistage_published.py
