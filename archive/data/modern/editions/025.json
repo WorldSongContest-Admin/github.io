@@ -376,7 +376,11 @@
       "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-25/",
       "semi_final_points": null,
       "semi_final_rank": null,
-      "semi_final_score_note": "No numeric semifinal score on the published results page"
+      "semi_final_score_note": "No numeric semifinal score on the published results page",
+      "automatic_qualifier": true,
+      "automatic_qualification_reason": "Special direct qualification awarded following edition 24 semi-final spreadsheet error",
+      "automatic_qualification_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": false
     },
     {
       "entry_id": "modern:25:unitedstates",
@@ -415,8 +419,11 @@
       "verification_status": "published_final_crosschecked",
       "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-25/",
       "semi_final_points": null,
-      "semi_final_rank": null,
-      "semi_final_score_note": "No numeric semifinal score on the published results page"
+      "semi_final_rank": 4,
+      "semi_final_score_note": "Fourth in Semi-final 2; points omitted in published table",
+      "semi_final": 2,
+      "semi_final_held": true,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-25/"
     },
     {
       "entry_id": "modern:25:saudiarabia",
@@ -519,7 +526,11 @@
       "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-25/",
       "semi_final_points": null,
       "semi_final_rank": null,
-      "semi_final_score_note": "No numeric semifinal score on the published results page"
+      "semi_final_score_note": "No numeric semifinal score on the published results page",
+      "automatic_qualifier": true,
+      "automatic_qualification_reason": "Special direct qualification awarded following edition 24 semi-final spreadsheet error",
+      "automatic_qualification_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": false
     },
     {
       "entry_id": "modern:25:argentina",
