@@ -50,5 +50,20 @@ def main():
     print("EDITION_URL_COUNT",len(discovered))
     for n,url in sorted(discovered.items()):print("EDITION_URL",n,url)
     print("EDITION_URL_MISSING",*[i for i in range(1,48) if i not in discovered])
+    from html.parser import HTMLParser
+    class TableShape(HTMLParser):
+        def __init__(self):super().__init__();self.t=0;self.n=0;self.counts=[]
+        def handle_starttag(self,tag,attrs):
+            if tag=="table":self.t+=1;self.n=0
+            elif tag=="tr" and self.t:self.n+=1
+        def handle_endtag(self,tag):
+            if tag=="table" and self.t:self.counts.append(self.n);self.t-=1
+    for n,url in sorted(discovered.items()):
+        try:
+            with urlopen(Request(url,headers={"User-Agent":"Mozilla/5.0 (WSC public archive preservation)"}),timeout=12) as r:page=r.read().decode("utf-8","replace")
+            p=TableShape();p.feed(page)
+            print("EDITION_SHAPE",n,"tables",len(p.counts),"rows",p.counts[:6])
+        except Exception as ex:print("EDITION_SHAPE_ERROR",n,type(ex).__name__)
+
 
 if __name__=="__main__":main()
