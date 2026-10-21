@@ -10,4 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Inspect public Edition 6 results layout
-        run: python scripts/audit_public_wordpress_scores.py
+        run: |
+          python scripts/audit_public_wordpress_scores.py
+          python scripts/import_published_edition6.py
