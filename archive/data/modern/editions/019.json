@@ -14,10 +14,12 @@
       "artist_credit": "Nakhane ft. ANOHNI",
       "song_title": "New Brighton",
       "player": "Samuel",
-      "points": null,
+      "points": 119,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 1,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:turkiye",
@@ -29,10 +31,12 @@
       "artist_credit": "The Away Days",
       "song_title": "Seninle Sonbahar",
       "player": "Kaz",
-      "points": null,
+      "points": 107,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 2,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:israel",
@@ -44,10 +48,12 @@
       "artist_credit": "KAYMA",
       "song_title": "Learn to Say No",
       "player": "Rami",
-      "points": null,
+      "points": 107,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 3,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:ukraine",
@@ -59,10 +65,12 @@
       "artist_credit": "Lilu45",
       "song_title": "In broken wires (У рваних дротах)",
       "player": "Vasyl",
-      "points": null,
+      "points": 104,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 4,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:egypt",
@@ -74,10 +82,12 @@
       "artist_credit": "Nesma Maghoub",
       "song_title": "Kol Shams W Liha Del",
       "player": "Ahmad",
-      "points": null,
+      "points": 103,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 5,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:spain",
@@ -89,10 +99,12 @@
       "artist_credit": "Blanca Paloma",
       "song_title": "Niña de Fuego",
       "player": "Robert",
-      "points": null,
+      "points": 96,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 6,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:finland",
@@ -104,10 +116,12 @@
       "artist_credit": "Chisu",
       "song_title": "Mysteeri",
       "player": "Ivan",
-      "points": null,
+      "points": 89,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 7,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:unitedkingdom",
@@ -119,10 +133,12 @@
       "artist_credit": "Alewya",
       "song_title": "Play",
       "player": "Dimi",
-      "points": null,
+      "points": 86,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 8,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:poland",
@@ -134,10 +150,12 @@
       "artist_credit": "Lor",
       "song_title": "Nikt",
       "player": "Kai",
-      "points": null,
+      "points": 77,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 9,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:sweden",
@@ -149,10 +167,12 @@
       "artist_credit": "GRANT",
       "song_title": "Catcher in the Rye",
       "player": "Tim",
-      "points": null,
+      "points": 76,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 10,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:argentina",
@@ -164,10 +184,12 @@
       "artist_credit": "Nación Ekeko ft Julieta Venegas",
       "song_title": "El Paraíso",
       "player": "Christ",
-      "points": null,
+      "points": 76,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 11,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:bosniaherzegovina",
@@ -179,10 +201,12 @@
       "artist_credit": "Divanhana",
       "song_title": "Ćilim",
       "player": "Anel",
-      "points": null,
+      "points": 71,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 12,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:france",
@@ -194,10 +218,12 @@
       "artist_credit": "Lucky Love",
       "song_title": "Paradise",
       "player": "Nicolas",
-      "points": null,
+      "points": 68,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 13,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:czechia",
@@ -209,10 +235,12 @@
       "artist_credit": "Vladivojna La Chia",
       "song_title": "Objetí panenky Marie",
       "player": "Michiel",
-      "points": null,
+      "points": 65,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 14,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:serbia",
@@ -224,10 +252,12 @@
       "artist_credit": "Aco Pejović & Suzana Branković feat. Aleksandar Sofronijević Orchestra",
       "song_title": "Ponoć",
       "player": "Aleksandar",
-      "points": null,
+      "points": 59,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 15,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:italy",
@@ -239,10 +269,12 @@
       "artist_credit": "Annalisa",
       "song_title": "Bellissima",
       "player": "Deo",
-      "points": null,
+      "points": 56,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 16,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:monaco",
@@ -254,10 +286,12 @@
       "artist_credit": "Clara Luciani",
       "song_title": "Respire Encore",
       "player": "Felipe",
-      "points": null,
+      "points": 49,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 17,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:portugal",
@@ -269,10 +303,12 @@
       "artist_credit": "Mimi Froes & Miguel Carmona",
       "song_title": "Entre Namorados",
       "player": "Sanio",
-      "points": null,
+      "points": 48,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 18,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:denmark",
@@ -284,10 +320,12 @@
       "artist_credit": "BATHSHEBA",
       "song_title": "Something About Her",
       "player": "David",
-      "points": null,
+      "points": 43,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 19,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:philippines",
@@ -299,10 +337,12 @@
       "artist_credit": "Maymay Entrata",
       "song_title": "Puede ba",
       "player": "Jammil",
-      "points": null,
+      "points": 39,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 20,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:brazil",
@@ -314,10 +354,12 @@
       "artist_credit": "Reação",
       "song_title": "Erga-se",
       "player": "Rodolfo",
-      "points": null,
+      "points": 36,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 21,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:norway",
@@ -329,10 +371,12 @@
       "artist_credit": "Rúnahild & Audrey",
       "song_title": "Primitive",
       "player": "Amanda",
-      "points": null,
+      "points": 35,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 22,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:greece",
@@ -344,10 +388,12 @@
       "artist_credit": "Nafsica",
       "song_title": "Mia Kardia",
       "player": "Dean",
-      "points": null,
+      "points": 31,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 23,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:netherlands",
@@ -359,10 +405,12 @@
       "artist_credit": "Lola Cedès",
       "song_title": "Vliegen",
       "player": "Jay",
-      "points": null,
+      "points": 30,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 24,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:southkorea",
@@ -374,10 +422,12 @@
       "artist_credit": "Pixy",
       "song_title": "Bewitched",
       "player": "Ângie",
-      "points": null,
+      "points": 25,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "published_result_order": 25,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:armenia",
@@ -392,7 +442,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 42,
+      "published_result_order": 29,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:canada",
@@ -407,7 +460,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 31,
+      "published_result_order": 33,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:china",
@@ -422,7 +478,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 50,
+      "published_result_order": 25,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:estonia",
@@ -437,7 +496,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 27,
+      "published_result_order": 35,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:india",
@@ -452,7 +514,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 43,
+      "published_result_order": 28,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:indonesia",
@@ -467,7 +532,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 24,
+      "published_result_order": 37,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:japan",
@@ -482,7 +550,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 50,
+      "published_result_order": 26,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:mexico",
@@ -497,7 +568,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 30,
+      "published_result_order": 34,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:moldova",
@@ -512,7 +586,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 32,
+      "published_result_order": 32,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:russia",
@@ -527,7 +604,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 27,
+      "published_result_order": 36,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:taiwan",
@@ -542,7 +622,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 23,
+      "published_result_order": 38,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:unitedstates",
@@ -557,7 +640,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 36,
+      "published_result_order": 30,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     },
     {
       "entry_id": "modern:19:venezuela",
@@ -572,7 +658,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-19",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "non_qualifier_points": 35,
+      "published_result_order": 31,
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-19/"
     }
   ]
 }
