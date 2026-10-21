@@ -14,23 +14,39 @@ def edition_from_url(url):
  found=re.search(r"(?:gen-?z[-_ ]*)?edition[-_ ]*(\d+)(?:/|$)",path)
  return int(found.group(1)) if found else None
 
+
 def main():
- discovered={}
- for source in ("wordpress-v2","wordpress-public-api"):
-  for page in range(1,5):
-   try:
-    obj=get((WP if source=="wordpress-v2" else API).format(page))
-   except Exception as exc:
-    print("ENDPOINT_STOP",source,page,type(exc).__name__)
-    break
-   items=obj.get("pages",[]) if isinstance(obj,dict) else obj
-   if not items:break
-   for item in items:
-    url=item.get("link") or item.get("URL") or ""
-    ed=edition_from_url(url)
-    if ed and ed<=47:discovered[ed]=url
- print("EDITION_URL_COUNT",len(discovered))
- for n,url in sorted(discovered.items()):print("EDITION_URL",n,url)
- print("EDITION_URL_MISSING",*[i for i in range(1,48) if i not in discovered])
+    from html.parser import HTMLParser
+    from urllib.parse import urljoin
+    class Links(HTMLParser):
+        def __init__(self):super().__init__();self.links=[]
+        def handle_starttag(self,tag,attrs):
+            if tag=="a":
+                href=dict(attrs).get("href")
+                if href:self.links.append(href)
+    discovered={}
+    roots=[
+      "https://wscgenz.wordpress.com/previous-contests/",
+      "https://wscgenz.wordpress.com/wp-sitemap-posts-page-1.xml",
+      "https://wscgenz.wordpress.com/sitemap.xml",
+    ]
+    for base in roots:
+        try:
+            with urlopen(Request(base,headers={"User-Agent":"Mozilla/5.0 (WSC public archive preservation)"}),timeout=18) as r:
+                page=r.read().decode("utf-8","replace")
+            links=Links();links.feed(page)
+            urls=[urljoin(base,u) for u in links.links]
+            urls+=re.findall(r'<loc>(.*?)</loc>',page,re.I|re.S)
+            print("SITE_ROOT",base,"BYTES",len(page),"LINKS",len(urls))
+            for url in urls:
+                ed=edition_from_url(url)
+                if ed and ed<=47 and "previous-contests" in url:discovered[ed]=url
+                elif "wsc-genz" in url or "previous-contests" in url:
+                    print("POTENTIAL_CATEGORY_LINK",url[:150])
+        except Exception as exc:
+            print("ROOT_UNAVAILABLE",base,type(exc).__name__)
+    print("EDITION_URL_COUNT",len(discovered))
+    for n,url in sorted(discovered.items()):print("EDITION_URL",n,url)
+    print("EDITION_URL_MISSING",*[i for i in range(1,48) if i not in discovered])
 
 if __name__=="__main__":main()
