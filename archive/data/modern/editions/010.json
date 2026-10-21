@@ -485,7 +485,7 @@
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 32,
       "country": "Albania",
       "artist_credit": "Semi Jaupaj",
       "song_title": "Jetike",
@@ -498,14 +498,15 @@
       "published_result_order": 32,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 47,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:argentina",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 33,
       "country": "Argentina",
       "artist_credit": "Connie Isla ft Muerdo",
       "song_title": "Yo soy",
@@ -518,14 +519,15 @@
       "published_result_order": 33,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 48,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:brazil",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 40,
       "country": "Brazil",
       "artist_credit": "GA31 by CMS",
       "song_title": "Samba Digital (Tocando a Vagina)",
@@ -538,14 +540,15 @@
       "published_result_order": 40,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 39,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:canada",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 34,
       "country": "Canada",
       "artist_credit": "Faouzia",
       "song_title": "Hero",
@@ -558,14 +561,15 @@
       "published_result_order": 34,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 47,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:chile",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 37,
       "country": "Chile",
       "artist_credit": "Cami",
       "song_title": "Perreo pa las Nenas",
@@ -578,14 +582,15 @@
       "published_result_order": 37,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 45,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:cyprus",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 35,
       "country": "Cyprus",
       "artist_credit": "Tamta x Stephane Legar",
       "song_title": "Yala",
@@ -598,14 +603,15 @@
       "published_result_order": 35,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 47,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:czechia",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 43,
       "country": "Czechia",
       "artist_credit": "Bruno Ferrari",
       "song_title": "I spend the last money for your coke",
@@ -618,14 +624,15 @@
       "published_result_order": 43,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 37,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:egypt",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 47,
       "country": "Egypt",
       "artist_credit": "Ahmed Kamel",
       "song_title": "3ala 3eeni",
@@ -638,14 +645,15 @@
       "published_result_order": 47,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 25,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:greece",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 39,
       "country": "Greece",
       "artist_credit": "Christos Mastoras",
       "song_title": "An",
@@ -658,14 +666,15 @@
       "published_result_order": 39,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 40,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:india",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 46,
       "country": "India",
       "artist_credit": "Sukh-E Muzical Doctorz ft Aastha Gill",
       "song_title": "Video Bana De",
@@ -678,14 +687,15 @@
       "published_result_order": 46,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 29,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:monaco",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 31,
       "country": "Monaco",
       "artist_credit": "Mauvais Oeil",
       "song_title": "Crève-cœur",
@@ -698,14 +708,15 @@
       "published_result_order": 31,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 53,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:morocco",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 44,
       "country": "Morocco",
       "artist_credit": "Saad Lamjarred",
       "song_title": "CASABLANCA",
@@ -718,14 +729,15 @@
       "published_result_order": 44,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 34,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:sanmarino",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 30,
       "country": "San Marino",
       "artist_credit": "Michele Bravi & Sophie and the Giants",
       "song_title": "Falene",
@@ -738,14 +750,15 @@
       "published_result_order": 30,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 54,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:taiwan",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 42,
       "country": "Taiwan",
       "artist_credit": "Aaron Yan",
       "song_title": "Metropolis",
@@ -758,14 +771,15 @@
       "published_result_order": 42,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 38,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:thailand",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 45,
       "country": "Thailand",
       "artist_credit": "ALLY ft Gray",
       "song_title": "How to love",
@@ -778,14 +792,15 @@
       "published_result_order": 45,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 29,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:turkiye",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 41,
       "country": "Türkiye",
       "artist_credit": "Bülent Ersoy",
       "song_title": "Ümit Hırsızı",
@@ -798,14 +813,15 @@
       "published_result_order": 41,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 39,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:unitedkingdom",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 38,
       "country": "United Kingdom",
       "artist_credit": "Fred again..",
       "song_title": "Marea (We've lost dancing)",
@@ -818,14 +834,15 @@
       "published_result_order": 38,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 42,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:unitedstates",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 36,
       "country": "United States",
       "artist_credit": "Aly & AJ",
       "song_title": "Don't go changing",
@@ -838,14 +855,15 @@
       "published_result_order": 36,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 45,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:10:venezuela",
       "edition_key": "modern:10",
       "era": "modern",
       "edition_number": 10,
-      "rank": null,
+      "rank": 29,
       "country": "Venezuela",
       "artist_credit": "Pía Páez",
       "song_title": "Dale Candela al Fuego",
@@ -858,7 +876,8 @@
       "published_result_order": 29,
       "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-10/",
       "semi_final_points": 55,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     }
   ]
 }
