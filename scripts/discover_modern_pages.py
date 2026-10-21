@@ -12,8 +12,8 @@ def get(url):
 def edition_from_url(url):
  path=urlparse(url).path.lower().rstrip("/")
  name=path.rsplit("/",1)[-1]
- if len(re.findall(r"\\d+",name))!=1:return None
- m=re.search(r"(?:edition|wsc|genz)[-_]?(\\d+)(?:[-_]final)?$",name)
+ if len(re.findall(r"\d+",name))!=1:return None
+ m=re.search(r"(?:edition|wsc|genz)[-_]?(\d+)(?:[-_]final)?$",name)
  return int(m.group(1)) if m else None
 
 def main():
