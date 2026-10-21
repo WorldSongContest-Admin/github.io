@@ -377,7 +377,9 @@
       "published_result_order": 22,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 58,
+      "semi_final_points_source": "published_non_qualifier_result"
     },
     {
       "entry_id": "modern:14:canada",
@@ -394,7 +396,9 @@
       "published_result_order": 28,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 42,
+      "semi_final_points_source": "published_non_qualifier_result"
     },
     {
       "entry_id": "modern:14:chile",
@@ -411,7 +415,9 @@
       "published_result_order": 29,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 42,
+      "semi_final_points_source": "published_non_qualifier_result"
     },
     {
       "entry_id": "modern:14:japan",
@@ -428,7 +434,9 @@
       "published_result_order": 25,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 48,
+      "semi_final_points_source": "published_non_qualifier_result"
     },
     {
       "entry_id": "modern:14:kazakhstan",
@@ -445,7 +453,9 @@
       "published_result_order": 30,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 31,
+      "semi_final_points_source": "published_non_qualifier_result"
     },
     {
       "entry_id": "modern:14:mexico",
@@ -462,7 +472,9 @@
       "published_result_order": 27,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 45,
+      "semi_final_points_source": "published_non_qualifier_result"
     },
     {
       "entry_id": "modern:14:netherlands",
@@ -479,7 +491,9 @@
       "published_result_order": 26,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 48,
+      "semi_final_points_source": "published_non_qualifier_result"
     },
     {
       "entry_id": "modern:14:serbia",
@@ -496,7 +510,9 @@
       "published_result_order": 31,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 30,
+      "semi_final_points_source": "published_non_qualifier_result"
     },
     {
       "entry_id": "modern:14:southafrica",
@@ -513,7 +529,9 @@
       "published_result_order": 23,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 51,
+      "semi_final_points_source": "published_non_qualifier_result"
     },
     {
       "entry_id": "modern:14:sweden",
@@ -530,7 +548,9 @@
       "published_result_order": 24,
       "result_status": "non_qualifier",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_points": 49,
+      "semi_final_points_source": "published_non_qualifier_result"
     }
   ]
 }
