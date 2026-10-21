@@ -59,9 +59,9 @@ def fetch_public_results():
     if len(p.tables)!=1:raise ValueError(f"Expected one WordPress table, got {len(p.tables)}")
     result={}
     for row in p.tables[0]:
-        if len(row)<6 or not re.fullmatch(r"\\d+\\.",row[0]):continue
+        if len(row)<6 or not re.fullmatch(r"\d+\.",row[0]):continue
         rank=int(row[0][:-1]);country,artist,song,pt,player=row[1:6]
-        found=re.fullmatch(r"(\\d+)\\s*pts?",pt.strip(),re.I)
+        found=re.fullmatch(r"(\d+)\s*pts?",pt.strip(),re.I)
         if not found:raise ValueError("Unrecognised points label for "+country)
         key=country_key(country)
         if key in result:raise ValueError("Duplicate public country "+country)
@@ -97,7 +97,7 @@ def convert():
     output=Path("archive/data/modern/editions/006.json")
     output.parent.mkdir(parents=True,exist_ok=True)
     output.write_text(json.dumps({"schema_version":1,"era":"modern","edition_key":"modern:6",
-                                  "edition_number":6,"entries":entries},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+                                  "edition_number":6,"entries":entries},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("PASS_EDITION_6: 46 entries, 25 finalists, 21 nonqualifiers; final points isolated from nonqualifier points")
     print("JSON_BASE64_BEGIN")
     import base64
