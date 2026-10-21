@@ -1,0 +1,16 @@
+name: Discover WSC Public Edition Pages
+on:
+  push:
+    branches: [feature/batch-modern-published-scores]
+  workflow_dispatch:
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Find public edition page URLs
+        run: |
+          python scripts/import_published_early_edition.py 5 https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-5/ --write
+          python scripts/import_published_early_edition.py 11 https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-11/ --write
+          python -m py_compile scripts/import_published_early_edition.py

@@ -2,14 +2,26 @@
   "schema_version": 1,
   "competition": "World Song Contest",
   "era": "modern",
-  "edition_count": 2,
-  "entry_count": 87,
+  "edition_count": 4,
+  "entry_count": 153,
   "editions": [
+    {
+      "edition_key": "modern:5",
+      "edition_number": 5,
+      "entries": 22,
+      "path": "editions/005.json"
+    },
     {
       "edition_key": "modern:6",
       "edition_number": 6,
       "entries": 46,
       "path": "editions/006.json"
+    },
+    {
+      "edition_key": "modern:11",
+      "edition_number": 11,
+      "entries": 44,
+      "path": "editions/011.json"
     },
     {
       "edition_key": "modern:47",

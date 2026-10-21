@@ -1,0 +1,77 @@
+#!/usr/bin/env python3
+"""Discover already-published WSC edition page URLs. No results or votes are modified."""
+import json,re
+from urllib.request import Request,urlopen
+from urllib.parse import urlparse
+from html import unescape
+
+API="https://public-api.wordpress.com/rest/v1.1/sites/wscgenz.wordpress.com/pages/?number=100&page={}"
+WP="https://wscgenz.wordpress.com/wp-json/wp/v2/pages?per_page=100&page={}"
+def get(url):
+ with urlopen(Request(url,headers={"User-Agent":"WSC-Public-Results-Indexer/1.0","Accept":"application/json"}),timeout=25) as r:return json.load(r)
+def edition_from_url(url):
+ path=urlparse(url).path.lower().rstrip("/")
+ name=path.rsplit("/",1)[-1]
+ if len(re.findall(r"\d+",name))!=1:return None
+ m=re.search(r"(?:edition|wsc|genz)[-_]?(\d+)(?:[-_]final)?$",name)
+ return int(m.group(1)) if m else None
+
+def main():
+    from html.parser import HTMLParser
+    from urllib.parse import urljoin
+    class Links(HTMLParser):
+        def __init__(self):super().__init__();self.links=[]
+        def handle_starttag(self,tag,attrs):
+            if tag=="a":
+                href=dict(attrs).get("href")
+                if href:self.links.append(href)
+    discovered={}
+    roots=[
+      "https://wscgenz.wordpress.com/previous-contests/",
+      "https://wscgenz.wordpress.com/wp-sitemap-posts-page-1.xml",
+      "https://wscgenz.wordpress.com/sitemap.xml",
+    ]
+    for base in roots:
+        try:
+            with urlopen(Request(base,headers={"User-Agent":"Mozilla/5.0 (WSC public archive preservation)"}),timeout=18) as r:
+                page=r.read().decode("utf-8","replace")
+            links=Links();links.feed(page)
+            urls=[urljoin(base,u) for u in links.links]
+            urls+=re.findall(r'<loc>(.*?)</loc>',page,re.I|re.S)
+            print("SITE_ROOT",base,"BYTES",len(page),"LINKS",len(urls))
+            for url in urls:
+                ed=edition_from_url(url)
+                if ed and ed<=47 and "the-early-years" not in url and "the-rebirth" not in url:
+                    if ed not in discovered or "final" in url and "final" not in discovered[ed]:discovered[ed]=url
+                elif "wsc-genz" in url or "previous-contests" in url:
+                    print("POTENTIAL_CATEGORY_LINK",url[:150])
+        except Exception as exc:
+            print("ROOT_UNAVAILABLE",base,type(exc).__name__)
+    print("EDITION_URL_COUNT",len(discovered))
+    for n,url in sorted(discovered.items()):print("EDITION_URL",n,url)
+    print("EDITION_URL_MISSING",*[i for i in range(1,48) if i not in discovered])
+    from html.parser import HTMLParser
+    class TableShape(HTMLParser):
+        def __init__(self):super().__init__();self.t=0;self.n=0;self.counts=[]
+        def handle_starttag(self,tag,attrs):
+            if tag=="table":self.t+=1;self.n=0
+            elif tag=="tr" and self.t:self.n+=1
+        def handle_endtag(self,tag):
+            if tag=="table" and self.t:self.counts.append(self.n);self.t-=1
+    for n,url in sorted(discovered.items()):
+        try:
+            with urlopen(Request(url,headers={"User-Agent":"Mozilla/5.0 (WSC public archive preservation)"}),timeout=12) as r:page=r.read().decode("utf-8","replace")
+            p=TableShape();p.feed(page)
+            print("EDITION_SHAPE",n,"tables",len(p.counts),"rows",p.counts[:6])
+            if n in (5,11,20,31,40,47):
+                from html import unescape
+                blocks=re.findall(r"<table\b[^>]*>(.*?)</table>",page,re.S|re.I)
+                for k,b in enumerate(blocks[:5]):
+                    trs=re.findall(r"<tr\b[^>]*>(.*?)</tr>",b,re.S|re.I)
+                    rows=[[" ".join(unescape(re.sub(r"<[^>]+>"," ",cell)).split()) for cell in re.findall(r"<t[dh]\b[^>]*>(.*?)</t[dh]>",tr,re.S|re.I)] for tr in trs]
+                    print("SAMPLE",n,k,"FIRST",repr(rows[:3]),"LAST",repr(rows[-1:]))
+
+        except Exception as ex:print("EDITION_SHAPE_ERROR",n,type(ex).__name__)
+
+
+if __name__=="__main__":main()
