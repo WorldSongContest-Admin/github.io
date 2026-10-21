@@ -14,10 +14,16 @@
       "artist_credit": "Cyrillic",
       "song_title": "Sevda",
       "player": "Zlatko",
-      "points": null,
+      "points": 140,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 83,
+      "semi_final_rank": 5,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:venezuela",
@@ -29,10 +35,16 @@
       "artist_credit": "Nella & YEИDRY",
       "song_title": "Ve inte Años",
       "player": "Pedro",
-      "points": null,
+      "points": 123,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 104,
+      "semi_final_rank": 1,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:canada",
@@ -44,10 +56,16 @@
       "artist_credit": "Lemon Bucket Orchestra",
       "song_title": "Cuckoo",
       "player": "Philippe",
-      "points": null,
+      "points": 122,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 81,
+      "semi_final_rank": 2,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:sweden",
@@ -59,10 +77,16 @@
       "artist_credit": "NiwrianCreature",
       "song_title": "Hummingbirds",
       "player": "Tim",
-      "points": null,
+      "points": 115,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 94,
+      "semi_final_rank": 3,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:france",
@@ -74,10 +98,16 @@
       "artist_credit": "Marie Plassard",
       "song_title": "Ivre (Version Acoustique)",
       "player": "Nicolas",
-      "points": null,
+      "points": 111,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 55,
+      "semi_final_rank": 10,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:greece",
@@ -89,10 +119,16 @@
       "artist_credit": "Alkyone",
       "song_title": "Oh Mother",
       "player": "Dean",
-      "points": null,
+      "points": 107,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 85,
+      "semi_final_rank": 1,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:japan",
@@ -104,10 +140,16 @@
       "artist_credit": "ZOMBIE-CHANG",
       "song_title": "T’inquiète pas feat. Agar Agar",
       "player": "Tom",
-      "points": null,
+      "points": 97,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 89,
+      "semi_final_rank": 4,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:unitedkingdom",
@@ -119,10 +161,16 @@
       "artist_credit": "Raye",
       "song_title": "Genesis",
       "player": "Dimi",
-      "points": null,
+      "points": 96,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 74,
+      "semi_final_rank": 4,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:argentina",
@@ -134,10 +182,16 @@
       "artist_credit": "Chita",
       "song_title": "Maldito Mio",
       "player": "Christian",
-      "points": null,
+      "points": 84,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 97,
+      "semi_final_rank": 2,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:egypt",
@@ -149,10 +203,16 @@
       "artist_credit": "Henna Choir Group",
       "song_title": "Lielet Henna",
       "player": "Ahmad",
-      "points": null,
+      "points": 77,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 69,
+      "semi_final_rank": 7,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:china",
@@ -164,10 +224,16 @@
       "artist_credit": "Tzusing",
       "song_title": "Exascale",
       "player": "Vianney",
-      "points": null,
+      "points": 75,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 52,
+      "semi_final_rank": 9,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:spain",
@@ -179,10 +245,16 @@
       "artist_credit": "Judeline",
       "song_title": "Mangata",
       "player": "Robert",
-      "points": null,
+      "points": 68,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 64,
+      "semi_final_rank": 7,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:slovakia",
@@ -194,10 +266,16 @@
       "artist_credit": "5etra",
       "song_title": "We Belong",
       "player": "Rafiki",
-      "points": null,
+      "points": 66,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 50,
+      "semi_final_rank": 12,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:syria",
@@ -209,10 +287,16 @@
       "artist_credit": "Assasi",
       "song_title": "Cowboy Milfada",
       "player": "Illar",
-      "points": null,
+      "points": 63,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 48,
+      "semi_final_rank": 11,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:israel",
@@ -224,10 +308,16 @@
       "artist_credit": "Eitan Peled & No/Me",
       "song_title": "King Kong",
       "player": "Rami",
-      "points": null,
+      "points": 63,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 73,
+      "semi_final_rank": 5,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:italy",
@@ -239,10 +329,16 @@
       "artist_credit": "Cucina Sonora",
       "song_title": "Basta Poco ft N.A.I.P.",
       "player": "Matt",
-      "points": null,
+      "points": 63,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 79,
+      "semi_final_rank": 6,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:serbia",
@@ -254,10 +350,16 @@
       "artist_credit": "Luka Rajić",
       "song_title": "Slobodan pad",
       "player": "Marcel",
-      "points": null,
+      "points": 54,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 75,
+      "semi_final_rank": 3,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:poland",
@@ -269,10 +371,16 @@
       "artist_credit": "Błękitno",
       "song_title": "Burza",
       "player": "Kai",
-      "points": null,
+      "points": 53,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 64,
+      "semi_final_rank": 6,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:kazakhstan",
@@ -284,10 +392,16 @@
       "artist_credit": "Marhaba Sabi",
       "song_title": "Nirvana",
       "player": "Gulira",
-      "points": null,
+      "points": 51,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 58,
+      "semi_final_rank": 9,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:bosniaherzegovina",
@@ -299,10 +413,16 @@
       "artist_credit": "Helem Nejse & Amira Medunjanin",
       "song_title": "Ruža",
       "player": "Anel",
-      "points": null,
+      "points": 42,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 52,
+      "semi_final_rank": 11,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:ukraine",
@@ -314,10 +434,16 @@
       "artist_credit": "Dagadana",
       "song_title": "Goi Ty nasha Pani",
       "player": "Vassyl",
-      "points": null,
+      "points": 42,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 63,
+      "semi_final_rank": 8,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:portugal",
@@ -329,10 +455,16 @@
       "artist_credit": "Diogo Piçarra",
       "song_title": "Sorriso",
       "player": "Manuel",
-      "points": null,
+      "points": 39,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 52,
+      "semi_final_rank": 10,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:iran",
@@ -347,7 +479,10 @@
       "points": null,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_points": null,
+      "semi_final_rank": null,
+      "semi_final_score_note": "No numeric semifinal score on the published results page"
     },
     {
       "entry_id": "modern:32:switzerland",
@@ -359,10 +494,14 @@
       "artist_credit": "Linda Elys",
       "song_title": "Hurry",
       "player": "Herbert",
-      "points": null,
+      "points": 26,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_points": null,
+      "semi_final_rank": null,
+      "semi_final_score_note": "No numeric semifinal score on the published results page"
     },
     {
       "entry_id": "modern:32:monaco",
@@ -374,10 +513,16 @@
       "artist_credit": "Puzzle",
       "song_title": "Clémentine",
       "player": "Felipe",
-      "points": null,
+      "points": 19,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 47,
+      "semi_final_rank": 12,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:albania",
@@ -392,7 +537,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 34,
+      "semi_final_rank": 17,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:australia",
@@ -407,7 +557,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 27,
+      "semi_final_rank": 18,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:germany",
@@ -422,7 +577,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 38,
+      "semi_final_rank": 14,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:mexico",
@@ -437,7 +597,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 33,
+      "semi_final_rank": 16,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:netherlands",
@@ -452,7 +617,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 44,
+      "semi_final_rank": 13,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:norway",
@@ -467,7 +637,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 40,
+      "semi_final_rank": 16,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:romania",
@@ -482,7 +657,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 30,
+      "semi_final_rank": 17,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:russia",
@@ -497,7 +677,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 34,
+      "semi_final_rank": 18,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:southafrica",
@@ -512,7 +697,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 42,
+      "semi_final_rank": 15,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:southkorea",
@@ -527,7 +717,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 37,
+      "semi_final_rank": 15,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:turkiye",
@@ -542,7 +737,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 43,
+      "semi_final_rank": 14,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:unitedstates",
@@ -557,7 +757,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 45,
+      "semi_final_rank": 13,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     },
     {
       "entry_id": "modern:32:uruguay",
@@ -572,7 +777,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-32",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 16,
+      "semi_final_rank": 19,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-32/"
     }
   ]
 }

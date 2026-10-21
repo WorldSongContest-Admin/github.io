@@ -14,10 +14,16 @@
       "artist_credit": "Don Couto & Melisa Castellanos",
       "song_title": "Negro Santo",
       "player": "Adad",
-      "points": null,
+      "points": 121,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 125,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:unitedkingdom",
@@ -29,10 +35,16 @@
       "artist_credit": "Mari Mathias",
       "song_title": "Annwn",
       "player": "Dimi",
-      "points": null,
+      "points": 118,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 72,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:france",
@@ -44,10 +56,16 @@
       "artist_credit": "Cindy Pooch",
       "song_title": "Issemou",
       "player": "Nicolas",
-      "points": null,
+      "points": 117,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 72,
+      "semi_final_rank": 4,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:argentina",
@@ -59,10 +77,16 @@
       "artist_credit": "Axel Krygier",
       "song_title": "Rapsodia Sueca",
       "player": "Christian",
-      "points": null,
+      "points": 104,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 68,
+      "semi_final_rank": 5,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:taiwan",
@@ -74,10 +98,16 @@
       "artist_credit": "Joanna Wang",
       "song_title": "Apple Blossom",
       "player": "Tom",
-      "points": null,
+      "points": 99,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 102,
+      "semi_final_rank": 1,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:portugal",
@@ -89,10 +119,16 @@
       "artist_credit": "Carolina Deslandes",
       "song_title": "Carolina",
       "player": "Manuel",
-      "points": null,
+      "points": 99,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 101,
+      "semi_final_rank": 2,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:netherlands",
@@ -104,10 +140,16 @@
       "artist_credit": "Son Mieux",
       "song_title": "Tell Me More",
       "player": "Jay",
-      "points": null,
+      "points": 98,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 65,
+      "semi_final_rank": 7,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:ukraine",
@@ -122,7 +164,12 @@
       "points": null,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 92,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:norway",
@@ -134,10 +181,16 @@
       "artist_credit": "Moyka",
       "song_title": "Already Gone",
       "player": "Amanda",
-      "points": null,
+      "points": 86,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 66,
+      "semi_final_rank": 6,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:spain",
@@ -149,10 +202,16 @@
       "artist_credit": "Sabela",
       "song_title": "Peligro de Extinción",
       "player": "Robert",
-      "points": null,
+      "points": 84,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 64,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:sweden",
@@ -164,10 +223,16 @@
       "artist_credit": "Big Fox",
       "song_title": "Beast",
       "player": "Tim",
-      "points": null,
+      "points": 78,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 83,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:southkorea",
@@ -179,10 +244,16 @@
       "artist_credit": "Cacophony",
       "song_title": "Comme un poisson dans le ciel",
       "player": "Ângie",
-      "points": null,
+      "points": 77,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 49,
+      "semi_final_rank": 8,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:czechia",
@@ -194,10 +265,16 @@
       "artist_credit": "Deloraine",
       "song_title": "Nilfgaard",
       "player": "Michiel",
-      "points": null,
+      "points": 75,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 82,
+      "semi_final_rank": 3,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:australia",
@@ -209,10 +286,16 @@
       "artist_credit": "Lastlings",
       "song_title": "Holding Me Like Water",
       "player": "David",
-      "points": null,
+      "points": 64,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 105,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:saudiarabia",
@@ -224,10 +307,16 @@
       "artist_credit": "ana.n7n",
       "song_title": "Al Rakhees",
       "player": "Illar",
-      "points": null,
+      "points": 60,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 48,
+      "semi_final_rank": 9,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:iceland",
@@ -239,10 +328,16 @@
       "artist_credit": "Nanna",
       "song_title": "Crybaby",
       "player": "Zlatko",
-      "points": null,
+      "points": 54,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 70,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:japan",
@@ -254,10 +349,16 @@
       "artist_credit": "REOL",
       "song_title": "Ten To One",
       "player": "Vianney",
-      "points": null,
+      "points": 46,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 42,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:turkiye",
@@ -269,10 +370,16 @@
       "artist_credit": "Ah Komos! & Melis Güven",
       "song_title": "bildiğim yere",
       "player": "Kaz",
-      "points": null,
+      "points": 41,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 51,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:monaco",
@@ -284,10 +391,16 @@
       "artist_credit": "MAI LAN",
       "song_title": "Pumper",
       "player": "Felipe",
-      "points": null,
+      "points": 38,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 76,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:mali",
@@ -299,10 +412,16 @@
       "artist_credit": "AD Montana",
       "song_title": "Douawou",
       "player": "Ivan",
-      "points": null,
+      "points": 25,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 47,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:serbia",
@@ -314,10 +433,14 @@
       "artist_credit": "dram",
       "song_title": "Nije sve kao što izgleda",
       "player": "Aleksandar",
-      "points": null,
+      "points": 24,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_points": null,
+      "semi_final_rank": null,
+      "semi_final_score_note": "No numeric semifinal score on the published results page"
     },
     {
       "entry_id": "modern:24:vietnam",
@@ -329,10 +452,16 @@
       "artist_credit": "Hoàng Thùy Linh",
       "song_title": "Trưởng Nữ Chạy Trốn",
       "player": "Jammil",
-      "points": null,
+      "points": 23,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 27,
+      "semi_final_rank": 13,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:belgium",
@@ -344,10 +473,16 @@
       "artist_credit": "Loïc Nottet",
       "song_title": "Heartbreaker",
       "player": "Tijs",
-      "points": null,
+      "points": 21,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 54,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:poland",
@@ -359,10 +494,16 @@
       "artist_credit": "Mrozu, Igo & Vito Bambino",
       "song_title": "Supermoce",
       "player": "Kai",
-      "points": null,
+      "points": 20,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 37,
+      "semi_final_rank": 10,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:egypt",
@@ -374,10 +515,16 @@
       "artist_credit": "Massar Egbari",
       "song_title": "Habet Tabtaba",
       "player": "Ahmad",
-      "points": null,
+      "points": 18,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 30,
+      "semi_final_rank": 12,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:armenia",
@@ -392,7 +539,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 44,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:bosniaherzegovina",
@@ -407,7 +559,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 36,
+      "semi_final_rank": 11,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:brazil",
@@ -422,7 +579,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 38,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:colombia",
@@ -437,7 +599,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_points": null,
+      "semi_final_rank": null,
+      "semi_final_score_note": "No numeric semifinal score on the published results page"
     },
     {
       "entry_id": "modern:24:finland",
@@ -452,7 +617,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 5,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:greece",
@@ -467,7 +637,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_points": null,
+      "semi_final_rank": null,
+      "semi_final_score_note": "No numeric semifinal score on the published results page"
     },
     {
       "entry_id": "modern:24:indonesia",
@@ -482,7 +655,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 22,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:israel",
@@ -497,7 +675,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 37,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:italy",
@@ -512,7 +695,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 26,
+      "semi_final_rank": 14,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:moldova",
@@ -527,7 +715,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 2,
+      "semi_final_points": 21,
+      "semi_final_rank": 17,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:unitedstates",
@@ -542,7 +735,10 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_points": null,
+      "semi_final_rank": null,
+      "semi_final_score_note": "No numeric semifinal score on the published results page"
     },
     {
       "entry_id": "modern:24:uruguay",
@@ -557,7 +753,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 38,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     },
     {
       "entry_id": "modern:24:venezuela",
@@ -572,7 +773,12 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-24",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final_held": true,
+      "semi_final": 1,
+      "semi_final_points": 37,
+      "semi_final_rank": null,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/"
     }
   ]
 }
