@@ -9,7 +9,7 @@ let entries=[],filtered=[],page=0,sort='edition_number',dir=1;
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const lowercase=x=>String(x??'').toLocaleLowerCase();
 const countryKey=x=>lowercase(x).normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]/g,'');
-const countryAliases={usa:'unitedstates',unitedstatesofamerica:'unitedstates',uk:'unitedkingdom',turkey:'turkiye',trkiye:'turkiye',czechrepublic:'czechia',czechrep:'czechia',bosniaandherzegovina:'bosniaherzegovina',northmacedonia:'northmacedonia',frymacedonia:'northmacedonia',thephilippines:'philippines',phillippines:'philippines',thephillippines:'philippines',thenetherlands:'netherlands'};
+const countryAliases={usa:'unitedstates',unitedstatesofamerica:'unitedstates',uk:'unitedkingdom',turkey:'turkiye',trkiye:'turkiye',czechrepublic:'czechia',czechrep:'czechia',bosniaandherzegovina:'bosniaherzegovina',northmacedonia:'northmacedonia',frymacedonia:'northmacedonia',fyrmacedonia:'northmacedonia',fyrofmacedonia:'northmacedonia',formeryugoslavRepublicOfMacedonia:'northmacedonia',thephilippines:'philippines',phillippines:'philippines',thephillippines:'philippines',thenetherlands:'netherlands'};
 const standardCountry=x=>countryAliases[countryKey(x)]||countryKey(x);
 const has=(value,id)=>!$(id).value.trim()||lowercase(value).includes(lowercase($(id).value.trim()));
 const exact=(value,id)=>{const search=$(id).value.trim();return !search||(value!==null&&value!==undefined&&Number.isFinite(Number(value))&&Number(value)===Number(search));};
