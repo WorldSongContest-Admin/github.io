@@ -2,9 +2,33 @@
   "schema_version": 1,
   "competition": "World Song Contest",
   "era": "modern",
-  "edition_count": 4,
-  "entry_count": 153,
+  "edition_count": 47,
+  "entry_count": 1877,
   "editions": [
+    {
+      "edition_key": "modern:1",
+      "edition_number": 1,
+      "entries": 56,
+      "path": "editions/001.json"
+    },
+    {
+      "edition_key": "modern:2",
+      "edition_number": 2,
+      "entries": 60,
+      "path": "editions/002.json"
+    },
+    {
+      "edition_key": "modern:3",
+      "edition_number": 3,
+      "entries": 49,
+      "path": "editions/003.json"
+    },
+    {
+      "edition_key": "modern:4",
+      "edition_number": 4,
+      "entries": 39,
+      "path": "editions/004.json"
+    },
     {
       "edition_key": "modern:5",
       "edition_number": 5,
@@ -18,10 +42,244 @@
       "path": "editions/006.json"
     },
     {
+      "edition_key": "modern:7",
+      "edition_number": 7,
+      "entries": 53,
+      "path": "editions/007.json"
+    },
+    {
+      "edition_key": "modern:8",
+      "edition_number": 8,
+      "entries": 37,
+      "path": "editions/008.json"
+    },
+    {
+      "edition_key": "modern:9",
+      "edition_number": 9,
+      "entries": 42,
+      "path": "editions/009.json"
+    },
+    {
+      "edition_key": "modern:10",
+      "edition_number": 10,
+      "entries": 47,
+      "path": "editions/010.json"
+    },
+    {
       "edition_key": "modern:11",
       "edition_number": 11,
       "entries": 44,
       "path": "editions/011.json"
+    },
+    {
+      "edition_key": "modern:12",
+      "edition_number": 12,
+      "entries": 36,
+      "path": "editions/012.json"
+    },
+    {
+      "edition_key": "modern:13",
+      "edition_number": 13,
+      "entries": 34,
+      "path": "editions/013.json"
+    },
+    {
+      "edition_key": "modern:14",
+      "edition_number": 14,
+      "entries": 31,
+      "path": "editions/014.json"
+    },
+    {
+      "edition_key": "modern:15",
+      "edition_number": 15,
+      "entries": 25,
+      "path": "editions/015.json"
+    },
+    {
+      "edition_key": "modern:16",
+      "edition_number": 16,
+      "entries": 40,
+      "path": "editions/016.json"
+    },
+    {
+      "edition_key": "modern:17",
+      "edition_number": 17,
+      "entries": 38,
+      "path": "editions/017.json"
+    },
+    {
+      "edition_key": "modern:18",
+      "edition_number": 18,
+      "entries": 41,
+      "path": "editions/018.json"
+    },
+    {
+      "edition_key": "modern:19",
+      "edition_number": 19,
+      "entries": 38,
+      "path": "editions/019.json"
+    },
+    {
+      "edition_key": "modern:20",
+      "edition_number": 20,
+      "entries": 34,
+      "path": "editions/020.json"
+    },
+    {
+      "edition_key": "modern:21",
+      "edition_number": 21,
+      "entries": 36,
+      "path": "editions/021.json"
+    },
+    {
+      "edition_key": "modern:22",
+      "edition_number": 22,
+      "entries": 40,
+      "path": "editions/022.json"
+    },
+    {
+      "edition_key": "modern:23",
+      "edition_number": 23,
+      "entries": 37,
+      "path": "editions/023.json"
+    },
+    {
+      "edition_key": "modern:24",
+      "edition_number": 24,
+      "entries": 38,
+      "path": "editions/024.json"
+    },
+    {
+      "edition_key": "modern:25",
+      "edition_number": 25,
+      "entries": 35,
+      "path": "editions/025.json"
+    },
+    {
+      "edition_key": "modern:26",
+      "edition_number": 26,
+      "entries": 36,
+      "path": "editions/026.json"
+    },
+    {
+      "edition_key": "modern:27",
+      "edition_number": 27,
+      "entries": 35,
+      "path": "editions/027.json"
+    },
+    {
+      "edition_key": "modern:28",
+      "edition_number": 28,
+      "entries": 35,
+      "path": "editions/028.json"
+    },
+    {
+      "edition_key": "modern:29",
+      "edition_number": 29,
+      "entries": 37,
+      "path": "editions/029.json"
+    },
+    {
+      "edition_key": "modern:30",
+      "edition_number": 30,
+      "entries": 34,
+      "path": "editions/030.json"
+    },
+    {
+      "edition_key": "modern:31",
+      "edition_number": 31,
+      "entries": 39,
+      "path": "editions/031.json"
+    },
+    {
+      "edition_key": "modern:32",
+      "edition_number": 32,
+      "entries": 38,
+      "path": "editions/032.json"
+    },
+    {
+      "edition_key": "modern:33",
+      "edition_number": 33,
+      "entries": 37,
+      "path": "editions/033.json"
+    },
+    {
+      "edition_key": "modern:34",
+      "edition_number": 34,
+      "entries": 42,
+      "path": "editions/034.json"
+    },
+    {
+      "edition_key": "modern:35",
+      "edition_number": 35,
+      "entries": 38,
+      "path": "editions/035.json"
+    },
+    {
+      "edition_key": "modern:36",
+      "edition_number": 36,
+      "entries": 39,
+      "path": "editions/036.json"
+    },
+    {
+      "edition_key": "modern:37",
+      "edition_number": 37,
+      "entries": 37,
+      "path": "editions/037.json"
+    },
+    {
+      "edition_key": "modern:38",
+      "edition_number": 38,
+      "entries": 38,
+      "path": "editions/038.json"
+    },
+    {
+      "edition_key": "modern:39",
+      "edition_number": 39,
+      "entries": 44,
+      "path": "editions/039.json"
+    },
+    {
+      "edition_key": "modern:40",
+      "edition_number": 40,
+      "entries": 44,
+      "path": "editions/040.json"
+    },
+    {
+      "edition_key": "modern:41",
+      "edition_number": 41,
+      "entries": 46,
+      "path": "editions/041.json"
+    },
+    {
+      "edition_key": "modern:42",
+      "edition_number": 42,
+      "entries": 45,
+      "path": "editions/042.json"
+    },
+    {
+      "edition_key": "modern:43",
+      "edition_number": 43,
+      "entries": 45,
+      "path": "editions/043.json"
+    },
+    {
+      "edition_key": "modern:44",
+      "edition_number": 44,
+      "entries": 46,
+      "path": "editions/044.json"
+    },
+    {
+      "edition_key": "modern:45",
+      "edition_number": 45,
+      "entries": 44,
+      "path": "editions/045.json"
+    },
+    {
+      "edition_key": "modern:46",
+      "edition_number": 46,
+      "entries": 39,
+      "path": "editions/046.json"
     },
     {
       "edition_key": "modern:47",
