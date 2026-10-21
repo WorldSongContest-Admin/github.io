@@ -14,10 +14,12 @@
       "artist_credit": "Baby Babilon ft. Lino Rocha",
       "song_title": "Indijanka",
       "player": "Filip",
-      "points": null,
+      "points": 134,
+      "non_qualifier_points": null,
+      "published_result_order": 1,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:italy",
@@ -29,10 +31,12 @@
       "artist_credit": "FELLOW",
       "song_title": "Fire",
       "player": "Deo",
-      "points": null,
+      "points": 122,
+      "non_qualifier_points": null,
+      "published_result_order": 2,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:poland",
@@ -44,10 +48,12 @@
       "artist_credit": "Ralph Kaminski",
       "song_title": "Bal u Rafała",
       "player": "Kai",
-      "points": null,
+      "points": 116,
+      "non_qualifier_points": null,
+      "published_result_order": 3,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:france",
@@ -59,10 +65,12 @@
       "artist_credit": "Odelly",
       "song_title": "Mon Démon",
       "player": "Nicolas",
-      "points": null,
+      "points": 104,
+      "non_qualifier_points": null,
+      "published_result_order": 4,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:sweden",
@@ -74,10 +82,12 @@
       "artist_credit": "Honey.",
       "song_title": "What Now",
       "player": "Tim",
-      "points": null,
+      "points": 99,
+      "non_qualifier_points": null,
+      "published_result_order": 5,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:brazil",
@@ -89,10 +99,12 @@
       "artist_credit": "Bala Desejo",
       "song_title": "Baile de Máscaras (Recarnaval)",
       "player": "Rodolfo",
-      "points": null,
+      "points": 97,
+      "non_qualifier_points": null,
+      "published_result_order": 6,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:ukraine",
@@ -104,10 +116,13 @@
       "artist_credit": "KADNAY",
       "song_title": "Polon",
       "player": "Vasyl",
-      "points": null,
+      "points": 97,
+      "non_qualifier_points": null,
+      "published_result_order": 7,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue",
+      "published_player_name": "Hermès"
     },
     {
       "entry_id": "modern:17:southafrica",
@@ -119,10 +134,12 @@
       "artist_credit": "HONEYMOAN",
       "song_title": "Too Much",
       "player": "Samuel",
-      "points": null,
+      "points": 91,
+      "non_qualifier_points": null,
+      "published_result_order": 8,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:greece",
@@ -134,10 +151,12 @@
       "artist_credit": "Andromache",
       "song_title": "Na Soun Psema",
       "player": "Dean",
-      "points": null,
+      "points": 90,
+      "non_qualifier_points": null,
+      "published_result_order": 9,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:chile",
@@ -149,10 +168,12 @@
       "artist_credit": "Shirel",
       "song_title": "Romper Platos",
       "player": "Tulio",
-      "points": null,
+      "points": 81,
+      "non_qualifier_points": null,
+      "published_result_order": 10,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:denmark",
@@ -164,10 +185,12 @@
       "artist_credit": "Saveus",
       "song_title": "Rainman",
       "player": "David",
-      "points": null,
+      "points": 81,
+      "non_qualifier_points": null,
+      "published_result_order": 11,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:moldova",
@@ -179,10 +202,12 @@
       "artist_credit": "DARA",
       "song_title": "La Costum",
       "player": "Brenno",
-      "points": null,
+      "points": 76,
+      "non_qualifier_points": null,
+      "published_result_order": 12,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:spain",
@@ -194,10 +219,12 @@
       "artist_credit": "Lola Índigo",
       "song_title": "AN1MAL",
       "player": "Robert",
-      "points": null,
+      "points": 76,
+      "non_qualifier_points": null,
+      "published_result_order": 13,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:argentina",
@@ -209,10 +236,12 @@
       "artist_credit": "Daniela Spalla",
       "song_title": "Te Veo A La Salida",
       "player": "Christian",
-      "points": null,
+      "points": 73,
+      "non_qualifier_points": null,
+      "published_result_order": 14,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:australia",
@@ -224,10 +253,12 @@
       "artist_credit": "Sophiya",
       "song_title": "GREEKo FREAKo",
       "player": "Dimi",
-      "points": null,
+      "points": 73,
+      "non_qualifier_points": null,
+      "published_result_order": 15,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:czechia",
@@ -239,10 +270,12 @@
       "artist_credit": "OCEÁN",
       "song_title": "LOĎ ZÁZRAKŮ",
       "player": "Michiel",
-      "points": null,
+      "points": 72,
+      "non_qualifier_points": null,
+      "published_result_order": 16,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:india",
@@ -254,10 +287,12 @@
       "artist_credit": "Zahrah Khan & Dev Negi",
       "song_title": "Kusu Kusu",
       "player": "Pranali",
-      "points": null,
+      "points": 69,
+      "non_qualifier_points": null,
+      "published_result_order": 17,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:finland",
@@ -269,10 +304,12 @@
       "artist_credit": "Robin Packalen",
       "song_title": "Hard To Love",
       "player": "Andriy",
-      "points": null,
+      "points": 69,
+      "non_qualifier_points": null,
+      "published_result_order": 18,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:serbia",
@@ -284,10 +321,12 @@
       "artist_credit": "Naked feat.Tal Tula Ben Ari",
       "song_title": "Crossroads",
       "player": "Aleksandar",
-      "points": null,
+      "points": 65,
+      "non_qualifier_points": null,
+      "published_result_order": 19,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:armenia",
@@ -299,10 +338,12 @@
       "artist_credit": "Brunette",
       "song_title": "Smoke Break",
       "player": "Matt",
-      "points": null,
+      "points": 64,
+      "non_qualifier_points": null,
+      "published_result_order": 20,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:southkorea",
@@ -314,10 +355,12 @@
       "artist_credit": "Yuqi",
       "song_title": "Bonnie and Clyde",
       "player": "Ângie",
-      "points": null,
+      "points": 62,
+      "non_qualifier_points": null,
+      "published_result_order": 21,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:netherlands",
@@ -329,10 +372,12 @@
       "artist_credit": "Goldband",
       "song_title": "Noodgeval",
       "player": "Jay",
-      "points": null,
+      "points": 56,
+      "non_qualifier_points": null,
+      "published_result_order": 22,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:monaco",
@@ -344,10 +389,12 @@
       "artist_credit": "Paloma",
       "song_title": "Love, l'artère",
       "player": "Felipe A",
-      "points": null,
+      "points": 55,
+      "non_qualifier_points": null,
+      "published_result_order": 23,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:newzealand",
@@ -359,10 +406,12 @@
       "artist_credit": "Teeks",
       "song_title": "Younger",
       "player": "Owen",
-      "points": null,
+      "points": 54,
+      "non_qualifier_points": null,
+      "published_result_order": 24,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:mexico",
@@ -374,10 +423,12 @@
       "artist_credit": "Flor Ramírez",
       "song_title": "Pequitas",
       "player": "Addad",
-      "points": null,
+      "points": 54,
+      "non_qualifier_points": null,
+      "published_result_order": 25,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:canada",
@@ -390,9 +441,11 @@
       "song_title": "Three Little Words",
       "player": "Daniel",
       "points": null,
+      "non_qualifier_points": 42,
+      "published_result_order": 34,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:estonia",
@@ -405,9 +458,11 @@
       "song_title": "Bad Tattoo Depression Blues",
       "player": "Illar",
       "points": null,
+      "non_qualifier_points": 18,
+      "published_result_order": 38,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:germany",
@@ -420,9 +475,11 @@
       "song_title": "Durch den Regen",
       "player": "Francesco",
       "points": null,
+      "non_qualifier_points": 31,
+      "published_result_order": 35,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:iceland",
@@ -435,9 +492,11 @@
       "song_title": "Runaway",
       "player": "Zlatko",
       "points": null,
+      "non_qualifier_points": 50,
+      "published_result_order": 27,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:israel",
@@ -450,9 +509,11 @@
       "song_title": "Pa'amon",
       "player": "Rami",
       "points": null,
+      "non_qualifier_points": 45,
+      "published_result_order": 32,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:japan",
@@ -465,9 +526,11 @@
       "song_title": "Tippy Toes",
       "player": "Vianney",
       "points": null,
+      "non_qualifier_points": 26,
+      "published_result_order": 36,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:nigeria",
@@ -480,9 +543,11 @@
       "song_title": "My Sweetie",
       "player": "Ivan",
       "points": null,
+      "non_qualifier_points": 23,
+      "published_result_order": 37,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:philippines",
@@ -495,9 +560,11 @@
       "song_title": "What You Gonna Do",
       "player": "Jammil",
       "points": null,
+      "non_qualifier_points": 47,
+      "published_result_order": 30,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:sanmarino",
@@ -510,9 +577,11 @@
       "song_title": "Ti penso spesso",
       "player": "Paolo",
       "points": null,
+      "non_qualifier_points": 49,
+      "published_result_order": 28,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:taiwan",
@@ -525,9 +594,11 @@
       "song_title": "The Path",
       "player": "Tom",
       "points": null,
+      "non_qualifier_points": 43,
+      "published_result_order": 33,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:turkiye",
@@ -540,9 +611,11 @@
       "song_title": "Merasim",
       "player": "Kaz",
       "points": null,
+      "non_qualifier_points": 53,
+      "published_result_order": 26,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:unitedkingdom",
@@ -555,9 +628,11 @@
       "song_title": "Lift Off",
       "player": "Herbert",
       "points": null,
+      "non_qualifier_points": 45,
+      "published_result_order": 31,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:17:venezuela",
@@ -570,9 +645,11 @@
       "song_title": "En Tu Mar",
       "player": "Pedro",
       "points": null,
+      "non_qualifier_points": 48,
+      "published_result_order": 29,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-17",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-17/",
+      "verification_status": "published_website_and_catalogue"
     }
   ]
 }

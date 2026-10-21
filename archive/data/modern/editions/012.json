@@ -14,10 +14,12 @@
       "artist_credit": "Juliette Arment",
       "song_title": "Le Dernier Jour Du Disco",
       "player": "Pranali",
-      "points": null,
+      "points": 137,
+      "non_qualifier_points": null,
+      "published_result_order": 1,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:israel",
@@ -29,10 +31,12 @@
       "artist_credit": "A-WA",
       "song_title": "Mudbira",
       "player": "Rami",
-      "points": null,
+      "points": 136,
+      "non_qualifier_points": null,
+      "published_result_order": 2,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:sweden",
@@ -44,10 +48,12 @@
       "artist_credit": "Nicole Sabouné",
       "song_title": "For Us",
       "player": "Tim",
-      "points": null,
+      "points": 134,
+      "non_qualifier_points": null,
+      "published_result_order": 3,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:argentina",
@@ -59,10 +65,12 @@
       "artist_credit": "José Gonzalez",
       "song_title": "El Invento",
       "player": "Christian",
-      "points": null,
+      "points": 114,
+      "non_qualifier_points": null,
+      "published_result_order": 4,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:southafrica",
@@ -74,10 +82,12 @@
       "artist_credit": "Kelly Khumalo",
       "song_title": "Empini",
       "player": "Samuel",
-      "points": null,
+      "points": 113,
+      "non_qualifier_points": null,
+      "published_result_order": 5,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:luxembourg",
@@ -89,10 +99,12 @@
       "artist_credit": "Pierre de Maere",
       "song_title": "Un jour je marierai un ange",
       "player": "Marko",
-      "points": null,
+      "points": 100,
+      "non_qualifier_points": null,
+      "published_result_order": 6,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:poland",
@@ -104,10 +116,12 @@
       "artist_credit": "Beata Gozidrak",
       "song_title": "Gambit",
       "player": "Kai",
-      "points": null,
+      "points": 97,
+      "non_qualifier_points": null,
+      "published_result_order": 7,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:germany",
@@ -119,10 +133,12 @@
       "artist_credit": "FAUN ft Lindy-Fay Hella",
       "song_title": "Galdra",
       "player": "Alex",
-      "points": null,
+      "points": 95,
+      "non_qualifier_points": null,
+      "published_result_order": 8,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:china",
@@ -134,10 +150,12 @@
       "artist_credit": "City Flanker",
       "song_title": "Sunset Boulevard",
       "player": "Marcus",
-      "points": null,
+      "points": 92,
+      "non_qualifier_points": null,
+      "published_result_order": 9,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:japan",
@@ -149,10 +167,12 @@
       "artist_credit": "Wednesday Campanella",
       "song_title": "The Bamboo Princess",
       "player": "Tom",
-      "points": null,
+      "points": 88,
+      "non_qualifier_points": null,
+      "published_result_order": 10,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:canada",
@@ -164,10 +184,12 @@
       "artist_credit": "Hey Major",
       "song_title": "Le Gouffre",
       "player": "Dan",
-      "points": null,
+      "points": 87,
+      "non_qualifier_points": null,
+      "published_result_order": 11,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:kazakhstan",
@@ -179,10 +201,12 @@
       "artist_credit": "Kamshat Zholdybaeva",
       "song_title": "Caramel",
       "player": "Gulira",
-      "points": null,
+      "points": 75,
+      "non_qualifier_points": null,
+      "published_result_order": 12,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:australia",
@@ -194,10 +218,12 @@
       "artist_credit": "Punko ft Christobel",
       "song_title": "Time for us",
       "player": "Dimi",
-      "points": null,
+      "points": 73,
+      "non_qualifier_points": null,
+      "published_result_order": 13,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:unitedkingdom",
@@ -209,10 +235,12 @@
       "artist_credit": "Damon Albarn",
       "song_title": "Royal Morning Blue",
       "player": "Herbert",
-      "points": null,
+      "points": 73,
+      "non_qualifier_points": null,
+      "published_result_order": 14,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:france",
@@ -224,10 +252,12 @@
       "artist_credit": "Elle Valenci",
       "song_title": "Freedom",
       "player": "Nicolas",
-      "points": null,
+      "points": 70,
+      "non_qualifier_points": null,
+      "published_result_order": 15,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:turkiye",
@@ -239,10 +269,12 @@
       "artist_credit": "Eda Atlas",
       "song_title": "Birak Beni",
       "player": "Felipe D",
-      "points": null,
+      "points": 67,
+      "non_qualifier_points": null,
+      "published_result_order": 16,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:portugal",
@@ -254,10 +286,12 @@
       "artist_credit": "Janeiro",
       "song_title": "Solidão",
       "player": "Sanio",
-      "points": null,
+      "points": 66,
+      "non_qualifier_points": null,
+      "published_result_order": 17,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:ukraine",
@@ -269,10 +303,13 @@
       "artist_credit": "The Doox",
       "song_title": "Коли ти берегом ідеш",
       "player": "Vasyl",
-      "points": null,
+      "points": 65,
+      "non_qualifier_points": null,
+      "published_result_order": 18,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue",
+      "published_player_name": "Hermès"
     },
     {
       "entry_id": "modern:12:northmacedonia",
@@ -284,10 +321,12 @@
       "artist_credit": "Funk Shui",
       "song_title": "Veter",
       "player": "Danuse",
-      "points": null,
+      "points": 64,
+      "non_qualifier_points": null,
+      "published_result_order": 19,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:italy",
@@ -299,10 +338,12 @@
       "artist_credit": "Arisa",
       "song_title": "Cuore",
       "player": "Deo",
-      "points": null,
+      "points": 57,
+      "non_qualifier_points": null,
+      "published_result_order": 20,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:czechia",
@@ -314,10 +355,12 @@
       "artist_credit": "Ille",
       "song_title": "Na druhé straně",
       "player": "Michiel",
-      "points": null,
+      "points": 54,
+      "non_qualifier_points": null,
+      "published_result_order": 21,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:croatia",
@@ -329,10 +372,12 @@
       "artist_credit": "The SIIDS",
       "song_title": "Beats Running Down",
       "player": "Filip",
-      "points": null,
+      "points": 51,
+      "non_qualifier_points": null,
+      "published_result_order": 22,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:netherlands",
@@ -344,10 +389,12 @@
       "artist_credit": "Suzan & Freek",
       "song_title": "Goud",
       "player": "Jay",
-      "points": null,
+      "points": 45,
+      "non_qualifier_points": null,
+      "published_result_order": 23,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:venezuela",
@@ -359,10 +406,12 @@
       "artist_credit": "Nella",
       "song_title": "Volvere a mi tierra",
       "player": "Pedro",
-      "points": null,
+      "points": 40,
+      "non_qualifier_points": null,
+      "published_result_order": 24,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:serbia",
@@ -374,10 +423,12 @@
       "artist_credit": "Ana & The Changes ft. Dan Byron",
       "song_title": "Take My Hand",
       "player": "Aleksandar",
-      "points": null,
+      "points": 37,
+      "non_qualifier_points": null,
+      "published_result_order": 25,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:brazil",
@@ -390,9 +441,11 @@
       "song_title": "Na Veia",
       "player": "Rodolfo",
       "points": null,
+      "non_qualifier_points": 25,
+      "published_result_order": 33,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:chile",
@@ -405,9 +458,11 @@
       "song_title": "Santería",
       "player": "Tulio",
       "points": null,
+      "non_qualifier_points": 19,
+      "published_result_order": 34,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:estonia",
@@ -420,9 +475,11 @@
       "song_title": "Svit, Ty Minajeschsja",
       "player": "Illar",
       "points": null,
+      "non_qualifier_points": 28,
+      "published_result_order": 32,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:greece",
@@ -435,9 +492,11 @@
       "song_title": "Skies Kai Hromata",
       "player": "Dean",
       "points": null,
+      "non_qualifier_points": 42,
+      "published_result_order": 29,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:iceland",
@@ -450,9 +509,11 @@
       "song_title": "Cold feet",
       "player": "Zlatko",
       "points": null,
+      "non_qualifier_points": 48,
+      "published_result_order": 26,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:norway",
@@ -465,9 +526,11 @@
       "song_title": "Ecstasy",
       "player": "Paula R.",
       "points": null,
+      "non_qualifier_points": 43,
+      "published_result_order": 28,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:romania",
@@ -480,9 +543,11 @@
       "song_title": "Tokyo",
       "player": "Ângie",
       "points": null,
+      "non_qualifier_points": 35,
+      "published_result_order": 31,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:sanmarino",
@@ -495,9 +560,11 @@
       "song_title": "Cabriolet Panorama",
       "player": "Paolo",
       "points": null,
+      "non_qualifier_points": 43,
+      "published_result_order": 28,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:southkorea",
@@ -510,9 +577,11 @@
       "song_title": "Joke!",
       "player": "Vianney",
       "points": null,
+      "non_qualifier_points": 46,
+      "published_result_order": 27,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:spain",
@@ -525,9 +594,11 @@
       "song_title": "Out in Style",
       "player": "Robert",
       "points": null,
+      "non_qualifier_points": 42,
+      "published_result_order": 29,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:12:unitedstates",
@@ -540,9 +611,11 @@
       "song_title": "Wild Fire",
       "player": "José",
       "points": null,
+      "non_qualifier_points": 36,
+      "published_result_order": 30,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-12",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
+      "verification_status": "published_website_and_catalogue"
     }
   ]
 }

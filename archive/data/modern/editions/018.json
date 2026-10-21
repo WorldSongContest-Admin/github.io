@@ -14,10 +14,12 @@
       "artist_credit": "Juliana Linhares",
       "song_title": "Bombinha",
       "player": "Rodolfo",
-      "points": null,
+      "points": 192,
+      "non_qualifier_points": null,
+      "published_result_order": 1,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:estonia",
@@ -29,10 +31,12 @@
       "artist_credit": "nublu",
       "song_title": "kastehein",
       "player": "Illar",
-      "points": null,
+      "points": 164,
+      "non_qualifier_points": null,
+      "published_result_order": 2,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:france",
@@ -44,10 +48,12 @@
       "artist_credit": "Tshegue",
       "song_title": "Mais",
       "player": "Nicolas",
-      "points": null,
+      "points": 130,
+      "non_qualifier_points": null,
+      "published_result_order": 3,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:pakistan",
@@ -59,10 +65,12 @@
       "artist_credit": "Meesha Shafi",
       "song_title": "Rajkumari",
       "player": "Alexis",
-      "points": null,
+      "points": 113,
+      "non_qualifier_points": null,
+      "published_result_order": 4,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:ukraine",
@@ -74,10 +82,13 @@
       "artist_credit": "LatexFauna",
       "song_title": "Cherkaschyna",
       "player": "Vasyl",
-      "points": null,
+      "points": 108,
+      "non_qualifier_points": null,
+      "published_result_order": 5,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue",
+      "published_player_name": "Hermes"
     },
     {
       "entry_id": "modern:18:turkiye",
@@ -89,10 +100,12 @@
       "artist_credit": "Evdeki Saat",
       "song_title": "Sustum",
       "player": "Kaz",
-      "points": null,
+      "points": 108,
+      "non_qualifier_points": null,
+      "published_result_order": 6,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:spain",
@@ -104,10 +117,12 @@
       "artist_credit": "Leo Rizzi",
       "song_title": "Quiero (Acustico)",
       "player": "Robert",
-      "points": null,
+      "points": 106,
+      "non_qualifier_points": null,
+      "published_result_order": 7,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:denmark",
@@ -119,10 +134,12 @@
       "artist_credit": "ROYA",
       "song_title": "Kinda Sad",
       "player": "David",
-      "points": null,
+      "points": 103,
+      "non_qualifier_points": null,
+      "published_result_order": 8,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:poland",
@@ -134,10 +151,12 @@
       "artist_credit": "Dawid Podsiadło",
       "song_title": "WiRUS",
       "player": "Kai",
-      "points": null,
+      "points": 96,
+      "non_qualifier_points": null,
+      "published_result_order": 9,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:armenia",
@@ -149,10 +168,12 @@
       "artist_credit": "Aram MP3 & Forsh",
       "song_title": "Requiem",
       "player": "Matt",
-      "points": null,
+      "points": 88,
+      "non_qualifier_points": null,
+      "published_result_order": 10,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:sweden",
@@ -164,10 +185,12 @@
       "artist_credit": "Isak Danielson",
       "song_title": "King of a Tragedy",
       "player": "Tim",
-      "points": null,
+      "points": 88,
+      "non_qualifier_points": null,
+      "published_result_order": 11,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:china",
@@ -179,10 +202,12 @@
       "artist_credit": "lost memory machine",
       "song_title": "soaked",
       "player": "Marcus",
-      "points": null,
+      "points": 76,
+      "non_qualifier_points": null,
+      "published_result_order": 12,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:portugal",
@@ -194,10 +219,12 @@
       "artist_credit": "Nenny",
       "song_title": "Tequila",
       "player": "Sanio",
-      "points": null,
+      "points": 66,
+      "non_qualifier_points": null,
+      "published_result_order": 13,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:netherlands",
@@ -209,10 +236,12 @@
       "artist_credit": "Nielson",
       "song_title": "Ijskoud",
       "player": "Jay",
-      "points": null,
+      "points": 65,
+      "non_qualifier_points": null,
+      "published_result_order": 14,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:southkorea",
@@ -224,10 +253,13 @@
       "artist_credit": "BiBi",
       "song_title": "Animal Farm",
       "player": "Ângie",
-      "points": null,
+      "points": 64,
+      "non_qualifier_points": null,
+      "published_result_order": 15,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue",
+      "published_player_name": "Angie"
     },
     {
       "entry_id": "modern:18:southafrica",
@@ -239,10 +271,12 @@
       "artist_credit": "Sho Madjozi",
       "song_title": "Huku",
       "player": "Samuel",
-      "points": null,
+      "points": 63,
+      "non_qualifier_points": null,
+      "published_result_order": 16,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:bosniaherzegovina",
@@ -254,10 +288,12 @@
       "artist_credit": "Vatra feat. Božo Vrećo",
       "song_title": "Rum na usnama",
       "player": "Anel",
-      "points": null,
+      "points": 49,
+      "non_qualifier_points": null,
+      "published_result_order": 17,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:nigeria",
@@ -269,10 +305,12 @@
       "artist_credit": "Clayrocksu",
       "song_title": "Amin",
       "player": "Ivan",
-      "points": null,
+      "points": 47,
+      "non_qualifier_points": null,
+      "published_result_order": 18,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:croatia",
@@ -284,10 +322,12 @@
       "artist_credit": "Miach",
       "song_title": "NLO",
       "player": "Filip",
-      "points": null,
+      "points": 45,
+      "non_qualifier_points": null,
+      "published_result_order": 19,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:italy",
@@ -299,10 +339,12 @@
       "artist_credit": "Marco Mengoni",
       "song_title": "Tutti I Miei Ricordi",
       "player": "Deo",
-      "points": null,
+      "points": 44,
+      "non_qualifier_points": null,
+      "published_result_order": 20,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:philippines",
@@ -314,10 +356,12 @@
       "artist_credit": "Flexbomb Girls",
       "song_title": "Pop Off Ate",
       "player": "Jammil",
-      "points": null,
+      "points": 40,
+      "non_qualifier_points": null,
+      "published_result_order": 21,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:monaco",
@@ -329,10 +373,12 @@
       "artist_credit": "Aya Nakamura",
       "song_title": "Pookie",
       "player": "Felipe A",
-      "points": null,
+      "points": 35,
+      "non_qualifier_points": null,
+      "published_result_order": 22,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:argentina",
@@ -344,10 +390,12 @@
       "artist_credit": "Silvina Moreno",
       "song_title": "Tiempo",
       "player": "Christ",
-      "points": null,
+      "points": 33,
+      "non_qualifier_points": null,
+      "published_result_order": 23,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:unitedkingdom",
@@ -359,10 +407,12 @@
       "artist_credit": "Foxes",
       "song_title": "Sky Love",
       "player": "Heidi",
-      "points": null,
+      "points": 29,
+      "non_qualifier_points": null,
+      "published_result_order": 24,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:finland",
@@ -374,10 +424,12 @@
       "artist_credit": "BESS",
       "song_title": "Rakastan en Rakasta",
       "player": "Andriy",
-      "points": null,
+      "points": 24,
+      "non_qualifier_points": null,
+      "published_result_order": 25,
       "result_status": "finalist",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:australia",
@@ -390,9 +442,11 @@
       "song_title": "Punchline",
       "player": "Dimi",
       "points": null,
+      "non_qualifier_points": 36,
+      "published_result_order": 34,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:canada",
@@ -405,9 +459,11 @@
       "song_title": "Monokini & tsunami",
       "player": "Daniel",
       "points": null,
+      "non_qualifier_points": 39,
+      "published_result_order": 31,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:czechia",
@@ -420,9 +476,11 @@
       "song_title": "Tajemství",
       "player": "Michiel",
       "points": null,
+      "non_qualifier_points": 36,
+      "published_result_order": 33,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:egypt",
@@ -435,9 +493,11 @@
       "song_title": "Arosty",
       "player": "Ahmad",
       "points": null,
+      "non_qualifier_points": 27,
+      "published_result_order": 38,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:germany",
@@ -450,9 +510,11 @@
       "song_title": "Eiskalt",
       "player": "Francesco",
       "points": null,
+      "non_qualifier_points": 24,
+      "published_result_order": 39,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:greece",
@@ -465,9 +527,11 @@
       "song_title": "Perpatao",
       "player": "Dean",
       "points": null,
+      "non_qualifier_points": 17,
+      "published_result_order": 41,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:india",
@@ -480,9 +544,11 @@
       "song_title": "Je Suis La Pomme Rouge",
       "player": "Pranali",
       "points": null,
+      "non_qualifier_points": 39,
+      "published_result_order": 30,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:israel",
@@ -495,9 +561,11 @@
       "song_title": "Vivre Encore",
       "player": "Rami",
       "points": null,
+      "non_qualifier_points": 30,
+      "published_result_order": 36,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:japan",
@@ -510,9 +578,11 @@
       "song_title": "Gate of Living",
       "player": "Vianney",
       "points": null,
+      "non_qualifier_points": 44,
+      "published_result_order": 28,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:mexico",
@@ -525,9 +595,11 @@
       "song_title": "Mía Mía",
       "player": "Adad",
       "points": null,
+      "non_qualifier_points": 37,
+      "published_result_order": 32,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:moldova",
@@ -540,9 +612,11 @@
       "song_title": "Goodbye Dubai",
       "player": "Brenno",
       "points": null,
+      "non_qualifier_points": 19,
+      "published_result_order": 40,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:newzealand",
@@ -555,9 +629,11 @@
       "song_title": "On the Low... Shh",
       "player": "Owen",
       "points": null,
+      "non_qualifier_points": 28,
+      "published_result_order": 37,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:sanmarino",
@@ -570,9 +646,11 @@
       "song_title": "Diva",
       "player": "Paolo",
       "points": null,
+      "non_qualifier_points": 54,
+      "published_result_order": 26,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:serbia",
@@ -585,9 +663,11 @@
       "song_title": "Hajde onda ništa",
       "player": "Aleksandar",
       "points": null,
+      "non_qualifier_points": 34,
+      "published_result_order": 35,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:taiwan",
@@ -600,9 +680,11 @@
       "song_title": "Hǎilàng",
       "player": "Tom",
       "points": null,
+      "non_qualifier_points": 43,
+      "published_result_order": 29,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     },
     {
       "entry_id": "modern:18:venezuela",
@@ -615,9 +697,11 @@
       "song_title": "Latidos",
       "player": "Pedro",
       "points": null,
+      "non_qualifier_points": 49,
+      "published_result_order": 27,
       "result_status": "non_qualifier",
-      "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-18",
-      "verification_status": "catalogue_verified_scores_pending"
+      "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-18-final/",
+      "verification_status": "published_website_and_catalogue"
     }
   ]
 }
