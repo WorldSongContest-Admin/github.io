@@ -1,7 +1,7 @@
-name: Enrich Modern WSC Scores 32-46
+name: Enrich Modern WSC Scores 28-30
 on:
   push:
-    branches: [feature/modern-points-32-46]
+    branches: [feature/modern-points-28-30-corrections]
     paths:
       - 'scripts/enrich_modern_multistage.py'
       - '.github/workflows/enrich-modern-scores.yml'
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: feature/modern-points-32-46
+          ref: feature/modern-points-28-30-corrections
           persist-credentials: true
       - name: Cross-check and import published final and semi-final scores
         run: python scripts/enrich_modern_multistage.py
@@ -28,5 +28,5 @@ jobs:
           git add archive/data/modern/editions/
           if ! git diff --cached --quiet; then
             git commit -m "Enrich verified modern Editions 32-46 with published final and semifinal points"
-            git push origin HEAD:feature/modern-points-32-46
+            git push origin HEAD:feature/modern-points-28-30-corrections
           fi
