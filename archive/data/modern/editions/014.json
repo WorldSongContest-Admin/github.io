@@ -19,7 +19,12 @@
       "published_result_order": 1,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 69,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:spain",
@@ -36,7 +41,12 @@
       "published_result_order": 2,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 76,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:greece",
@@ -53,7 +63,10 @@
       "published_result_order": 3,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "automatic_qualifier": true,
+      "semi_final_held": false,
+      "automatic_qualification_reason": "Winner of modern edition 13"
     },
     {
       "entry_id": "modern:14:czechia",
@@ -70,7 +83,12 @@
       "published_result_order": 4,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 76,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:poland",
@@ -87,7 +105,12 @@
       "published_result_order": 5,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 70,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:unitedkingdom",
@@ -104,7 +127,12 @@
       "published_result_order": 6,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 76,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:romania",
@@ -121,7 +149,12 @@
       "published_result_order": 7,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 76,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:iceland",
@@ -138,7 +171,12 @@
       "published_result_order": 8,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 84,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:israel",
@@ -155,7 +193,12 @@
       "published_result_order": 9,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 71,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:sanmarino",
@@ -172,7 +215,12 @@
       "published_result_order": 10,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 67,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:brazil",
@@ -189,7 +237,12 @@
       "published_result_order": 11,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 58,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:portugal",
@@ -206,7 +259,12 @@
       "published_result_order": 12,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 79,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:venezuela",
@@ -223,7 +281,12 @@
       "published_result_order": 13,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 54,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:germany",
@@ -240,7 +303,12 @@
       "published_result_order": 14,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 54,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:nigeria",
@@ -257,7 +325,12 @@
       "published_result_order": 15,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 71,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:croatia",
@@ -274,7 +347,12 @@
       "published_result_order": 16,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 59,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:estonia",
@@ -291,7 +369,12 @@
       "published_result_order": 17,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 66,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:china",
@@ -308,7 +391,12 @@
       "published_result_order": 18,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 72,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:italy",
@@ -325,7 +413,12 @@
       "published_result_order": 19,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 58,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:argentina",
@@ -342,7 +435,12 @@
       "published_result_order": 20,
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
-      "verification_status": "published_website_and_catalogue"
+      "verification_status": "published_website_and_catalogue",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_points": 62,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:ukraine",
@@ -360,7 +458,12 @@
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
-      "published_player_name": "Hermès"
+      "published_player_name": "Hermès",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_points": 56,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:australia",
@@ -379,7 +482,11 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 58,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:canada",
@@ -398,7 +505,12 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 42,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true,
+      "semi_final_rank": 13
     },
     {
       "entry_id": "modern:14:chile",
@@ -417,7 +529,12 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 42,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true,
+      "semi_final_rank": 14
     },
     {
       "entry_id": "modern:14:japan",
@@ -436,7 +553,12 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 48,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true,
+      "semi_final_rank": 11
     },
     {
       "entry_id": "modern:14:kazakhstan",
@@ -455,7 +577,11 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 31,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:mexico",
@@ -474,7 +600,11 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 45,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:netherlands",
@@ -493,7 +623,12 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 48,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true,
+      "semi_final_rank": 12
     },
     {
       "entry_id": "modern:14:serbia",
@@ -512,7 +647,12 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 30,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 1,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true,
+      "semi_final_rank": 15
     },
     {
       "entry_id": "modern:14:southafrica",
@@ -531,7 +671,11 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 51,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     },
     {
       "entry_id": "modern:14:sweden",
@@ -550,7 +694,11 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-14/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 49,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "semi_final_group": 2,
+      "semi_final_held": true,
+      "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
+      "semi_final_verified": true
     }
   ]
 }
