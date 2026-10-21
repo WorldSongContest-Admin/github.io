@@ -64,10 +64,12 @@ def main():
             p=TableShape();p.feed(page)
             print("EDITION_SHAPE",n,"tables",len(p.counts),"rows",p.counts[:6])
             if n in (5,11,20,31,40,47):
-                from scripts.import_published_edition6 import Tables
-                q=Tables();q.feed(page)
-                for k,t in enumerate(q.tables[:5]):
-                    print("SAMPLE",n,k,"FIRST",repr(t[:3]),"LAST",repr(t[-1:] ))
+                from html import unescape
+                blocks=re.findall(r"<table\\b[^>]*>(.*?)</table>",page,re.S|re.I)
+                for k,b in enumerate(blocks[:5]):
+                    trs=re.findall(r"<tr\\b[^>]*>(.*?)</tr>",b,re.S|re.I)
+                    rows=[[" ".join(unescape(re.sub(r"<[^>]+>"," ",cell)).split()) for cell in re.findall(r"<t[dh]\\b[^>]*>(.*?)</t[dh]>",tr,re.S|re.I)] for tr in trs]
+                    print("SAMPLE",n,k,"FIRST",repr(rows[:3]),"LAST",repr(rows[-1:]))
 
         except Exception as ex:print("EDITION_SHAPE_ERROR",n,type(ex).__name__)
 
