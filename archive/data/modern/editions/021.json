@@ -14,10 +14,15 @@
       "artist_credit": "Karolina Cicha & SWADA",
       "song_title": "PKS do Gródka",
       "player": "Kai",
-      "points": null,
+      "points": 133,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": null,
+      "semi_final_points": null,
+      "semi_final_rank": null,
+      "semi_final_score_note": "No numeric score in the published semifinal table"
     },
     {
       "entry_id": "modern:21:estonia",
@@ -29,10 +34,15 @@
       "artist_credit": "Kitty Florentine",
       "song_title": "127",
       "player": "Illar",
-      "points": null,
+      "points": 123,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 57,
+      "semi_final_rank": 6,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:france",
@@ -44,10 +54,15 @@
       "artist_credit": "Black Lilys",
       "song_title": "Invisible Strings",
       "player": "Nicolas",
-      "points": null,
+      "points": 120,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 84,
+      "semi_final_rank": 3,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:uruguay",
@@ -59,10 +74,15 @@
       "artist_credit": "Eli Almic & F5",
       "song_title": "La Vitamina",
       "player": "Daniel",
-      "points": null,
+      "points": 113,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 86,
+      "semi_final_rank": 2,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:serbia",
@@ -74,10 +94,15 @@
       "artist_credit": "KOIKOI",
       "song_title": "Hrast",
       "player": "Aleksandar",
-      "points": null,
+      "points": 105,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 84,
+      "semi_final_rank": 1,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:italy",
@@ -89,10 +114,15 @@
       "artist_credit": "Gioli & Assia",
       "song_title": "Jaula",
       "player": "Lucia",
-      "points": null,
+      "points": 100,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 68,
+      "semi_final_rank": 4,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:iceland",
@@ -104,10 +134,15 @@
       "artist_credit": "JFDR",
       "song_title": "My Work",
       "player": "Zlatko",
-      "points": null,
+      "points": 97,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 74,
+      "semi_final_rank": 6,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:venezuela",
@@ -119,10 +154,15 @@
       "artist_credit": "Venezonix",
       "song_title": "La que es",
       "player": "Pedro",
-      "points": null,
+      "points": 96,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 60,
+      "semi_final_rank": 5,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:czechia",
@@ -134,10 +174,15 @@
       "artist_credit": "Vojtěch Dyk",
       "song_title": "Šumavský otčenáš",
       "player": "Michiel",
-      "points": null,
+      "points": 95,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 71,
+      "semi_final_rank": 7,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:bosniaherzegovina",
@@ -149,10 +194,15 @@
       "artist_credit": "Marko Bosnjak",
       "song_title": "Spokojan",
       "player": "Anel",
-      "points": null,
+      "points": 90,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 79,
+      "semi_final_rank": 4,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:unitedkingdom",
@@ -164,10 +214,15 @@
       "artist_credit": "Sophie Ellis-Bextor & Wuh-Oh",
       "song_title": "Hypnotized",
       "player": "Dimi",
-      "points": null,
+      "points": 82,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 63,
+      "semi_final_rank": 9,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:israel",
@@ -179,10 +234,15 @@
       "artist_credit": "KAYMA",
       "song_title": "Bad Blood",
       "player": "Rami",
-      "points": null,
+      "points": 80,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 77,
+      "semi_final_rank": 5,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:egypt",
@@ -194,10 +254,15 @@
       "artist_credit": "Lella Fadda",
       "song_title": "El Wa’t Msh Beyaadi",
       "player": "Ahmad",
-      "points": null,
+      "points": 79,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 68,
+      "semi_final_rank": 8,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:argentina",
@@ -209,10 +274,15 @@
       "artist_credit": "Chloe Edgecombe",
       "song_title": "11:11",
       "player": "Christian",
-      "points": null,
+      "points": 78,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 56,
+      "semi_final_rank": 8,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:netherlands",
@@ -224,10 +294,15 @@
       "artist_credit": "Morpheus",
       "song_title": "Morphosis",
       "player": "Jay",
-      "points": null,
+      "points": 71,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 87,
+      "semi_final_rank": 1,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:moldova",
@@ -239,10 +314,15 @@
       "artist_credit": "Misha Miller x Sasha Lopez",
       "song_title": "Mahala",
       "player": "Brenno",
-      "points": null,
+      "points": 64,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 63,
+      "semi_final_rank": 10,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:japan",
@@ -254,10 +334,15 @@
       "artist_credit": "Daoko x Yohji Igarashi",
       "song_title": "Escape",
       "player": "Vianney",
-      "points": null,
+      "points": 59,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 80,
+      "semi_final_rank": 2,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:unitedstates",
@@ -269,10 +354,15 @@
       "artist_credit": "Caroline Polachek",
       "song_title": "Welcome to my Island",
       "player": "Valério",
-      "points": null,
+      "points": 56,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": null,
+      "semi_final_points": null,
+      "semi_final_rank": null,
+      "semi_final_score_note": "No numeric score in the published semifinal table"
     },
     {
       "entry_id": "modern:21:mexico",
@@ -284,10 +374,15 @@
       "artist_credit": "Ambar Lucid",
       "song_title": "Get Lost In the Music",
       "player": "Addad",
-      "points": null,
+      "points": 49,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": null,
+      "semi_final_points": null,
+      "semi_final_rank": null,
+      "semi_final_score_note": "No numeric score in the published semifinal table"
     },
     {
       "entry_id": "modern:21:armenia",
@@ -299,10 +394,15 @@
       "artist_credit": "LADANIVA",
       "song_title": "Pourquoi t’as fait ça?",
       "player": "Matt",
-      "points": null,
+      "points": 46,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 57,
+      "semi_final_rank": 7,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:norway",
@@ -314,10 +414,15 @@
       "artist_credit": "METTESON",
       "song_title": "Second Heart",
       "player": "Amanda",
-      "points": null,
+      "points": 43,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 45,
+      "semi_final_rank": 11,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:taiwan",
@@ -329,10 +434,15 @@
       "artist_credit": "NATSUKO",
       "song_title": "Fu’is",
       "player": "Tom",
-      "points": null,
+      "points": 39,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 50,
+      "semi_final_rank": 10,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:southkorea",
@@ -344,10 +454,15 @@
       "artist_credit": "JUNNY",
       "song_title": "Color Me",
       "player": "Ângie",
-      "points": null,
+      "points": 37,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 1,
+      "semi_final_points": 41,
+      "semi_final_rank": 12,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:india",
@@ -359,10 +474,15 @@
       "artist_credit": "Twin Strings",
       "song_title": "Aise Ho Tum",
       "player": "Pranali",
-      "points": null,
+      "points": 33,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 44,
+      "semi_final_rank": 11,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:australia",
@@ -374,10 +494,15 @@
       "artist_credit": "Vallis Alps",
       "song_title": "Set It Off, Set It Right",
       "player": "David",
-      "points": null,
+      "points": 26,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "published_final_crosschecked",
+      "final_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/",
+      "semi_final": 2,
+      "semi_final_points": 53,
+      "semi_final_rank": 9,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:brazil",
@@ -392,7 +517,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 1,
+      "semi_final_points": 40,
+      "semi_final_rank": 14,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:finland",
@@ -407,7 +536,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 1,
+      "semi_final_points": 40,
+      "semi_final_rank": 15,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:greece",
@@ -422,7 +555,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 1,
+      "semi_final_points": 34,
+      "semi_final_rank": 16,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:indonesia",
@@ -437,7 +574,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 2,
+      "semi_final_points": 30,
+      "semi_final_rank": 16,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:monaco",
@@ -452,7 +593,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 2,
+      "semi_final_points": 38,
+      "semi_final_rank": 14,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:southafrica",
@@ -467,7 +612,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 2,
+      "semi_final_points": 26,
+      "semi_final_rank": 17,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:spain",
@@ -482,7 +631,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 1,
+      "semi_final_points": 23,
+      "semi_final_rank": 18,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:sweden",
@@ -497,7 +650,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 2,
+      "semi_final_points": 41,
+      "semi_final_rank": 13,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:turkiye",
@@ -512,7 +669,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 1,
+      "semi_final_points": 40,
+      "semi_final_rank": 13,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:ukraine",
@@ -527,7 +688,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 2,
+      "semi_final_points": 36,
+      "semi_final_rank": 15,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     },
     {
       "entry_id": "modern:21:vietnam",
@@ -542,7 +707,11 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-21",
-      "verification_status": "catalogue_verified_scores_pending"
+      "verification_status": "catalogue_verified_scores_pending",
+      "semi_final": 1,
+      "semi_final_points": 29,
+      "semi_final_rank": 17,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-21/"
     }
   ]
 }

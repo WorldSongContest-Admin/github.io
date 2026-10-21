@@ -12,11 +12,9 @@ sys.path.insert(0,str(Path(__file__).resolve().parent))
 from import_published_early_edition import Parser, norm, ranked, points, key as old_key
 
 ROOT=Path(__file__).resolve().parents[1]
-URLS={
-20:"https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-genz-edition-20/",
-31:"https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-genz-edition-31/",
-40:"https://wscgenz.wordpress.com/wsc-genz-31-40/wsc-edition-40/",
-}
+URLS={n:f"https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-{n}/"
+      for n in range(21,31)}
+
 def key(s):
  k=old_key(s)
  return "turkiye" if k in ("trkiye","turkiye","turkey") else k
@@ -86,4 +84,6 @@ def run(n,url):
  print(f"VERIFIED_EDITION {n} entries={len(entries)} finalists={len(final)} semifinal_scores={len(semi)} missing={missing}")
 
 if __name__=="__main__":
- for n,url in URLS.items():run(n,url)
+ for n,url in URLS.items():
+  try:run(n,url)
+  except Exception as exc:print("NEEDS_REVIEW",n,type(exc).__name__,str(exc)[:500])
