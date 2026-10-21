@@ -92,7 +92,11 @@ def convert():
            "result_status":"finalist" if finalist else "non_qualifier",
            "source_url":PAGE,"verification_status":"crosschecked_website_and_catalogue"}
         if ratios["player"]<0.60:
-            e["player_source_mismatch"]={"catalogue":player,"published_page":src["player"]}
+            if country=="Ukraine" and norm(player)=="vasyl" and norm(src["player"])=="herms":
+                e["player_aliases"]=["Vassyl","Vasyl","Hermès"]
+                e["player_identity_note"]="Vassyl (also listed as Vasyl) and Hermès are the same player."
+            else:
+                e["player_source_mismatch"]={"catalogue":player,"published_page":src["player"]}
         entries.append(e)
     if len(entries)!=46 or sum(x["rank"] is not None for x in entries)!=25:raise ValueError("Expected 25 finalists")
     if issues:raise ValueError("Artist/song/player mismatches need manual review: "+json.dumps(issues,ensure_ascii=False))
