@@ -190,10 +190,12 @@
       "result_status": "finalist",
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz01-genz10/wsc-gen-z-edition-6/",
       "verification_status": "crosschecked_website_and_catalogue",
-      "player_source_mismatch": {
-        "catalogue": "Vasyl",
-        "published_page": "Hermès"
-      }
+      "player_aliases": [
+        "Vassyl",
+        "Vasyl",
+        "Hermès"
+      ],
+      "player_identity_note": "Vassyl (also listed as Vasyl) and Hermès are the same player."
     },
     {
       "entry_id": "modern:6:italy",
