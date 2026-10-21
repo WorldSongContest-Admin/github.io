@@ -4,6 +4,7 @@ on:
     branches: [feature/modern-early-points-12-19]
     paths:
       - 'scripts/enrich_modern_early_batch.py'
+      - 'scripts/import_published_early_edition.py'
       - '.github/workflows/enrich-modern-early.yml'
   workflow_dispatch:
 permissions:
