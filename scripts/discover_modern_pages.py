@@ -10,10 +10,11 @@ WP="https://wscgenz.wordpress.com/wp-json/wp/v2/pages?per_page=100&page={}"
 def get(url):
  with urlopen(Request(url,headers={"User-Agent":"WSC-Public-Results-Indexer/1.0","Accept":"application/json"}),timeout=25) as r:return json.load(r)
 def edition_from_url(url):
- path=urlparse(url).path.lower()
- found=re.search(r"(?:wsc[-_]?(?:gen[-_]?z[-_]?)?)?(?:edition[-_]?)?(\d+)(?:[-_]?final)?(?:/|$)",path)
- return int(found.group(1)) if found else None
-
+ path=urlparse(url).path.lower().rstrip("/")
+ name=path.rsplit("/",1)[-1]
+ if len(re.findall(r"\\d+",name))!=1:return None
+ m=re.search(r"(?:edition|wsc|genz)[-_]?(\\d+)(?:[-_]final)?$",name)
+ return int(m.group(1)) if m else None
 
 def main():
     from html.parser import HTMLParser
@@ -40,7 +41,7 @@ def main():
             print("SITE_ROOT",base,"BYTES",len(page),"LINKS",len(urls))
             for url in urls:
                 ed=edition_from_url(url)
-                if ed and ed<=47 and "the-early-years" not in url and "the-rebirth" not in url and ("wsc-gen" in url or "wsc-edition" in url or re.search(r"/wsc-\\d+/",url)):
+                if ed and ed<=47 and "the-early-years" not in url and "the-rebirth" not in url:
                     if ed not in discovered or "final" in url and "final" not in discovered[ed]:discovered[ed]=url
                 elif "wsc-genz" in url or "previous-contests" in url:
                     print("POTENTIAL_CATEGORY_LINK",url[:150])
