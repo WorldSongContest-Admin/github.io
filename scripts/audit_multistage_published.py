@@ -8,7 +8,11 @@ import sys
 from pathlib import Path
 from urllib.request import Request,urlopen
 sys.path.insert(0,str(Path(__file__).resolve().parent))
-from import_published_early_edition import Parser,catalogue,key,norm,ranked,points
+from import_published_early_edition import Parser,catalogue,key as base_key,norm,ranked,points
+
+def key(s):
+ k=base_key(s)
+ return 'turkiye' if k in ('trkiye','turkiye','turkey') else k
 
 def table_rows(table):
  if not table:return []
