@@ -646,7 +646,9 @@
       "points": null,
       "result_status": "non_qualifier",
       "source_url": "https://web.archive.org/web/20141228215037/http://www.world-song-contest.com/wsc41.htm",
-      "verification_status": "automated_needs_review"
+      "verification_status": "automated_needs_review",
+      "player_identity_id": "original_australia_representative",
+      "player_attribution": "User-confirmed: same Australian representative from Original Edition 27 through 96"
     },
     {
       "entry_id": "original:41:6236a347d7324f81",

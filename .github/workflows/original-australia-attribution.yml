@@ -1,0 +1,32 @@
+name: Verify Original Australia Player Attribution
+on:
+  push:
+    branches: [data/original-australia-player-attribution]
+    paths:
+      - 'scripts/annotate_original_australia.py'
+      - '.github/workflows/original-australia-attribution.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  annotate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: data/original-australia-player-attribution
+          persist-credentials: true
+      - name: Apply user-confirmed Australia player identity
+        run: python scripts/annotate_original_australia.py
+      - name: Validate complete archive
+        run: python scripts/validate_unified_results.py
+      - name: Commit annotated Original Era data only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive/data/editions/
+          if ! git diff --cached --quiet; then
+            git commit -m "Attribute Original Editions 27-96 Australia to same representative"
+            git push origin HEAD:data/original-australia-player-attribution
+          fi
