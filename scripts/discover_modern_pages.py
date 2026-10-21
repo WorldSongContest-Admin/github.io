@@ -40,7 +40,8 @@ def main():
             print("SITE_ROOT",base,"BYTES",len(page),"LINKS",len(urls))
             for url in urls:
                 ed=edition_from_url(url)
-                if ed and ed<=47 and "the-early-years" not in url and "the-rebirth" not in url and ("wsc-gen" in url or "wsc-edition" in url or re.search(r"/wsc-\\d+/",url)):\n                    if ed not in discovered or "final" in url and "final" not in discovered[ed]:discovered[ed]=url
+                if ed and ed<=47 and "the-early-years" not in url and "the-rebirth" not in url and ("wsc-gen" in url or "wsc-edition" in url or re.search(r"/wsc-\\d+/",url)):
+                    if ed not in discovered or "final" in url and "final" not in discovered[ed]:discovered[ed]=url
                 elif "wsc-genz" in url or "previous-contests" in url:
                     print("POTENTIAL_CATEGORY_LINK",url[:150])
         except Exception as exc:
