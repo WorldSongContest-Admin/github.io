@@ -1,0 +1,32 @@
+name: Import Earliest Modern Era Points
+on:
+  push:
+    branches: [feature/modern-earliest-score-import]
+    paths:
+      - 'scripts/enrich_earliest_modern.py'
+      - '.github/workflows/enrich-earliest-modern.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/modern-earliest-score-import
+          persist-credentials: true
+      - name: Validate and import published points only
+        run: python scripts/enrich_earliest_modern.py > /tmp/early.log && grep -E 'VERIFIED_EDITION|NEEDS_REVIEW' /tmp/early.log
+      - name: Validate archive integrity
+        run: python scripts/validate_unified_results.py
+      - name: Commit verified score changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive/data/modern/editions/
+          if ! git diff --cached --quiet; then
+            git commit -m "Add confirmed published scores to earliest Modern Era results"
+            git push origin HEAD:feature/modern-earliest-score-import
+          fi
