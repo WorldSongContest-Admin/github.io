@@ -14,7 +14,7 @@ const standardCountry=x=>countryAliases[countryKey(x)]||countryKey(x);
 const has=(value,id)=>!$(id).value.trim()||lowercase(value).includes(lowercase($(id).value.trim()));
 const exact=(value,id)=>{const search=$(id).value.trim();return !search||(value!==null&&value!==undefined&&Number.isFinite(Number(value))&&Number(value)===Number(search));};
 const option=(id,value)=>{const e=document.createElement('option');e.value=value;e.textContent=value.replaceAll('_',' ');$(id).append(e);};
-const finalDisplay=(x,k)=>{if(x.result_status==='non_qualifier'){if(x.era==='original'&&k==='rank')return x.rank==null?'Unknown':String(x.rank);return '–';}return x[k]==null?'Unknown':String(x[k]);};
+const finalDisplay=(x,k)=>{if(x.result_status==='non_qualifier'){if(k==='rank')return x.rank==null?'–':String(x.rank);return '–';}return x[k]==null?'Unknown':String(x[k]);};
 const semiDisplay=(x,k)=>{if(x.automatic_qualifier&&x.semi_final_rank==null)return k==='semi_final_rank'?'AQ':'–';if(x.semi_final_held===false)return '';if(x.era==='original'&&x.semi_final_held!==true&&x.semi_final_verified!==true)return '';return x[k]==null?'Unknown':String(x[k]);};
 const compare=(a,b,k)=>{const x=a[k]??null,y=b[k]??null;if(x===null)return y===null?0:1;if(y===null)return -1;return typeof x==='number'&&typeof y==='number'?x-y:String(x).localeCompare(String(y),undefined,{numeric:true,sensitivity:'base'});};
 function apply(){const q=lowercase($('query').value.trim()),era=$('era').value,edition=$('edition').value,status=$('status').value,chosen=$('countryPick').value;
