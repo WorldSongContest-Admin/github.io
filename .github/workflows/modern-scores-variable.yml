@@ -1,7 +1,7 @@
-name: Audit Variable Modern Score Tables
+name: Audit Modern Editions 35 and 45
 on:
   push:
-    branches: [feature/modern-scores-flexible-tables]
+    branches: [feature/modern-35-45-scores]
     paths:
       - 'scripts/enrich_modern_variable_tables.py'
       - '.github/workflows/modern-scores-variable.yml'
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: feature/modern-scores-flexible-tables
+          ref: feature/modern-35-45-scores
           persist-credentials: true
       - name: Cross-check every published score against the WSC catalogue
         run: python scripts/enrich_modern_variable_tables.py
@@ -28,5 +28,5 @@ jobs:
           git add archive/data/modern/editions/
           if ! git diff --cached --quiet; then
             git commit -m "Enrich Modern Era with strictly matched additional published scores"
-            git push origin HEAD:feature/modern-scores-flexible-tables
+            git push origin HEAD:feature/modern-35-45-scores
           fi

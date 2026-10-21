@@ -9,25 +9,13 @@ import json,re,sys
 from pathlib import Path
 from urllib.request import Request,urlopen
 sys.path.insert(0,str(Path(__file__).resolve().parent))
-from import_published_early_edition import Parser, norm, points, ranked, key as old_key
+from import_published_early_edition import Parser, norm, ranked, key as old_key
 
 ROOT=Path(__file__).resolve().parents[1]
 BASE="https://wscgenz.wordpress.com"
 URLS={
-24:f"{BASE}/previous-contests/wsc-genz21-genz30/wsc-genz-edition-24/",
-25:f"{BASE}/previous-contests/wsc-genz21-genz30/wsc-genz-edition-25/",
-29:f"{BASE}/previous-contests/wsc-genz21-genz30/wsc-genz-edition-29/",
-30:f"{BASE}/previous-contests/wsc-genz21-genz30/wsc-genz-30/",
-32:f"{BASE}/wsc-genz-31-40/wsc-edition-32/",
-34:f"{BASE}/wsc-genz-31-40/wsc-edition-34/",
 35:f"{BASE}/wsc-genz-31-40/wsc-edition-35/",
-38:f"{BASE}/wsc-genz-31-40/wsc-edition-38/",
-41:f"{BASE}/previous-contests/wsc-genz-41-50/wsc-edition-41/",
-42:f"{BASE}/previous-contests/wsc-genz-41-50/wsc-edition-42/",
-43:f"{BASE}/previous-contests/wsc-genz-41-50/wsc-edition-43/",
-44:f"{BASE}/previous-contests/wsc-genz-41-50/wsc-edition-44/",
 45:f"{BASE}/previous-contests/wsc-genz-41-50/wsc-edition-45/",
-46:f"{BASE}/previous-contests/wsc-genz-41-50/wsc-edition-46/",
 }
 ALIASES={
  "trkiye":"turkiye","turkey":"turkiye","kazakshtan":"kazakhstan",
@@ -36,6 +24,10 @@ ALIASES={
  "fyrmacedonia":"northmacedonia","bosniaherz":"bosniaherzegovina",
  "bosniaandherzegovina":"bosniaherzegovina",
 }
+def points(text):
+ m=re.fullmatch(r"\s*(\d+)\s*(?:pts?)?\s*\*?\s*",str(text),re.I)
+ return int(m.group(1)) if m else None
+
 def key(name):
  k=old_key(name)
  return ALIASES.get(k,k)
@@ -44,7 +36,7 @@ def rows(table):
  if not table:return []
  header={norm(name):i for i,name in enumerate(table[0])}
  if "country" not in header:return []
- score_index=next((header[x] for x in ("points","voted","results") if x in header),None)
+ score_index=next((header[x] for x in ("points","voted","results","status") if x in header),None)
  if score_index is None:return []
  # Find position by column name (some tables lead with running order).
  rank_index=next((header[x] for x in ("place","position","rank") if x in header),None)
