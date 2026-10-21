@@ -536,7 +536,7 @@
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 31,
       "country": "Brazil",
       "artist_credit": "Hierofante Púrpura",
       "song_title": "Aqui Temos Medo",
@@ -553,14 +553,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:canada",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 33,
       "country": "Canada",
       "artist_credit": "Young Bombs",
       "song_title": "Don't let them",
@@ -577,14 +578,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:chile",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 30,
       "country": "Chile",
       "artist_credit": "Soulfia",
       "song_title": "Toda la Noche",
@@ -601,14 +603,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:china",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 27,
       "country": "China",
       "artist_credit": "Tina Ray",
       "song_title": "TIVA000",
@@ -625,14 +628,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:czechia",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 34,
       "country": "Czechia",
       "artist_credit": "Electric Lady",
       "song_title": "Rebelia",
@@ -649,14 +653,15 @@
       "semi_final_group": 1,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:estonia",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 32,
       "country": "Estonia",
       "artist_credit": "Kreatiivmootor",
       "song_title": "Mentalbau",
@@ -673,14 +678,15 @@
       "semi_final_group": 1,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:germany",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 28,
       "country": "Germany",
       "artist_credit": "COMODO",
       "song_title": "Hardboiled Shadow",
@@ -697,14 +703,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:kazakhstan",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 29,
       "country": "Kazakhstan",
       "artist_credit": "STEPPEFISH",
       "song_title": "Stardust",
@@ -721,14 +728,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:romania",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 26,
       "country": "Romania",
       "artist_credit": "Roxen",
       "song_title": "Ce-ți cântă dragostea",
@@ -745,14 +753,15 @@
       "semi_final_group": 1,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:sweden",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 24,
       "country": "Sweden",
       "artist_credit": "Leo Leoson",
       "song_title": "Morning Lullaby",
@@ -769,14 +778,15 @@
       "semi_final_group": 1,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:13:unitedstates",
       "edition_key": "modern:13",
       "era": "modern",
       "edition_number": 13,
-      "rank": null,
+      "rank": 25,
       "country": "United States",
       "artist_credit": "Jimmie Allen & Noah Cyrus",
       "song_title": "This Is Us",
@@ -793,7 +803,8 @@
       "semi_final_group": 1,
       "semi_final_held": true,
       "semi_final_verified": true,
-      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals"
+      "semi_final_source": "Uploaded WSC_13_Results.xlsx, Semi Finals",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     }
   ]
 }
