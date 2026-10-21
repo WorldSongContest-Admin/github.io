@@ -1,0 +1,13 @@
+name: Audit Public WSC WordPress Scores
+on:
+  push:
+    branches: [research/wordpress-published-scores]
+  workflow_dispatch:
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: Inspect public Edition 6 results layout
+        run: python scripts/audit_public_wordpress_scores.py
