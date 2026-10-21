@@ -470,7 +470,7 @@
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 22,
       "country": "Australia",
       "artist_credit": "Ry X",
       "song_title": "Spiral",
@@ -486,14 +486,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
-      "semi_final_verified": true
+      "semi_final_verified": true,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:14:canada",
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 28,
       "country": "Canada",
       "artist_credit": "Angus Maude",
       "song_title": "Frankenstein",
@@ -510,14 +511,15 @@
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
       "semi_final_verified": true,
-      "semi_final_rank": 13
+      "semi_final_rank": 13,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:14:chile",
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 29,
       "country": "Chile",
       "artist_credit": "Vesta Lugg",
       "song_title": "Brígida",
@@ -534,14 +536,15 @@
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
       "semi_final_verified": true,
-      "semi_final_rank": 14
+      "semi_final_rank": 14,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:14:japan",
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 25,
       "country": "Japan",
       "artist_credit": "sakanaction",
       "song_title": "Wasurerarenai no",
@@ -558,14 +561,15 @@
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
       "semi_final_verified": true,
-      "semi_final_rank": 11
+      "semi_final_rank": 11,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:14:kazakhstan",
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 30,
       "country": "Kazakhstan",
       "artist_credit": "Irina Kairatovna",
       "song_title": "Mayk, krossovki",
@@ -581,14 +585,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
-      "semi_final_verified": true
+      "semi_final_verified": true,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:14:mexico",
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 27,
       "country": "Mexico",
       "artist_credit": "Ale Zéguer",
       "song_title": "Años Luz",
@@ -604,14 +609,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
-      "semi_final_verified": true
+      "semi_final_verified": true,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:14:netherlands",
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 26,
       "country": "Netherlands",
       "artist_credit": "Di-Rect",
       "song_title": "Soldier On",
@@ -628,14 +634,15 @@
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
       "semi_final_verified": true,
-      "semi_final_rank": 12
+      "semi_final_rank": 12,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:14:serbia",
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 31,
       "country": "Serbia",
       "artist_credit": "Beogradski Sindikat i Etno grupa “Trag”",
       "song_title": "Dogodine u Prizrenu",
@@ -652,14 +659,15 @@
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
       "semi_final_verified": true,
-      "semi_final_rank": 15
+      "semi_final_rank": 15,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:14:southafrica",
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 23,
       "country": "South Africa",
       "artist_credit": "Alice Phoebe Lou",
       "song_title": "Dirty Mouth",
@@ -675,14 +683,15 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
-      "semi_final_verified": true
+      "semi_final_verified": true,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:14:sweden",
       "edition_key": "modern:14",
       "era": "modern",
       "edition_number": 14,
-      "rank": null,
+      "rank": 24,
       "country": "Sweden",
       "artist_credit": "Little Majorette",
       "song_title": "Not Mine",
@@ -698,7 +707,8 @@
       "semi_final_group": 2,
       "semi_final_held": true,
       "semi_final_source": "Uploaded WSC_14_Results.xlsx, Semi Finals",
-      "semi_final_verified": true
+      "semi_final_verified": true,
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     }
   ]
 }
