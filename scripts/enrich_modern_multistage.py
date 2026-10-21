@@ -23,7 +23,7 @@ for n in range(32,47):
 
 def key(s):
  k=old_key(s)
- return "turkiye" if k in ("trkiye","turkiye","turkey") else k
+ return "turkiye" if k in ("trkiye","turkiye","turkey") else ("kazakhstan" if k=="kazakshtan" else k)
 
 def parse_rows(table):
  if not table:return []
