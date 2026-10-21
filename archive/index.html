@@ -15,7 +15,7 @@ const has=(value,id)=>!$(id).value.trim()||lowercase(value).includes(lowercase($
 const exact=(value,id)=>{const search=$(id).value.trim();return !search||(value!==null&&value!==undefined&&Number.isFinite(Number(value))&&Number(value)===Number(search));};
 const option=(id,value)=>{const e=document.createElement('option');e.value=value;e.textContent=value.replaceAll('_',' ');$(id).append(e);};
 const finalDisplay=(x,k)=>{if(x.result_status==='non_qualifier'){if(x.era==='original'&&k==='rank')return x.rank==null?'Unknown':String(x.rank);return '–';}return x[k]==null?'Unknown':String(x[k]);};
-const semiDisplay=(x,k)=>{if(x.semi_final_held===false)return '';if(x.era==='original'&&x.semi_final_held!==true&&x.semi_final_verified!==true)return '';return x[k]==null?'Unknown':String(x[k]);};
+const semiDisplay=(x,k)=>{if(x.automatic_qualifier&&x[k]==null)return k==='semi_final_rank'?'AQ':'';if(x.semi_final_held===false)return '';if(x.era==='original'&&x.semi_final_held!==true&&x.semi_final_verified!==true)return '';return x[k]==null?'Unknown':String(x[k]);};
 const compare=(a,b,k)=>{const x=a[k]??null,y=b[k]??null;if(x===null)return y===null?0:1;if(y===null)return -1;return typeof x==='number'&&typeof y==='number'?x-y:String(x).localeCompare(String(y),undefined,{numeric:true,sensitivity:'base'});};
 function apply(){const q=lowercase($('query').value.trim()),era=$('era').value,edition=$('edition').value,status=$('status').value,chosen=$('countryPick').value;
 filtered=entries.filter(x=>(!era||x.era===era)&&(!edition||x.edition_key===edition)&&(!status||x.result_status===status)&&(!chosen||standardCountry(x.country)===chosen)&&exact(x.rank,'rank')&&exact(x.points,'points')&&has(x.country,'country')&&has(x.player,'player')&&has(x.artist_credit,'artist')&&has(x.song_title,'song')&&(!q||[x.era,x.edition_number,x.rank,x.country,x.player,x.artist_credit,x.song_title,x.rank,x.points,x.semi_final_rank,x.semi_final_points,x.result_status].some(y=>lowercase(y).includes(q))));
@@ -52,6 +52,15 @@ if(modernResponse.ok){
  entries.push(...added);modernCount=mm.editions.length;
 }else if(modernResponse.status!==404){throw Error('Modern manifest could not be loaded');}
 const keys=new Set(entries.map(x=>x.entry_id));if(keys.size!==entries.length)throw Error('Duplicate entry IDs across eras');
+// Each era's previous winner qualifies directly for the following edition.
+// Preserve actual semi-final results when historically recorded.
+const winnerByEdition=new Map(entries.filter(x=>x.result_status==='finalist'&&x.rank===1).map(x=>[x.edition_key,standardCountry(x.country)]));
+for(const x of entries){
+ const previousWinner=winnerByEdition.get(x.era+':'+(x.edition_number-1));
+ if(previousWinner&&x.result_status==='finalist'&&standardCountry(x.country)===previousWinner){
+  x.automatic_qualifier=true;
+ }
+}
 entries.sort((a,b)=>(a.era===b.era?0:a.era==='original'?-1:1)||a.edition_number-b.edition_number||a.rank-b.rank);
 const countryNames=new Map();for(const x of entries){const k=standardCountry(x.country);if(!countryNames.has(k)||x.era==='modern')countryNames.set(k,x.country);}
 for(const [k,name] of [...countryNames].sort((a,b)=>a[1].localeCompare(b[1]))){const o=document.createElement('option');o.value=k;o.textContent=name;$('countryPick').append(o);}
