@@ -400,7 +400,7 @@
       "edition_key": "modern:47",
       "era": "modern",
       "edition_number": 47,
-      "rank": 25,
+      "rank": 24,
       "country": "Netherlands",
       "artist_credit": "NYVE",
       "song_title": "Be my own",
@@ -410,16 +410,15 @@
       "televote_points": 3,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-47",
-      "verification_status": "placement_conflict_needs_review",
-      "archive_rank": 24,
-      "review_note": "Published HTML placement differs from completed Edition 47 final scoreboard; scoreboard rank used."
+      "verification_status": "official_placement_confirmed",
+      "placement_basis": "Official published final rank; Chile was placed below Netherlands due to a non-voting penalty."
     },
     {
       "entry_id": "modern:47:chile",
       "edition_key": "modern:47",
       "era": "modern",
       "edition_number": 47,
-      "rank": 24,
+      "rank": 25,
       "country": "Chile",
       "artist_credit": "Karla Grunewaldt",
       "song_title": "Deseo oculto",
@@ -429,9 +428,9 @@
       "televote_points": 29,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-47",
-      "verification_status": "placement_conflict_needs_review",
-      "archive_rank": 25,
-      "review_note": "Published HTML placement differs from completed Edition 47 final scoreboard; scoreboard rank used."
+      "verification_status": "official_placement_confirmed",
+      "non_voting_penalty": true,
+      "placement_basis": "Official published final rank reflects Chile's non-voting penalty; points remain the earned combined total."
     },
     {
       "entry_id": "modern:47:belgium",
