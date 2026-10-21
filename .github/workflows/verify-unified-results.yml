@@ -1,0 +1,37 @@
+name: Verify Unified WSC Results
+on:
+  pull_request:
+    paths:
+      - 'archive/**'
+      - 'scripts/import_modern_results.py'
+      - 'scripts/validate_unified_results.py'
+      - '.github/workflows/verify-unified-results.yml'
+  workflow_dispatch:
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate original and optional modern edition files
+        run: python scripts/validate_unified_results.py
+      - name: Check import and inspection scripts compile
+        run: python -m py_compile scripts/import_modern_results.py scripts/inspect_main_app.py scripts/validate_unified_results.py
+      - name: Inventory current application script structure (no results printed)
+        run: python scripts/inspect_main_app.py index.html
+      - name: Check archive browser script syntax
+        run: |
+          python - <<'PY'
+          from html.parser import HTMLParser
+          from pathlib import Path
+          class Scripts(HTMLParser):
+              def __init__(self): super().__init__(); self.inside=False; self.parts=[]
+              def handle_starttag(self, tag, attrs):
+                  if tag=='script' and not dict(attrs).get('src'): self.inside=True
+              def handle_data(self, data):
+                  if self.inside: self.parts.append(data)
+              def handle_endtag(self, tag):
+                  if tag=='script': self.inside=False
+          h=Scripts(); h.feed(Path('archive/index.html').read_text())
+          Path('/tmp/wsc-browser.js').write_text('\n'.join(h.parts))
+          PY
+          node --check /tmp/wsc-browser.js
