@@ -4,6 +4,7 @@ on:
     branches: [feature/modern-earliest-score-import]
     paths:
       - 'scripts/enrich_earliest_modern.py'
+      - 'scripts/import_published_early_edition.py'
       - '.github/workflows/enrich-earliest-modern.yml'
   workflow_dispatch:
 permissions:
