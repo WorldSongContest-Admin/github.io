@@ -1,0 +1,13 @@
+name: Discover WSC Public Edition Pages
+on:
+  push:
+    branches: [feature/batch-modern-published-scores]
+  workflow_dispatch:
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Find public edition page URLs
+        run: python scripts/discover_modern_pages.py
