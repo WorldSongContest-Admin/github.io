@@ -435,7 +435,7 @@
       "edition_key": "modern:12",
       "era": "modern",
       "edition_number": 12,
-      "rank": null,
+      "rank": 33,
       "country": "Brazil",
       "artist_credit": "Banda Eddie",
       "song_title": "Na Veia",
@@ -447,14 +447,15 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 25,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:12:chile",
       "edition_key": "modern:12",
       "era": "modern",
       "edition_number": 12,
-      "rank": null,
+      "rank": 34,
       "country": "Chile",
       "artist_credit": "Lola Indigo, Danna Paola, Denise Rosenthal",
       "song_title": "Santería",
@@ -466,14 +467,15 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 19,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:12:estonia",
       "edition_key": "modern:12",
       "era": "modern",
       "edition_number": 12,
-      "rank": null,
+      "rank": 32,
       "country": "Estonia",
       "artist_credit": "Svaja Vatra",
       "song_title": "Svit, Ty Minajeschsja",
@@ -485,14 +487,15 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 28,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:12:greece",
       "edition_key": "modern:12",
       "era": "modern",
       "edition_number": 12,
-      "rank": null,
+      "rank": 29,
       "country": "Greece",
       "artist_credit": "Mando",
       "song_title": "Skies Kai Hromata",
@@ -504,14 +507,15 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 42,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:12:iceland",
       "edition_key": "modern:12",
       "era": "modern",
       "edition_number": 12,
-      "rank": null,
+      "rank": 26,
       "country": "Iceland",
       "artist_credit": "BRÍET",
       "song_title": "Cold feet",
@@ -523,14 +527,15 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 48,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:12:norway",
       "edition_key": "modern:12",
       "era": "modern",
       "edition_number": 12,
-      "rank": null,
+      "rank": 28,
       "country": "Norway",
       "artist_credit": "Madrugada",
       "song_title": "Ecstasy",
@@ -542,14 +547,15 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 43,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:12:romania",
       "edition_key": "modern:12",
       "era": "modern",
       "edition_number": 12,
-      "rank": null,
+      "rank": 31,
       "country": "Romania",
       "artist_credit": "Alexandra Stan",
       "song_title": "Tokyo",
@@ -561,7 +567,8 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 35,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:12:sanmarino",
@@ -587,7 +594,7 @@
       "edition_key": "modern:12",
       "era": "modern",
       "edition_number": 12,
-      "rank": null,
+      "rank": 27,
       "country": "South Korea",
       "artist_credit": "Se So Neon",
       "song_title": "Joke!",
@@ -599,7 +606,8 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 46,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     },
     {
       "entry_id": "modern:12:spain",
@@ -625,7 +633,7 @@
       "edition_key": "modern:12",
       "era": "modern",
       "edition_number": 12,
-      "rank": null,
+      "rank": 30,
       "country": "United States",
       "artist_credit": "Kevin Quinn",
       "song_title": "Wild Fire",
@@ -637,7 +645,8 @@
       "source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz11-genz20/wsc-gen-z-edition-12-final/",
       "verification_status": "published_website_and_catalogue",
       "semi_final_points": 36,
-      "semi_final_points_source": "published_non_qualifier_result"
+      "semi_final_points_source": "published_non_qualifier_result",
+      "rank_source_note": "Published overall classification position; did not qualify for the final"
     }
   ]
 }
