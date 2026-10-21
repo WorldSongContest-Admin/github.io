@@ -21,3 +21,11 @@ for n,slug in PATHS.items():
         run(n,BASE+slug,True)
     except Exception as exc:
         print("NEEDS_REVIEW",n,type(exc).__name__,str(exc)[:400])
+        try:
+            from urllib.request import urlopen,Request
+            from import_published_early_edition import Parser
+            with urlopen(Request(BASE+slug,headers={"User-Agent":"WSC-Archive-Audit/1.0"}),timeout=20) as res:
+                p=Parser();p.feed(res.read().decode("utf-8","replace"))
+            print("TABLE_SAMPLES",n,[(len(t),t[:2]) for t in p.tables[:3]])
+        except Exception as err:print("SAMPLE_UNAVAILABLE",n,type(err).__name__)
+
