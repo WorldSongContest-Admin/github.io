@@ -1,0 +1,12 @@
+name: Audit Modern WSC Data Structure
+on:
+  push:
+    branches: [research/modern-results-source-audit]
+  workflow_dispatch:
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Report safe structural metadata
+        run: python scripts/audit_modern_structure.py
