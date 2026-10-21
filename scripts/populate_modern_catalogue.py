@@ -33,7 +33,7 @@ def main():
  for n in range(1,48):
   match=re.search(r'<div class="history-entry edition-entry" id="edition-'+str(n)+r'">',source)
   if not match:raise ValueError(f"Missing catalogue edition {n}")
-  next_start=re.search(r'<div class="history-entry edition-entry" id="edition-\\d+">',source[match.end():])
+  next_start=re.search(r'<div class="history-entry edition-entry" id="edition-\d+">',source[match.end():])
   section=source[match.end():match.end()+next_start.start()] if next_start else source[match.end():]
   table=re.search(r"<table[^>]*>.*?</table>",section,re.S)
   if not table:raise ValueError(f"Edition {n}: no entries table")
@@ -75,7 +75,7 @@ def main():
   path=ARCHIVE/f"editions/{n:03}.json"
   path.parent.mkdir(parents=True,exist_ok=True)
   path.write_text(json.dumps({"schema_version":1,"era":"modern","edition_key":f"modern:{n}",
-   "edition_number":n,"entries":entries},ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+   "edition_number":n,"entries":entries},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
   manifest["editions"].append({"edition_key":f"modern:{n}","edition_number":n,
    "entries":len(entries),"path":f"editions/{n:03}.json"})
   created+=1
@@ -83,6 +83,6 @@ def main():
  manifest["editions"].sort(key=lambda x:x["edition_number"])
  manifest["edition_count"]=len(manifest["editions"])
  manifest["entry_count"]=sum(x["entries"] for x in manifest["editions"])
- manifest_path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\\n",encoding="utf-8")
+ manifest_path.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
  print("SUMMARY",created,"new editions,",manifest["edition_count"],"modern editions,",manifest["entry_count"],"modern entries; existing scores preserved")
 if __name__=="__main__":main()
