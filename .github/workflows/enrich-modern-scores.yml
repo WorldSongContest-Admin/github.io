@@ -1,4 +1,4 @@
-name: Enrich Modern WSC Scores 21-30
+name: Enrich Modern WSC Scores 32-46 21-30
 on:
   push:
     branches: [feature/modern-points-21-30]
