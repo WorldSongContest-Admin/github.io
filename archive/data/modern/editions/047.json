@@ -519,7 +519,7 @@
       "artist_credit": "Karla Grunewaldt",
       "song_title": "Deseo oculto",
       "player": "Christoforus",
-      "points": 48,
+      "points": 34,
       "jury_points": 19,
       "televote_points": 29,
       "result_status": "finalist",
@@ -530,7 +530,11 @@
       "entry_source_type": "published_wsc_archive",
       "score_source_type": "organiser_completed_final_scoreboard",
       "score_source_label": "WSC47 FINAL workbook",
-      "score_source_public": false
+      "score_source_public": false,
+      "pre_penalty_points": 48,
+      "non_voting_penalty_points": 14,
+      "points_note": "Official WordPress Edition 47 final table publishes 34pts* after a 14-point non-voting penalty. Completed voting workbook totals 48 before penalty.",
+      "published_points_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz-41-50/wsc-edition-47/"
     },
     {
       "entry_id": "modern:47:belgium",
