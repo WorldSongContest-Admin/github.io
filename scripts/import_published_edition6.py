@@ -82,7 +82,7 @@ def convert():
         if not finalist and status!="Nonqualifier":raise ValueError("Unexpected result status "+status)
         ratios={c:SequenceMatcher(None,norm(value),norm(src[k])).ratio() for c,value,k in
                 [("artist",artist,"artist"),("song",song,"song"),("player",player,"player")]}
-        if min(ratios.values())<0.60:issues.append({"country":country,"similarity":ratios,
+        if min(ratios["artist"],ratios["song"])<0.60:issues.append({"country":country,"similarity":ratios,
                            "catalogue":[artist,song,player],"website":[src["artist"],src["song"],src["player"]]})
         e={"entry_id":"modern:6:"+key,"edition_key":"modern:6","era":"modern","edition_number":6,
            "rank":final_rank,"country":country,"artist_credit":artist,"song_title":song,"player":player,
@@ -91,6 +91,8 @@ def convert():
            "published_result_order":src["published_rank"],
            "result_status":"finalist" if finalist else "non_qualifier",
            "source_url":PAGE,"verification_status":"crosschecked_website_and_catalogue"}
+        if ratios["player"]<0.60:
+            e["player_source_mismatch"]={"catalogue":player,"published_page":src["player"]}
         entries.append(e)
     if len(entries)!=46 or sum(x["rank"] is not None for x in entries)!=25:raise ValueError("Expected 25 finalists")
     if issues:raise ValueError("Artist/song/player mismatches need manual review: "+json.dumps(issues,ensure_ascii=False))
@@ -99,10 +101,8 @@ def convert():
     output.write_text(json.dumps({"schema_version":1,"era":"modern","edition_key":"modern:6",
                                   "edition_number":6,"entries":entries},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("PASS_EDITION_6: 46 entries, 25 finalists, 21 nonqualifiers; final points isolated from nonqualifier points")
-    print("JSON_BASE64_BEGIN")
-    import base64
-    encoded=base64.b64encode(output.read_bytes()).decode("ascii")
-    for i in range(0,len(encoded),2500):print("DATA_CHUNK",encoded[i:i+2500])
-    print("JSON_BASE64_END")
+    print("JSON_DATA_BEGIN")
+    print("EDITION_DATA",json.dumps({"schema_version":1,"era":"modern","edition_key":"modern:6","edition_number":6,"entries":entries},ensure_ascii=False,separators=(",",":")))
+    print("JSON_DATA_END")
 
 if __name__=="__main__":convert()
