@@ -16,6 +16,8 @@ jobs:
         run: python scripts/validate_unified_results.py
       - name: Check import and inspection scripts compile
         run: python -m py_compile scripts/import_modern_results.py scripts/inspect_main_app.py scripts/validate_unified_results.py
+      - name: Inventory current application script structure (no results printed)
+        run: python scripts/inspect_main_app.py index.html
       - name: Check archive browser script syntax
         run: |
           python - <<'PY'
