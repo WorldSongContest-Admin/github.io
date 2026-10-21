@@ -18,7 +18,7 @@ jobs:
           ref: feature/modern-early-points-12-19
           persist-credentials: true
       - name: Import verified early editions
-        run: python scripts/enrich_modern_early_batch.py > /tmp/early-scores.log && grep -E 'VERIFIED_EDITION|NEEDS_REVIEW' /tmp/early-scores.log
+        run: python scripts/enrich_modern_early_batch.py > /tmp/early-scores.log && grep -E 'VERIFIED_EDITION|NEEDS_REVIEW|TABLE_SAMPLES' /tmp/early-scores.log
       - name: Validate full archive
         run: python scripts/validate_unified_results.py
       - name: Commit verified results only
