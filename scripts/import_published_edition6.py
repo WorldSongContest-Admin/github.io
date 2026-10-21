@@ -105,8 +105,5 @@ def convert():
     output.write_text(json.dumps({"schema_version":1,"era":"modern","edition_key":"modern:6",
                                   "edition_number":6,"entries":entries},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("PASS_EDITION_6: 46 entries, 25 finalists, 21 nonqualifiers; final points isolated from nonqualifier points")
-    print("JSON_DATA_BEGIN")
-    print("EDITION_DATA",json.dumps({"schema_version":1,"era":"modern","edition_key":"modern:6","edition_number":6,"entries":entries},ensure_ascii=False,separators=(",",":")))
-    print("JSON_DATA_END")
 
 if __name__=="__main__":convert()
