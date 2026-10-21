@@ -20,3 +20,7 @@ for term in ["points","score","edition","results","artist"]:
     if m:
         fragment=s[max(0,m.start()-80):m.end()+80]
         print("STRUCTURAL_CONTEXT",term,repr(''.join('A' if c.isalpha() else 'N' if c.isdigit() else c if c in '<>=:/;{}[],.()_' else ' ' for c in fragment)))
+
+print("LITERAL_TAG_COUNTS", {tag:s.lower().count("<"+tag) for tag in ["html","head","body","script","style","table","tr","td","section","div"]})
+print("FILE_PREFIX",repr(s[:270]))
+print("INDEX_LAST_CHARS",repr(s[-150:]))
