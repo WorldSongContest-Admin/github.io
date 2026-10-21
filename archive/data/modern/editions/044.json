@@ -476,7 +476,7 @@
       "artist_credit": "Vesta",
       "song_title": "Jää mun vieeren",
       "player": "Francesco",
-      "points": null,
+      "points": 44,
       "result_status": "finalist",
       "source_url": "https://github.com/WorldSongContest-Admin/github.io/blob/main/index.html#edition-44",
       "verification_status": "catalogue_verified_scores_pending",
@@ -484,7 +484,8 @@
       "semi_final": 2,
       "semi_final_points": 69,
       "semi_final_rank": 6,
-      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz-41-50/wsc-edition-44/"
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz-41-50/wsc-edition-44/",
+      "final_points_source": "https://wscgenz.wordpress.com/previous-contests/wsc-genz-41-50/wsc-edition-44/"
     },
     {
       "entry_id": "modern:44:norway",
