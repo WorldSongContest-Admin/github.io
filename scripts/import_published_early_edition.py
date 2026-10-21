@@ -28,7 +28,7 @@ class Parser(HTMLParser):
    if self.depth==1:self.tables.append(self.table)
    self.depth-=1
 
-ALIASES={"uk":"unitedkingdom","usa":"unitedstates","czechrep":"czechia",
+ALIASES={"uk":"unitedkingdom","usa":"unitedstates","czechrep":"czechia","czechrepublic":"czechia",
  "nmacedonia":"northmacedonia","bosniaherz":"bosniaherzegovina"}
 def norm(s):return re.sub(r"[^a-z0-9]","",html.unescape(s).casefold())
 def key(s):return ALIASES.get(norm(s),norm(s))
