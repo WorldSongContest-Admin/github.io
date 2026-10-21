@@ -747,8 +747,9 @@
       "verification_status": "catalogue_verified_scores_pending",
       "semi_final": 1,
       "semi_final_points": 28,
-      "semi_final_rank": null,
-      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-22/"
+      "semi_final_rank": 17,
+      "semi_final_source_url": "https://wscgenz.wordpress.com/previous-contests/wsc-genz21-genz30/wsc-genz-edition-22/",
+      "semi_final_held": true
     },
     {
       "entry_id": "modern:22:sanmarino",
