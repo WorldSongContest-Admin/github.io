@@ -29,7 +29,7 @@ class Parser(HTMLParser):
    self.depth-=1
 
 ALIASES={"uk":"unitedkingdom","usa":"unitedstates","czechrep":"czechia","czechrepublic":"czechia",
- "nmacedonia":"northmacedonia","bosniaherz":"bosniaherzegovina","trkiye":"turkiye","turkey":"turkiye","kazakshtan":"kazakhstan","unitedstatesofamerica":"unitedstates"}
+ "nmacedonia":"northmacedonia","bosniaherz":"bosniaherzegovina","thenetherlands":"netherlands","thephilippines":"philippines","phillippines":"philippines","fyrofmacedonia":"northmacedonia","trkiye":"turkiye","turkey":"turkiye","kazakshtan":"kazakhstan","unitedstatesofamerica":"unitedstates"}
 def norm(s):return re.sub(r"[^a-z0-9]","",html.unescape(s).casefold())
 def key(s):return ALIASES.get(norm(s),norm(s))
 def ranked(s):
