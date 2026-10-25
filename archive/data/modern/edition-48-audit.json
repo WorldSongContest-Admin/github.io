@@ -24,9 +24,17 @@
   "flags": [
     "Final workbook: Poland and Netherlands share rank 14 on 87 points; retained without inferred tiebreak.",
     "Semi 1 ties: Israel/Ethiopia 11th (54); Italy/Bulgaria 14th (49); USA/Belgium 18th (35). Workbook ranks retained.",
-    "Mexico final televote column contains no points; 18 of 19 non-finalist ballot columns are populated. Confirm whether intentional non-voting and whether any penalty applies. No penalty inferred.",
     "Non-qualifiers have no official overall final placement in these files. Final ranks/points remain null; semi ranks/points retained.",
     "WordPress Edition 48 page last modified before final results; vote-received markers are not evidence of final participation.",
     "Existing reveal configuration calls Canada’s running-order slot 19 final_position; this is not its final result (24). Retained for compatibility and flagged for clarification."
+  ],
+  "confirmed_notes": [
+    {
+      "country": "Mexico",
+      "final_vote_submitted": false,
+      "confirmed_by": "Organiser",
+      "confirmed_date": "2026-10-25",
+      "note": "Mexico did not vote in the Edition 48 final; the empty ballot column is expected. Official workbook results retained."
+    }
   ]
 }
