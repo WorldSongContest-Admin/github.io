@@ -1,0 +1,2598 @@
+{
+  "country": [
+    {
+      "name": "France",
+      "entries": 45,
+      "finals": 40,
+      "wins": 3,
+      "podiums": 19,
+      "known_final_points": 4463,
+      "scored_finals": 40
+    },
+    {
+      "name": "Portugal",
+      "entries": 40,
+      "finals": 29,
+      "wins": 3,
+      "podiums": 5,
+      "known_final_points": 2599,
+      "scored_finals": 29
+    },
+    {
+      "name": "Ukraine",
+      "entries": 47,
+      "finals": 42,
+      "wins": 2,
+      "podiums": 8,
+      "known_final_points": 4004,
+      "scored_finals": 42
+    },
+    {
+      "name": "Poland",
+      "entries": 48,
+      "finals": 44,
+      "wins": 2,
+      "podiums": 7,
+      "known_final_points": 4002,
+      "scored_finals": 44
+    },
+    {
+      "name": "United Kingdom",
+      "entries": 47,
+      "finals": 37,
+      "wins": 2,
+      "podiums": 7,
+      "known_final_points": 3490,
+      "scored_finals": 37
+    },
+    {
+      "name": "Greece",
+      "entries": 40,
+      "finals": 27,
+      "wins": 2,
+      "podiums": 6,
+      "known_final_points": 2443,
+      "scored_finals": 27
+    },
+    {
+      "name": "Sweden",
+      "entries": 48,
+      "finals": 40,
+      "wins": 2,
+      "podiums": 5,
+      "known_final_points": 3761,
+      "scored_finals": 40
+    },
+    {
+      "name": "Belgium",
+      "entries": 29,
+      "finals": 20,
+      "wins": 2,
+      "podiums": 5,
+      "known_final_points": 1910,
+      "scored_finals": 20
+    },
+    {
+      "name": "Russia",
+      "entries": 28,
+      "finals": 20,
+      "wins": 2,
+      "podiums": 5,
+      "known_final_points": 2046,
+      "scored_finals": 20
+    },
+    {
+      "name": "Spain",
+      "entries": 48,
+      "finals": 36,
+      "wins": 2,
+      "podiums": 4,
+      "known_final_points": 3106,
+      "scored_finals": 36
+    },
+    {
+      "name": "Netherlands",
+      "entries": 48,
+      "finals": 33,
+      "wins": 2,
+      "podiums": 3,
+      "known_final_points": 2585,
+      "scored_finals": 33
+    },
+    {
+      "name": "Serbia",
+      "entries": 45,
+      "finals": 24,
+      "wins": 2,
+      "podiums": 3,
+      "known_final_points": 1892,
+      "scored_finals": 24
+    },
+    {
+      "name": "Australia",
+      "entries": 45,
+      "finals": 30,
+      "wins": 2,
+      "podiums": 2,
+      "known_final_points": 2233,
+      "scored_finals": 30
+    },
+    {
+      "name": "Luxembourg",
+      "entries": 18,
+      "finals": 11,
+      "wins": 2,
+      "podiums": 2,
+      "known_final_points": 1193,
+      "scored_finals": 11
+    },
+    {
+      "name": "Türkiye",
+      "entries": 41,
+      "finals": 27,
+      "wins": 1,
+      "podiums": 4,
+      "known_final_points": 2147,
+      "scored_finals": 27
+    },
+    {
+      "name": "Japan",
+      "entries": 41,
+      "finals": 31,
+      "wins": 1,
+      "podiums": 3,
+      "known_final_points": 2694,
+      "scored_finals": 31
+    },
+    {
+      "name": "Mexico",
+      "entries": 40,
+      "finals": 30,
+      "wins": 1,
+      "podiums": 3,
+      "known_final_points": 2266,
+      "scored_finals": 30
+    },
+    {
+      "name": "North Macedonia",
+      "entries": 24,
+      "finals": 14,
+      "wins": 1,
+      "podiums": 3,
+      "known_final_points": 1241,
+      "scored_finals": 14
+    },
+    {
+      "name": "Italy",
+      "entries": 46,
+      "finals": 33,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 2526,
+      "scored_finals": 32
+    },
+    {
+      "name": "Argentina",
+      "entries": 47,
+      "finals": 30,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 2587,
+      "scored_finals": 30
+    },
+    {
+      "name": "Monaco",
+      "entries": 37,
+      "finals": 22,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 1562,
+      "scored_finals": 21
+    },
+    {
+      "name": "Canada",
+      "entries": 41,
+      "finals": 16,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 1146,
+      "scored_finals": 16
+    },
+    {
+      "name": "Germany",
+      "entries": 39,
+      "finals": 15,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 1316,
+      "scored_finals": 15
+    },
+    {
+      "name": "Romania",
+      "entries": 28,
+      "finals": 13,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 1012,
+      "scored_finals": 13
+    },
+    {
+      "name": "Bosnia & Herzegovina",
+      "entries": 33,
+      "finals": 25,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 1788,
+      "scored_finals": 25
+    },
+    {
+      "name": "South Africa",
+      "entries": 45,
+      "finals": 22,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 1893,
+      "scored_finals": 22
+    },
+    {
+      "name": "Brazil",
+      "entries": 42,
+      "finals": 21,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 1564,
+      "scored_finals": 21
+    },
+    {
+      "name": "Norway",
+      "entries": 39,
+      "finals": 19,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 1337,
+      "scored_finals": 19
+    },
+    {
+      "name": "New Zealand",
+      "entries": 17,
+      "finals": 11,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 899,
+      "scored_finals": 11
+    },
+    {
+      "name": "Croatia",
+      "entries": 10,
+      "finals": 7,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 528,
+      "scored_finals": 7
+    },
+    {
+      "name": "Switzerland",
+      "entries": 11,
+      "finals": 6,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 503,
+      "scored_finals": 6
+    },
+    {
+      "name": "Tunisia",
+      "entries": 7,
+      "finals": 5,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 441,
+      "scored_finals": 5
+    },
+    {
+      "name": "Israel",
+      "entries": 46,
+      "finals": 33,
+      "wins": 0,
+      "podiums": 4,
+      "known_final_points": 2821,
+      "scored_finals": 33
+    },
+    {
+      "name": "Iceland",
+      "entries": 33,
+      "finals": 21,
+      "wins": 0,
+      "podiums": 4,
+      "known_final_points": 1813,
+      "scored_finals": 21
+    },
+    {
+      "name": "Estonia",
+      "entries": 22,
+      "finals": 14,
+      "wins": 0,
+      "podiums": 3,
+      "known_final_points": 1239,
+      "scored_finals": 14
+    },
+    {
+      "name": "South Korea",
+      "entries": 41,
+      "finals": 26,
+      "wins": 0,
+      "podiums": 2,
+      "known_final_points": 2049,
+      "scored_finals": 26
+    },
+    {
+      "name": "Venezuela",
+      "entries": 44,
+      "finals": 26,
+      "wins": 0,
+      "podiums": 2,
+      "known_final_points": 2095,
+      "scored_finals": 26
+    },
+    {
+      "name": "China",
+      "entries": 22,
+      "finals": 15,
+      "wins": 0,
+      "podiums": 2,
+      "known_final_points": 1292,
+      "scored_finals": 15
+    },
+    {
+      "name": "Cyprus",
+      "entries": 13,
+      "finals": 9,
+      "wins": 0,
+      "podiums": 2,
+      "known_final_points": 825,
+      "scored_finals": 9
+    },
+    {
+      "name": "Egypt",
+      "entries": 35,
+      "finals": 19,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 1459,
+      "scored_finals": 19
+    },
+    {
+      "name": "Kazakhstan",
+      "entries": 31,
+      "finals": 17,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 1369,
+      "scored_finals": 17
+    },
+    {
+      "name": "Finland",
+      "entries": 29,
+      "finals": 14,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 943,
+      "scored_finals": 14
+    },
+    {
+      "name": "Indonesia",
+      "entries": 16,
+      "finals": 11,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 834,
+      "scored_finals": 11
+    },
+    {
+      "name": "Ireland",
+      "entries": 14,
+      "finals": 10,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 884,
+      "scored_finals": 10
+    },
+    {
+      "name": "Slovakia",
+      "entries": 12,
+      "finals": 10,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 803,
+      "scored_finals": 10
+    },
+    {
+      "name": "Taiwan",
+      "entries": 20,
+      "finals": 9,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 722,
+      "scored_finals": 9
+    },
+    {
+      "name": "San Marino",
+      "entries": 14,
+      "finals": 8,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 614,
+      "scored_finals": 8
+    },
+    {
+      "name": "Chile",
+      "entries": 13,
+      "finals": 7,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 513,
+      "scored_finals": 7
+    },
+    {
+      "name": "Syria",
+      "entries": 5,
+      "finals": 5,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 361,
+      "scored_finals": 5
+    },
+    {
+      "name": "Cape Verde",
+      "entries": 3,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 233,
+      "scored_finals": 2
+    },
+    {
+      "name": "Kenya",
+      "entries": 10,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 192,
+      "scored_finals": 2
+    },
+    {
+      "name": "United States",
+      "entries": 41,
+      "finals": 16,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 1099,
+      "scored_finals": 16
+    },
+    {
+      "name": "Czechia",
+      "entries": 22,
+      "finals": 14,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 1115,
+      "scored_finals": 14
+    },
+    {
+      "name": "Denmark",
+      "entries": 20,
+      "finals": 11,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 746,
+      "scored_finals": 11
+    },
+    {
+      "name": "Hungary",
+      "entries": 18,
+      "finals": 10,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 780,
+      "scored_finals": 10
+    },
+    {
+      "name": "Uruguay",
+      "entries": 21,
+      "finals": 10,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 743,
+      "scored_finals": 10
+    },
+    {
+      "name": "India",
+      "entries": 18,
+      "finals": 8,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 582,
+      "scored_finals": 8
+    },
+    {
+      "name": "Lithuania",
+      "entries": 13,
+      "finals": 7,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 629,
+      "scored_finals": 7
+    },
+    {
+      "name": "Armenia",
+      "entries": 14,
+      "finals": 6,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 426,
+      "scored_finals": 6
+    },
+    {
+      "name": "Vietnam",
+      "entries": 12,
+      "finals": 6,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 260,
+      "scored_finals": 6
+    },
+    {
+      "name": "Lebanon",
+      "entries": 5,
+      "finals": 5,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 365,
+      "scored_finals": 5
+    },
+    {
+      "name": "Bulgaria",
+      "entries": 15,
+      "finals": 4,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 345,
+      "scored_finals": 4
+    },
+    {
+      "name": "Jamaica",
+      "entries": 6,
+      "finals": 4,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 344,
+      "scored_finals": 4
+    },
+    {
+      "name": "Nigeria",
+      "entries": 7,
+      "finals": 4,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 287,
+      "scored_finals": 4
+    },
+    {
+      "name": "Saudi Arabia",
+      "entries": 4,
+      "finals": 4,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 328,
+      "scored_finals": 4
+    },
+    {
+      "name": "Albania",
+      "entries": 16,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 209,
+      "scored_finals": 3
+    },
+    {
+      "name": "Colombia",
+      "entries": 8,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 290,
+      "scored_finals": 3
+    },
+    {
+      "name": "DR of Congo",
+      "entries": 6,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 205,
+      "scored_finals": 3
+    },
+    {
+      "name": "Ghana",
+      "entries": 3,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 213,
+      "scored_finals": 3
+    },
+    {
+      "name": "Iran",
+      "entries": 4,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 169,
+      "scored_finals": 3
+    },
+    {
+      "name": "Mali",
+      "entries": 4,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 188,
+      "scored_finals": 3
+    },
+    {
+      "name": "Tanzania",
+      "entries": 8,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 256,
+      "scored_finals": 3
+    },
+    {
+      "name": "Thailand",
+      "entries": 8,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 254,
+      "scored_finals": 3
+    },
+    {
+      "name": "Andorra",
+      "entries": 6,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 78,
+      "scored_finals": 2
+    },
+    {
+      "name": "Angola",
+      "entries": 2,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 126,
+      "scored_finals": 2
+    },
+    {
+      "name": "Cuba",
+      "entries": 3,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 156,
+      "scored_finals": 2
+    },
+    {
+      "name": "Ecuador",
+      "entries": 2,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 93,
+      "scored_finals": 2
+    },
+    {
+      "name": "Moldova",
+      "entries": 8,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 140,
+      "scored_finals": 2
+    },
+    {
+      "name": "Morocco",
+      "entries": 9,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 212,
+      "scored_finals": 2
+    },
+    {
+      "name": "Philippines",
+      "entries": 6,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 79,
+      "scored_finals": 2
+    },
+    {
+      "name": "Trinidad & Tobago",
+      "entries": 2,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 139,
+      "scored_finals": 2
+    },
+    {
+      "name": "Uzbekistan",
+      "entries": 3,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 214,
+      "scored_finals": 2
+    },
+    {
+      "name": "Ethiopia",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 60,
+      "scored_finals": 1
+    },
+    {
+      "name": "Ivory Coast",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 112,
+      "scored_finals": 1
+    },
+    {
+      "name": "Malta",
+      "entries": 2,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 125,
+      "scored_finals": 1
+    },
+    {
+      "name": "Mozambique",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 93,
+      "scored_finals": 1
+    },
+    {
+      "name": "Pakistan",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 113,
+      "scored_finals": 1
+    },
+    {
+      "name": "Sudan",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 61,
+      "scored_finals": 1
+    },
+    {
+      "name": "Turkmenistan",
+      "entries": 3,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 59,
+      "scored_finals": 1
+    },
+    {
+      "name": "Zimbabwe",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 106,
+      "scored_finals": 1
+    },
+    {
+      "name": "Austria",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Latvia",
+      "entries": 2,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Mongolia",
+      "entries": 2,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Puerto Rico",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Singapore",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Slovenia",
+      "entries": 2,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    }
+  ],
+  "player": [
+    {
+      "name": "Nicolas",
+      "entries": 41,
+      "finals": 40,
+      "wins": 3,
+      "podiums": 18,
+      "known_final_points": 4375,
+      "scored_finals": 40
+    },
+    {
+      "name": "Dimi",
+      "entries": 48,
+      "finals": 42,
+      "wins": 3,
+      "podiums": 8,
+      "known_final_points": 3975,
+      "scored_finals": 42
+    },
+    {
+      "name": "Kai",
+      "entries": 48,
+      "finals": 44,
+      "wins": 2,
+      "podiums": 7,
+      "known_final_points": 4002,
+      "scored_finals": 44
+    },
+    {
+      "name": "Aleksandar",
+      "entries": 44,
+      "finals": 31,
+      "wins": 2,
+      "podiums": 6,
+      "known_final_points": 2746,
+      "scored_finals": 31
+    },
+    {
+      "name": "Tim",
+      "entries": 48,
+      "finals": 40,
+      "wins": 2,
+      "podiums": 5,
+      "known_final_points": 3761,
+      "scored_finals": 40
+    },
+    {
+      "name": "Robert",
+      "entries": 48,
+      "finals": 36,
+      "wins": 2,
+      "podiums": 4,
+      "known_final_points": 3106,
+      "scored_finals": 36
+    },
+    {
+      "name": "Dean",
+      "entries": 29,
+      "finals": 22,
+      "wins": 2,
+      "podiums": 4,
+      "known_final_points": 1900,
+      "scored_finals": 22
+    },
+    {
+      "name": "Jay",
+      "entries": 48,
+      "finals": 33,
+      "wins": 2,
+      "podiums": 3,
+      "known_final_points": 2585,
+      "scored_finals": 33
+    },
+    {
+      "name": "Vasyl",
+      "entries": 23,
+      "finals": 21,
+      "wins": 2,
+      "podiums": 3,
+      "known_final_points": 2005,
+      "scored_finals": 21
+    },
+    {
+      "name": "Manuel",
+      "entries": 25,
+      "finals": 18,
+      "wins": 2,
+      "podiums": 3,
+      "known_final_points": 1664,
+      "scored_finals": 18
+    },
+    {
+      "name": "Zlatko",
+      "entries": 40,
+      "finals": 27,
+      "wins": 1,
+      "podiums": 7,
+      "known_final_points": 2442,
+      "scored_finals": 27
+    },
+    {
+      "name": "Illar",
+      "entries": 46,
+      "finals": 34,
+      "wins": 1,
+      "podiums": 6,
+      "known_final_points": 2862,
+      "scored_finals": 34
+    },
+    {
+      "name": "Tom",
+      "entries": 47,
+      "finals": 35,
+      "wins": 1,
+      "podiums": 4,
+      "known_final_points": 3109,
+      "scored_finals": 35
+    },
+    {
+      "name": "Kaz",
+      "entries": 32,
+      "finals": 23,
+      "wins": 1,
+      "podiums": 4,
+      "known_final_points": 1873,
+      "scored_finals": 23
+    },
+    {
+      "name": "Jonathan",
+      "entries": 7,
+      "finals": 7,
+      "wins": 1,
+      "podiums": 3,
+      "known_final_points": 920,
+      "scored_finals": 7
+    },
+    {
+      "name": "Christian",
+      "entries": 45,
+      "finals": 28,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 2478,
+      "scored_finals": 28
+    },
+    {
+      "name": "Matt",
+      "entries": 37,
+      "finals": 19,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 1593,
+      "scored_finals": 19
+    },
+    {
+      "name": "Brenno",
+      "entries": 28,
+      "finals": 13,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 1001,
+      "scored_finals": 13
+    },
+    {
+      "name": "Sanio",
+      "entries": 19,
+      "finals": 12,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 1027,
+      "scored_finals": 12
+    },
+    {
+      "name": "Neal",
+      "entries": 15,
+      "finals": 8,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 751,
+      "scored_finals": 8
+    },
+    {
+      "name": "Philippe",
+      "entries": 18,
+      "finals": 6,
+      "wins": 1,
+      "podiums": 2,
+      "known_final_points": 522,
+      "scored_finals": 6
+    },
+    {
+      "name": "Anel",
+      "entries": 33,
+      "finals": 25,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 1788,
+      "scored_finals": 25
+    },
+    {
+      "name": "Herbert",
+      "entries": 37,
+      "finals": 22,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 1667,
+      "scored_finals": 22
+    },
+    {
+      "name": "David",
+      "entries": 29,
+      "finals": 15,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 997,
+      "scored_finals": 15
+    },
+    {
+      "name": "Samuel",
+      "entries": 23,
+      "finals": 15,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 1386,
+      "scored_finals": 15
+    },
+    {
+      "name": "Amanda",
+      "entries": 30,
+      "finals": 13,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 783,
+      "scored_finals": 13
+    },
+    {
+      "name": "Rodolfo",
+      "entries": 23,
+      "finals": 11,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 857,
+      "scored_finals": 11
+    },
+    {
+      "name": "Adad",
+      "entries": 14,
+      "finals": 9,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 661,
+      "scored_finals": 9
+    },
+    {
+      "name": "Filip",
+      "entries": 8,
+      "finals": 7,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 528,
+      "scored_finals": 7
+    },
+    {
+      "name": "Marcel",
+      "entries": 19,
+      "finals": 7,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 520,
+      "scored_finals": 7
+    },
+    {
+      "name": "Marko",
+      "entries": 10,
+      "finals": 7,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 734,
+      "scored_finals": 7
+    },
+    {
+      "name": "Alexis",
+      "entries": 7,
+      "finals": 6,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 530,
+      "scored_finals": 6
+    },
+    {
+      "name": "Pranali",
+      "entries": 11,
+      "finals": 6,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 389,
+      "scored_finals": 6
+    },
+    {
+      "name": "Suri",
+      "entries": 8,
+      "finals": 4,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 459,
+      "scored_finals": 4
+    },
+    {
+      "name": "Igor",
+      "entries": 3,
+      "finals": 2,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 263,
+      "scored_finals": 2
+    },
+    {
+      "name": "Will",
+      "entries": 2,
+      "finals": 2,
+      "wins": 1,
+      "podiums": 1,
+      "known_final_points": 262,
+      "scored_finals": 2
+    },
+    {
+      "name": "Vassyl",
+      "entries": 22,
+      "finals": 20,
+      "wins": 0,
+      "podiums": 5,
+      "known_final_points": 1905,
+      "scored_finals": 20
+    },
+    {
+      "name": "Rami",
+      "entries": 46,
+      "finals": 33,
+      "wins": 0,
+      "podiums": 4,
+      "known_final_points": 2821,
+      "scored_finals": 33
+    },
+    {
+      "name": "Vianney",
+      "entries": 48,
+      "finals": 29,
+      "wins": 0,
+      "podiums": 3,
+      "known_final_points": 2350,
+      "scored_finals": 29
+    },
+    {
+      "name": "Rafiki",
+      "entries": 17,
+      "finals": 15,
+      "wins": 0,
+      "podiums": 3,
+      "known_final_points": 1438,
+      "scored_finals": 15
+    },
+    {
+      "name": "Pedro",
+      "entries": 44,
+      "finals": 26,
+      "wins": 0,
+      "podiums": 2,
+      "known_final_points": 2095,
+      "scored_finals": 26
+    },
+    {
+      "name": "Addad",
+      "entries": 26,
+      "finals": 21,
+      "wins": 0,
+      "podiums": 2,
+      "known_final_points": 1605,
+      "scored_finals": 21
+    },
+    {
+      "name": "Konstantinos",
+      "entries": 14,
+      "finals": 11,
+      "wins": 0,
+      "podiums": 2,
+      "known_final_points": 959,
+      "scored_finals": 11
+    },
+    {
+      "name": "Ahmad",
+      "entries": 29,
+      "finals": 16,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 1219,
+      "scored_finals": 16
+    },
+    {
+      "name": "Gulira",
+      "entries": 27,
+      "finals": 16,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 1285,
+      "scored_finals": 16
+    },
+    {
+      "name": "Paolo",
+      "entries": 15,
+      "finals": 11,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 738,
+      "scored_finals": 10
+    },
+    {
+      "name": "Deo",
+      "entries": 16,
+      "finals": 10,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 693,
+      "scored_finals": 10
+    },
+    {
+      "name": "Marcus",
+      "entries": 15,
+      "finals": 10,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 860,
+      "scored_finals": 10
+    },
+    {
+      "name": "Romain",
+      "entries": 6,
+      "finals": 5,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 466,
+      "scored_finals": 5
+    },
+    {
+      "name": "Tulio",
+      "entries": 11,
+      "finals": 5,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 419,
+      "scored_finals": 5
+    },
+    {
+      "name": "Andriy",
+      "entries": 3,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 201,
+      "scored_finals": 3
+    },
+    {
+      "name": "Julian",
+      "entries": 6,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 416,
+      "scored_finals": 3
+    },
+    {
+      "name": "Jeremy",
+      "entries": 10,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 192,
+      "scored_finals": 2
+    },
+    {
+      "name": "Marcus V",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 161,
+      "scored_finals": 1
+    },
+    {
+      "name": "Stéphane",
+      "entries": 2,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 1,
+      "known_final_points": 139,
+      "scored_finals": 1
+    },
+    {
+      "name": "Ivan",
+      "entries": 35,
+      "finals": 15,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 1103,
+      "scored_finals": 15
+    },
+    {
+      "name": "Michiel",
+      "entries": 24,
+      "finals": 15,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 1149,
+      "scored_finals": 15
+    },
+    {
+      "name": "Felipe",
+      "entries": 23,
+      "finals": 14,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 848,
+      "scored_finals": 13
+    },
+    {
+      "name": "Ângie",
+      "entries": 22,
+      "finals": 14,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 825,
+      "scored_finals": 14
+    },
+    {
+      "name": "Daniel",
+      "entries": 34,
+      "finals": 12,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 872,
+      "scored_finals": 12
+    },
+    {
+      "name": "Francesco",
+      "entries": 26,
+      "finals": 12,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 818,
+      "scored_finals": 12
+    },
+    {
+      "name": "James",
+      "entries": 24,
+      "finals": 10,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 691,
+      "scored_finals": 10
+    },
+    {
+      "name": "Nils",
+      "entries": 16,
+      "finals": 10,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 610,
+      "scored_finals": 10
+    },
+    {
+      "name": "Gabriel",
+      "entries": 26,
+      "finals": 9,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 663,
+      "scored_finals": 9
+    },
+    {
+      "name": "József",
+      "entries": 16,
+      "finals": 9,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 671,
+      "scored_finals": 9
+    },
+    {
+      "name": "Jammil",
+      "entries": 18,
+      "finals": 8,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 355,
+      "scored_finals": 8
+    },
+    {
+      "name": "Lucia",
+      "entries": 14,
+      "finals": 8,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 562,
+      "scored_finals": 8
+    },
+    {
+      "name": "André",
+      "entries": 10,
+      "finals": 7,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 564,
+      "scored_finals": 7
+    },
+    {
+      "name": "Christoforus",
+      "entries": 11,
+      "finals": 6,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 393,
+      "scored_finals": 6
+    },
+    {
+      "name": "Kim",
+      "entries": 9,
+      "finals": 6,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 554,
+      "scored_finals": 6
+    },
+    {
+      "name": "Alex",
+      "entries": 11,
+      "finals": 5,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 390,
+      "scored_finals": 5
+    },
+    {
+      "name": "Daiva",
+      "entries": 11,
+      "finals": 5,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 377,
+      "scored_finals": 5
+    },
+    {
+      "name": "Gareth",
+      "entries": 10,
+      "finals": 5,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 381,
+      "scored_finals": 5
+    },
+    {
+      "name": "José",
+      "entries": 11,
+      "finals": 5,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 352,
+      "scored_finals": 5
+    },
+    {
+      "name": "Tijs",
+      "entries": 7,
+      "finals": 5,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 263,
+      "scored_finals": 5
+    },
+    {
+      "name": "Danuse",
+      "entries": 10,
+      "finals": 4,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 327,
+      "scored_finals": 4
+    },
+    {
+      "name": "Gauthier",
+      "entries": 6,
+      "finals": 4,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 344,
+      "scored_finals": 4
+    },
+    {
+      "name": "Ade",
+      "entries": 8,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 256,
+      "scored_finals": 3
+    },
+    {
+      "name": "Dan",
+      "entries": 4,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 202,
+      "scored_finals": 3
+    },
+    {
+      "name": "Felipe A",
+      "entries": 12,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 205,
+      "scored_finals": 3
+    },
+    {
+      "name": "Fernando",
+      "entries": 3,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 220,
+      "scored_finals": 3
+    },
+    {
+      "name": "Javier",
+      "entries": 5,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 211,
+      "scored_finals": 3
+    },
+    {
+      "name": "Owen",
+      "entries": 4,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 184,
+      "scored_finals": 3
+    },
+    {
+      "name": "Pade",
+      "entries": 7,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 254,
+      "scored_finals": 3
+    },
+    {
+      "name": "Valério",
+      "entries": 9,
+      "finals": 3,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 216,
+      "scored_finals": 3
+    },
+    {
+      "name": "Andee",
+      "entries": 2,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 162,
+      "scored_finals": 2
+    },
+    {
+      "name": "Christ",
+      "entries": 2,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 109,
+      "scored_finals": 2
+    },
+    {
+      "name": "Elias",
+      "entries": 3,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 269,
+      "scored_finals": 2
+    },
+    {
+      "name": "Felipe D",
+      "entries": 5,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 156,
+      "scored_finals": 2
+    },
+    {
+      "name": "Genia",
+      "entries": 4,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 232,
+      "scored_finals": 2
+    },
+    {
+      "name": "Guilherme",
+      "entries": 2,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 139,
+      "scored_finals": 2
+    },
+    {
+      "name": "Jorge",
+      "entries": 3,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 191,
+      "scored_finals": 2
+    },
+    {
+      "name": "Lara R",
+      "entries": 3,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 156,
+      "scored_finals": 2
+    },
+    {
+      "name": "Mans",
+      "entries": 3,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 121,
+      "scored_finals": 2
+    },
+    {
+      "name": "Matheus",
+      "entries": 7,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 212,
+      "scored_finals": 2
+    },
+    {
+      "name": "Paschalis",
+      "entries": 4,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 166,
+      "scored_finals": 2
+    },
+    {
+      "name": "Pavel",
+      "entries": 2,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 177,
+      "scored_finals": 2
+    },
+    {
+      "name": "Sandra",
+      "entries": 11,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 179,
+      "scored_finals": 2
+    },
+    {
+      "name": "Yvan",
+      "entries": 2,
+      "finals": 2,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 157,
+      "scored_finals": 2
+    },
+    {
+      "name": "Ahmed",
+      "entries": 2,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 83,
+      "scored_finals": 1
+    },
+    {
+      "name": "Barbara",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 68,
+      "scored_finals": 1
+    },
+    {
+      "name": "Bryan",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 122,
+      "scored_finals": 1
+    },
+    {
+      "name": "Christoforus A",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 68,
+      "scored_finals": 1
+    },
+    {
+      "name": "Clau F.",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 49,
+      "scored_finals": 1
+    },
+    {
+      "name": "Constantinos",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 95,
+      "scored_finals": 1
+    },
+    {
+      "name": "Duda",
+      "entries": 3,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 93,
+      "scored_finals": 1
+    },
+    {
+      "name": "Fabricio",
+      "entries": 4,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 85,
+      "scored_finals": 1
+    },
+    {
+      "name": "Gwendal",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 55,
+      "scored_finals": 1
+    },
+    {
+      "name": "Harvey",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 106,
+      "scored_finals": 1
+    },
+    {
+      "name": "Heidi",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 29,
+      "scored_finals": 1
+    },
+    {
+      "name": "Hugo",
+      "entries": 3,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 46,
+      "scored_finals": 1
+    },
+    {
+      "name": "Javier G",
+      "entries": 3,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 32,
+      "scored_finals": 1
+    },
+    {
+      "name": "Javier L",
+      "entries": 2,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 56,
+      "scored_finals": 1
+    },
+    {
+      "name": "Jeffrey",
+      "entries": 5,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 118,
+      "scored_finals": 1
+    },
+    {
+      "name": "Jivone",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 79,
+      "scored_finals": 1
+    },
+    {
+      "name": "John",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 105,
+      "scored_finals": 1
+    },
+    {
+      "name": "Manoel",
+      "entries": 2,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 65,
+      "scored_finals": 1
+    },
+    {
+      "name": "Marcelo",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 49,
+      "scored_finals": 1
+    },
+    {
+      "name": "Marcus L",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 100,
+      "scored_finals": 1
+    },
+    {
+      "name": "Nuno",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 57,
+      "scored_finals": 1
+    },
+    {
+      "name": "Paula",
+      "entries": 8,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 84,
+      "scored_finals": 1
+    },
+    {
+      "name": "Paulo",
+      "entries": 3,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 36,
+      "scored_finals": 1
+    },
+    {
+      "name": "Sandy",
+      "entries": 2,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 109,
+      "scored_finals": 1
+    },
+    {
+      "name": "Stéphane D",
+      "entries": 2,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 75,
+      "scored_finals": 1
+    },
+    {
+      "name": "Svai",
+      "entries": 3,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 121,
+      "scored_finals": 1
+    },
+    {
+      "name": "Vasco",
+      "entries": 1,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 113,
+      "scored_finals": 1
+    },
+    {
+      "name": "Vladimir",
+      "entries": 3,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 71,
+      "scored_finals": 1
+    },
+    {
+      "name": "Éricles",
+      "entries": 2,
+      "finals": 1,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 99,
+      "scored_finals": 1
+    },
+    {
+      "name": "Adrián",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Alexis F",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Bryon",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Ciaran",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Clau",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Claudia",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Felipe G",
+      "entries": 2,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Fukumi",
+      "entries": 2,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Gianluca",
+      "entries": 2,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Hermes",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "James T.",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Joao",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Jose K",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Jose M",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Lara Rebecca",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Marvus V",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Paula R.",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Pedro H",
+      "entries": 6,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Ronnie",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Rosilaine",
+      "entries": 2,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    },
+    {
+      "name": "Vanja",
+      "entries": 1,
+      "finals": 0,
+      "wins": 0,
+      "podiums": 0,
+      "known_final_points": 0,
+      "scored_finals": 0
+    }
+  ],
+  "scope": "Modern Era editions 1–48; points are known final totals only, not normalised. Incomplete historical records affect counts.",
+  "winners": [
+    {
+      "edition": 1,
+      "country": "Ukraine",
+      "artist": "Alina Pash",
+      "song": "Bosorkanya",
+      "player": "Vasyl",
+      "points": 170
+    },
+    {
+      "edition": 2,
+      "country": "Russia",
+      "artist": "Zivert",
+      "song": "Beverly Hills",
+      "player": "Igor",
+      "points": 186
+    },
+    {
+      "edition": 3,
+      "country": "Luxembourg",
+      "artist": "Yseult",
+      "song": "Corps",
+      "player": "Marko",
+      "points": 214
+    },
+    {
+      "edition": 4,
+      "country": "Spain",
+      "artist": "Zahara",
+      "song": "Merichane",
+      "player": "Robert",
+      "points": 151
+    },
+    {
+      "edition": 5,
+      "country": "Netherlands",
+      "artist": "Eefje de Visser",
+      "song": "De Parade",
+      "player": "Jay",
+      "points": 164
+    },
+    {
+      "edition": 6,
+      "country": "Belgium",
+      "artist": "Antoine Wielemans",
+      "song": "Sel",
+      "player": "Jonathan",
+      "points": 157
+    },
+    {
+      "edition": 7,
+      "country": "New Zealand",
+      "artist": "Harper Finn",
+      "song": "Dance Away These Days",
+      "player": "Will",
+      "points": 200
+    },
+    {
+      "edition": 8,
+      "country": "Portugal",
+      "artist": "Gisela João",
+      "song": "Já não choro por ti",
+      "player": "Sanio",
+      "points": 144
+    },
+    {
+      "edition": 9,
+      "country": "Australia",
+      "artist": "RÜFÜS DU SOL",
+      "song": "I Don't Wanna Leave",
+      "player": "Dimi",
+      "points": 146
+    },
+    {
+      "edition": 10,
+      "country": "Germany",
+      "artist": "Juju",
+      "song": "Vertrau mir",
+      "player": "Alexis",
+      "points": 176
+    },
+    {
+      "edition": 11,
+      "country": "Argentina",
+      "artist": "Mel Muñiz",
+      "song": "Aguerrida",
+      "player": "Christian",
+      "points": 179
+    },
+    {
+      "edition": 12,
+      "country": "Monaco",
+      "artist": "Juliette Arment",
+      "song": "Le Dernier Jour Du Disco",
+      "player": "Pranali",
+      "points": 137
+    },
+    {
+      "edition": 13,
+      "country": "Greece",
+      "artist": "Good Job Nicky",
+      "song": "Heaven is a Sin",
+      "player": "Dean",
+      "points": 138
+    },
+    {
+      "edition": 14,
+      "country": "France",
+      "artist": "CHÉRI",
+      "song": "Mira Me",
+      "player": "Nicolas",
+      "points": 117
+    },
+    {
+      "edition": 15,
+      "country": "France",
+      "artist": "Mathilda",
+      "song": "(It Could Have Been) Love",
+      "player": "Nicolas",
+      "points": 126
+    },
+    {
+      "edition": 16,
+      "country": "Netherlands",
+      "artist": "MEROL",
+      "song": "Vol",
+      "player": "Jay",
+      "points": 132
+    },
+    {
+      "edition": 17,
+      "country": "Croatia",
+      "artist": "Baby Babilon ft. Lino Rocha",
+      "song": "Indijanka",
+      "player": "Filip",
+      "points": 134
+    },
+    {
+      "edition": 18,
+      "country": "Brazil",
+      "artist": "Juliana Linhares",
+      "song": "Bombinha",
+      "player": "Rodolfo",
+      "points": 192
+    },
+    {
+      "edition": 19,
+      "country": "South Africa",
+      "artist": "Nakhane ft. ANOHNI",
+      "song": "New Brighton",
+      "player": "Samuel",
+      "points": 119
+    },
+    {
+      "edition": 20,
+      "country": "Poland",
+      "artist": "Asia Nawojska",
+      "song": "Czekam",
+      "player": "Kai",
+      "points": 124
+    },
+    {
+      "edition": 21,
+      "country": "Poland",
+      "artist": "Karolina Cicha & SWADA",
+      "song": "PKS do Gródka",
+      "player": "Kai",
+      "points": 133
+    },
+    {
+      "edition": 22,
+      "country": "Ukraine",
+      "artist": "Authentix",
+      "song": "Mavka",
+      "player": "Vasyl",
+      "points": 167
+    },
+    {
+      "edition": 23,
+      "country": "Serbia",
+      "artist": "Danica Crnogorčević",
+      "song": "Rano Moja",
+      "player": "Aleksandar",
+      "points": 130
+    },
+    {
+      "edition": 24,
+      "country": "Mexico",
+      "artist": "Don Couto & Melisa Castellanos",
+      "song": "Negro Santo",
+      "player": "Adad",
+      "points": 121
+    },
+    {
+      "edition": 25,
+      "country": "Sweden",
+      "artist": "Orphée Noah",
+      "song": "Attack On Us",
+      "player": "Tim",
+      "points": 116
+    },
+    {
+      "edition": 26,
+      "country": "United Kingdom",
+      "artist": "LYNKS",
+      "song": "Use it Or Lose It",
+      "player": "Dimi",
+      "points": 146
+    },
+    {
+      "edition": 27,
+      "country": "France",
+      "artist": "November Ultra",
+      "song": "corazón caramelo",
+      "player": "Nicolas",
+      "points": 146
+    },
+    {
+      "edition": 28,
+      "country": "Portugal",
+      "artist": "Sara Correia",
+      "song": "Chelas",
+      "player": "Manuel",
+      "points": 146
+    },
+    {
+      "edition": 29,
+      "country": "Bosnia & Herzegovina",
+      "artist": "Božo Vrećo",
+      "song": "Po ladu, po zaladu",
+      "player": "Anel",
+      "points": 141
+    },
+    {
+      "edition": 30,
+      "country": "Australia",
+      "artist": "Glass Beams",
+      "song": "Mahal",
+      "player": "David",
+      "points": 145
+    },
+    {
+      "edition": 31,
+      "country": "Switzerland",
+      "artist": "Meimuna",
+      "song": "Où vont les Tempêtes",
+      "player": "Herbert",
+      "points": 150
+    },
+    {
+      "edition": 32,
+      "country": "North Macedonia",
+      "artist": "Cyrillic",
+      "song": "Sevda",
+      "player": "Zlatko",
+      "points": 140
+    },
+    {
+      "edition": 33,
+      "country": "Japan",
+      "artist": "Ichiko Aoba",
+      "song": "Porcelain",
+      "player": "Tom",
+      "points": 135
+    },
+    {
+      "edition": 34,
+      "country": "Norway",
+      "artist": "Manne & Inger Márjá feat. Arctic Philharmonic",
+      "song": "Dárbbašan du",
+      "player": "Amanda",
+      "points": 133
+    },
+    {
+      "edition": 35,
+      "country": "Tunisia",
+      "artist": "Ghoula",
+      "song": "Ma Andich",
+      "player": "Illar",
+      "points": 162
+    },
+    {
+      "edition": 36,
+      "country": "Portugal",
+      "artist": "Karetus, Vitorino & iolanda",
+      "song": "Laurinda",
+      "player": "Manuel",
+      "points": 134
+    },
+    {
+      "edition": 37,
+      "country": "Greece",
+      "artist": "Dafné Kritharas",
+      "song": "Xapa",
+      "player": "Dean",
+      "points": 150
+    },
+    {
+      "edition": 38,
+      "country": "Italy",
+      "artist": "LA NIÑA",
+      "song": "Figlia d'a Tempesta",
+      "player": "Matt",
+      "points": 145
+    },
+    {
+      "edition": 39,
+      "country": "Türkiye",
+      "artist": "Acid Arab ft EDIS",
+      "song": "Yaktin Beni",
+      "player": "Kaz",
+      "points": 152
+    },
+    {
+      "edition": 40,
+      "country": "Spain",
+      "artist": "Las Migas",
+      "song": "Celos",
+      "player": "Robert",
+      "points": 164
+    },
+    {
+      "edition": 41,
+      "country": "Luxembourg",
+      "artist": "Adriano Selva",
+      "song": "Larmes sur Mer",
+      "player": "Suri",
+      "points": 183
+    },
+    {
+      "edition": 42,
+      "country": "Serbia",
+      "artist": "Džipsii",
+      "song": "Skloni Se",
+      "player": "Marcel",
+      "points": 155
+    },
+    {
+      "edition": 43,
+      "country": "Russia",
+      "artist": "Green Apelsin",
+      "song": "parfyumer",
+      "player": "Aleksandar",
+      "points": 169
+    },
+    {
+      "edition": 44,
+      "country": "Belgium",
+      "artist": "Ão",
+      "song": "Orgulho",
+      "player": "Neal",
+      "points": 163
+    },
+    {
+      "edition": 45,
+      "country": "Romania",
+      "artist": "David Ciente x Irina Rimes",
+      "song": "Lelele",
+      "player": "Brenno",
+      "points": 154
+    },
+    {
+      "edition": 46,
+      "country": "Sweden",
+      "artist": "GENER8ION x Yung Lean",
+      "song": "Storm",
+      "player": "Tim",
+      "points": 143
+    },
+    {
+      "edition": 47,
+      "country": "Canada",
+      "artist": "Rêve",
+      "song": "Devour",
+      "player": "Philippe",
+      "points": 166
+    },
+    {
+      "edition": 48,
+      "country": "United Kingdom",
+      "artist": "Charlie Jeer",
+      "song": "My Madonna",
+      "player": "Dimi",
+      "points": 211
+    }
+  ]
+}
